@@ -3,6 +3,130 @@ Change Log
 
 _If we jump numbers at all, it's probably because it just fixed something minor we didn't make a note of, or maybe we just don't like that number._
 
+## 1.3.0 (2017-12-12)
+
+### New stuffs
+
+* Mystic has arrived! She is now enabled.... minus awakening of course.
+
+* #### Added Asula accessory set
+*  - Asula's Crimson Eye Necklace
+*  - Asula's Crimson Eye Belt
+*  - Asula's Crimson Eye Ring
+*  - Asula's Crimson Eye Earring
+
+* #### Added Kamasylvia part 1 items
+*  - Spirit Stones (Disposable Alchemy Stones) - Green/Blue versions of Life, Guardian and Destruction.
+*  - Valtarra Eclipsed Belt
+*  - Narc Ear Accessory
+*  - Anbelif Earring
+*  - Griffon's Helmet (new boss helmet)
+*  - Black Leopard Armor craftable outfit
+
+* #### Oct 18th patch items update
+*  - Loure Armor Set
+*  - Root treant and treant spirt accessory set
+*  - Chimera's pupil gem (earring)
+*  - Delphad Castillion's Carnage main weapons for all classes
+*  - Kaia necklace
+*  - Added set effect for valencia quest rings
+
+- Added Capotia Ring and Earring (level 61 and 62 rewards)
+- Added Freed and Roaring Magical secondary weapons
+- Added Ultimate Green Awakening Weapons for all classes (except mystic)
+
+* #### Added Kamasylvia part 2 items
+*  - Lemoria Armor set
+*  - Added Lemoria set to all Liverto weapons
+*  - Tungrad Belt
+*  - Grana Oath Earring
+*  - Grana Guardian Necklace
+*  - Grana Harmony Ring
+*  - Forest Ronaros Ring
+*  - Urugon's Shoes (new boss shoes)
+
+* #### Other item additions
+* Added Capotia Belt (level 63 reward)
+* Added Black Abyssal main weapons for all classes
+* Added Mediah Merchants Union Helm
+* Added Derek's Light Leather Shoes
+* Added Beia's Black Magic Gloves
+
+#### Hidden stats revealed!
+* Too much to list, if it had a hidden stat it is now shown with the exception of set bonuses like grunil, but that only applies to ingame not here.
+* Added once hidden stats to all items where applicable.
+* Added Extra Damage against humans to all dandelion awakening weapons except mystic, which will be added when her awakening comes.
+
+### Bugs
+* Fixed Ridell Earring Base DP
+* Fixed green/blue taritas and zereth helmet enhancement stats.
+
+### Changes
+- Minor database cleanup
+- Changed Jarrette's set from 4 / 6 to 3 / 5
+- Renamed bow.json (maehwa/musa secondary weapon) to shortbow.json
+- Renamed kunoichi.json (kunoichi secondary weapon) to kunai.json
+- Added those changes to bdo_database.php
+- Added Grana set for the kama 2 questline items (earring, ring, necklace)
+- Added Skill Exp stat type
+- Added hev (Hidden Evasion) stat type
+- Added hdr (Hidden Damage Reduction) stat type
+
+* #### Removed the following as they don't exist ingame:
+*  - 11918 - Forest Emerald Earring
+*  - 11919 - Placid Forest Emerald Earring
+*  - 11920 - Emerald Earring of Tranquility
+*  - 12108 - Ocean Sapphire Ring
+*  - 12109 - Translucent Ocean Sapphire Ring
+*  - 12110 - Sapphire Ring of Storms
+*  - 12118  Forest Emerald Ring
+*  - 12119  Placid Forest Emerald Ring
+*  - 12120  Emerald Ring of Tranquility
+
+## 1.2.1 (2017-08-16)
+
+### New stuffs
+
+* Added Striker Awakening weapons
+* Added base for Mystic class along with her banner and logo
+* Added new favicon because why not!
+* Added Mystic weapons and images 
+* Added Dim Magic Crystals
+
+### Bugs
+
+* Fixed some/all striker/mystic offhand stats. hopefully got 'em all...
+* Re-add Ancient Magic Crystal - Carmae... which somehow went missing.
+* Fixed Fugitive Khalk's Earring enhancement values
+* Fixed enhancement stats on Rhutum Elite Belt
+* Fixed Magic Crystal of Infinity - Precision accuracy
+* Fixed stats on some alchemy stones
+* Corrected Tungrad Earring name
+* Fixed Ultimate Bronze Dagger special effect... Additional Speed Attack Damage 1% > Additional Special Attack Damage 1
+* Fixed various GREEN quality secondary weapon enhancement values...
+*  - Theos Ornamental Knot
+*  - Parrying Dagger
+*  - Krea Dagger
+*  - Rhik Talisman
+*  - Krea Talisman
+*  - Blade Trinket
+*  - Kite Shield
+*  - White Horn Warrior Bow
+*  - Tadd Shuriken
+*  - Tadd Kunai
+* Fixed Helm Destroyer’s Belt enhancement stats
+* Fix for certain items ap/dp being in the wrong place and hiding gem slots on 0 slot items
+
+### Changes
+
+* Update outfit crystal slots, only the pearl shop combat one can have a slot in it.
+* Updated gearscore calculation. calculate gearscore based on normal ap or awakening ap (whichever is higher) + dp total. Was previously just normal ap + dp total.
+* Renamed Centaur's Belt to Centaurus Belt
+* Accuracy update... accuracy values on weapons and accessories updated…to reflect current changes. Too many items to list, if it has accuracy it has been updated (don't think i missed any). (see <a href="https://community.blackdesertonline.com/index.php?threads/patch-notes-july-5th-2017.24889//" target="_blank">Patch Notes - Item Changes</a>)
+* Minor database cleanup
+* Moved to a new dynamic split database system, all database sections are now split into separate json files and rebuilt on the fly with php magic. :D
+* Hide item effects and enhancement effects for items when they didn't have them.
+
 ## 1.2.0 (2017-05-19)
 
 ### New stuffs
