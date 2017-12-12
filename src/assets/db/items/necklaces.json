@@ -395,28 +395,47 @@
     "11624": {
         "ap": 5,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 0,
+            "ev": 0,
+            "hev": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "dp": 1
+                "dp": 1,
+                "acc": 2,
+                "ev": 1,
+                "hev": 2
             },
             "2": {
                 "ap": 7,
-                "dp": 2
+                "dp": 2,
+                "acc": 4,
+                "ev": 2,
+                "hev": 4
             },
             "3": {
                 "ap": 8,
-                "dp": 3
+                "dp": 3,
+                "acc": 6,
+                "ev": 3,
+                "hev": 6
             },
             "4": {
                 "ap": 9,
-                "dp": 4
+                "dp": 4,
+                "acc": 8,
+                "ev": 4,
+                "hev": 8
             },
             "5": {
                 "ap": 10,
-                "dp": 5
+                "dp": 5,
+                "acc": 10,
+                "ev": 5,
+                "hev": 10
             }
         },
         "name": "Necklace of Sealed Magical Power"
@@ -468,7 +487,10 @@
         "set": "Jarette",
         "ap": 7,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2,
+            "hev": 1
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Jarette's Necklace"

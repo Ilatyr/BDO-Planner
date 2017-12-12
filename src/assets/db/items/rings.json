@@ -208,34 +208,40 @@
         "rarity": "rare",
         "item_effects": {
             "hp": 20,
-            "dr": 5
+            "dr": 5,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 7,
                 "hp": 35,
-                "dr": 7
+                "dr": 7,
+                "acc": 4
             },
             "2": {
                 "dp": 9,
                 "hp": 50,
-                "dr": 9
+                "dr": 9,
+                "acc": 6
             },
             "3": {
                 "dp": 11,
                 "hp": 65,
-                "dr": 11
+                "dr": 11,
+                "acc": 8
             },
             "4": {
                 "dp": 13,
                 "hp": 80,
-                "dr": 13
+                "dr": 13,
+                "acc": 10
             },
             "5": {
                 "dp": 15,
                 "hp": 95,
-                "dr": 15
+                "dr": 15,
+                "acc": 12
             }
         },
         "name": "Shrine Guardian Token"
@@ -308,34 +314,40 @@
         "rarity": "rare",
         "item_effects": {
             "stam": 50,
-            "dr": 4
+            "dr": 4,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 4,
                 "dp": 5,
-                "dr": 5
+                "dr": 5,
+                "acc": 4
             },
             "2": {
                 "ap": 5,
                 "dp": 6,
-                "dr": 6
+                "dr": 6,
+                "acc": 6
             },
             "3": {
                 "ap": 6,
                 "dp": 7,
-                "dr": 7
+                "dr": 7,
+                "acc": 8
             },
             "4": {
                 "ap": 7,
                 "dp": 8,
-                "dr": 8
+                "dr": 8,
+                "acc": 10
             },
             "5": {
                 "ap": 8,
                 "dp": 9,
-                "dr": 9
+                "dr": 9,
+                "acc": 12
             }
         },
         "name": "Outlaw's Ring"
@@ -360,28 +372,41 @@
         "dp": 0,
         "ap": 5,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 0,
+            "dr": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "dp": 1
+                "dp": 1,
+                "acc": 2,
+                "dr": 1
             },
             "2": {
                 "ap": 7,
-                "dp": 2
+                "dp": 2,
+                "acc": 4,
+                "dr": 2
             },
             "3": {
                 "ap": 8,
-                "dp": 3
+                "dp": 3,
+                "acc": 6,
+                "dr": 3
             },
             "4": {
                 "ap": 9,
-                "dp": 4
+                "dp": 4,
+                "acc": 8,
+                "dr": 4
             },
             "5": {
                 "ap": 10,
-                "dp": 5
+                "dp": 5,
+                "acc": 10,
+                "dr": 5
             }
         },
         "name": "Ring of Sealed Magical Power"
@@ -429,34 +454,40 @@
         "rarity": "rare",
         "item_effects": {
             "stam": 50,
-            "dr": 3
+            "dr": 3,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 5,
                 "dp": 4,
-                "dr": 4
+                "dr": 4,
+                "acc": 4
             },
             "2": {
                 "ap": 6,
                 "dp": 5,
-                "dr": 5
+                "dr": 5,
+                "acc": 6
             },
             "3": {
                 "ap": 7,
                 "dp": 6,
-                "dr": 6
+                "dr": 6,
+                "acc": 8
             },
             "4": {
                 "ap": 8,
                 "dp": 7,
-                "dr": 7
+                "dr": 7,
+                "acc": 10
             },
             "5": {
                 "ap": 9,
                 "dp": 8,
-                "dr": 8
+                "dr": 8,
+                "acc": 12
             }
         },
         "name": "Red Coral Ring"
@@ -546,34 +577,40 @@
         "item_effects": {
             "hp": 25,
             "mpwpsp": 25,
-            "dr": 5
+            "dr": 5,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 8,
                 "hp": 40,
-                "dr": 8
+                "dr": 8,
+                "acc": 4
             },
             "2": {
                 "dp": 11,
                 "hp": 55,
-                "dr": 11
+                "dr": 11,
+                "acc": 6
             },
             "3": {
                 "dp": 14,
                 "hp": 70,
-                "dr": 14
+                "dr": 14,
+                "acc": 8
             },
             "4": {
                 "dp": 17,
                 "hp": 85,
-                "dr": 17
+                "dr": 17,
+                "acc": 10
             },
             "5": {
                 "dp": 20,
                 "hp": 100,
-                "dr": 20
+                "dr": 20,
+                "acc": 12
             }
         },
         "name": "Ring of Cadry Guardian"
@@ -582,7 +619,10 @@
         "set": "Jarette",
         "ap": 4,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2,
+            "hev": 1
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Jarette's Ring"

@@ -177,34 +177,40 @@
         "rarity": "rare",
         "item_effects": {
             "hp": 20,
-            "dr": 5
+            "dr": 5,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "dp": 7,
                 "hp": 35,
-                "dr": 7
+                "dr": 7,
+                "acc": 4
             },
             "2": {
                 "dp": 9,
                 "hp": 50,
-                "dr": 9
+                "dr": 9,
+                "acc": 6
             },
             "3": {
                 "dp": 11,
                 "hp": 65,
-                "dr": 11
+                "dr": 11,
+                "acc": 8
             },
             "4": {
                 "dp": 13,
                 "hp": 80,
-                "dr": 13
+                "dr": 13,
+                "acc": 10
             },
             "5": {
                 "dp": 15,
                 "hp": 95,
-                "dr": 15
+                "dr": 15,
+                "acc": 12
             }
         },
         "name": "Token of Friendship"
@@ -328,28 +334,47 @@
         "dp": 0,
         "ap": 5,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 0,
+            "ev": 0,
+            "hev": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap": 6,
-                "dp": 1
+                "dp": 1,
+                "acc": 2,
+                "ev": 1,
+                "hev": 2
             },
             "2": {
                 "ap": 7,
-                "dp": 2
+                "dp": 2,
+                "acc": 4,
+                "ev": 2,
+                "hev": 4
             },
             "3": {
                 "ap": 8,
-                "dp": 3
+                "dp": 3,
+                "acc": 6,
+                "ev": 3,
+                "hev": 6
             },
             "4": {
                 "ap": 9,
-                "dp": 4
+                "dp": 4,
+                "acc": 8,
+                "ev": 4,
+                "hev": 8
             },
             "5": {
                 "ap": 10,
-                "dp": 5
+                "dp": 5,
+                "acc": 10,
+                "ev": 5,
+                "hev": 10
             }
         },
         "name": "Earring of Sealed Magical Power"
@@ -529,7 +554,10 @@
         "set": "Jarette",
         "ap": 4,
         "rarity": "rare",
-        "item_effects": {},
+        "item_effects": {
+            "acc": 2,
+            "hev": 1
+        },
         "enhancement_text": "",
         "enhancement": {},
         "name": "Jarette's Earring"
@@ -649,7 +677,8 @@
             "hp": 50,
             "ev": 5,
             "hev": 5,
-            "dr": 1
+            "dr": 1,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
@@ -657,31 +686,36 @@
                 "dp": 9,
                 "ev": 5,
                 "hev": 5,
-                "dr": 4
+                "dr": 4,
+                "acc": 4
             },
             "2": {
                 "dp": 12,
                 "ev": 5,
                 "hev": 5,
-                "dr": 7
+                "dr": 7,
+                "acc": 6
             },
             "3": {
                 "dp": 15,
                 "ev": 5,
                 "hev": 5,
-                "dr": 10
+                "dr": 10,
+                "acc": 8
             },
             "4": {
                 "dp": 18,
                 "ev": 5,
                 "hev": 5,
-                "dr": 13
+                "dr": 13,
+                "acc": 10
             },
             "5": {
                 "dp": 21,
                 "ev": 5,
                 "hev": 5,
-                "dr": 16
+                "dr": 16,
+                "acc": 12
             }
         },
         "name": "Manos Ruby Earrings"
@@ -693,7 +727,8 @@
             "mpwpsp": 100,
             "ev": 5,
             "hev": 5,
-            "dr": 1
+            "dr": 1,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
@@ -701,31 +736,36 @@
                 "dp": 9,
                 "ev": 5,
                 "hev": 5,
-                "dr": 4
+                "dr": 4,
+                "acc": 4
             },
             "2": {
                 "dp": 12,
                 "ev": 5,
                 "hev": 5,
-                "dr": 7
+                "dr": 7,
+                "acc": 6
             },
             "3": {
                 "dp": 15,
                 "ev": 5,
                 "hev": 5,
-                "dr": 10
+                "dr": 10,
+                "acc": 8
             },
             "4": {
                 "dp": 18,
                 "ev": 5,
                 "hev": 5,
-                "dr": 13
+                "dr": 13,
+                "acc": 10
             },
             "5": {
                 "dp": 21,
                 "ev": 5,
                 "hev": 5,
-                "dr": 16
+                "dr": 16,
+                "acc": 12
             }
         },
         "name": "Manos Sapphire Earrings"
@@ -737,7 +777,8 @@
             "stam": 100,
             "ev": 5,
             "hev": 5,
-            "dr": 1
+            "dr": 1,
+            "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
@@ -745,31 +786,36 @@
                 "dp": 9,
                 "ev": 5,
                 "hev": 5,
-                "dr": 4
+                "dr": 4,
+                "acc": 4
             },
             "2": {
                 "dp": 12,
                 "ev": 5,
                 "hev": 5,
-                "dr": 7
+                "dr": 7,
+                "acc": 6
             },
             "3": {
                 "dp": 15,
                 "ev": 5,
                 "hev": 5,
-                "dr": 10
+                "dr": 10,
+                "acc": 8
             },
             "4": {
                 "dp": 18,
                 "ev": 5,
                 "hev": 5,
-                "dr": 13
+                "dr": 13,
+                "acc": 10
             },
             "5": {
                 "dp": 21,
                 "ev": 5,
                 "hev": 5,
-                "dr": 16
+                "dr": 16,
+                "acc": 12
             }
         },
         "name": "Manos Topaz Earrings"
