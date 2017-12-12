@@ -7400,7 +7400,8 @@
             "ev": 3,
             "hev": 3,
             "dr": 3,
-            "hdr": 1
+            "hdr": 1,
+            "ms": 1
         },
         "enhancement_text": "Increased Damage Reduction & effect increases during Enhancement",
         "enhancement": {
