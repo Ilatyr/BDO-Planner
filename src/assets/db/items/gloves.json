@@ -7447,5 +7447,19 @@
             }
         },
         "name": "Lemoria Gloves"
+    },
+    "10991": {
+        "dp": 38,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "chr": 1,
+            "ev": 19,
+            "hev": 61,
+            "dr": 19
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Beia's Black Magic Gloves"
     }
 }

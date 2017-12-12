@@ -7546,5 +7546,19 @@
             }
         },
         "name": "Lemoria Helmet"
+    },
+    "10989": {
+        "dp": 52,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "skexp": 3,
+            "ev": 20,
+            "hev": 64,
+            "dr": 32
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Mediah Merchants Union Helm"
     }
 }

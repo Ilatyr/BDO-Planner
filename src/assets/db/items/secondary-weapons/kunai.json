@@ -3618,7 +3618,7 @@
         "item_effects": {
             "ev": 15,
             "dr": 2,
-            "acc": 60
+            "acc": 44
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -3633,7 +3633,7 @@
         "item_effects": {
             "ev": 15,
             "dr": 2,
-            "acc": 60
+            "acc": 52
         },
         "enhancement_text": "",
         "enhancement": {},

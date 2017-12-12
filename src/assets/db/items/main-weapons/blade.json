@@ -5287,5 +5287,17 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Ultimate Delphad Castillion's Carnage Blade"
+    },
+    "13381": {
+        "ap_min": 77,
+        "ap_max": 91,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "acc": 89
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Black Abyssal Blade"
     }
 }

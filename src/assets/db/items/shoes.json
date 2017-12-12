@@ -7546,5 +7546,19 @@
             }
         },
         "name": "Urugon's Shoes"
+    },
+    "10992": {
+        "dp": 36,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "ms": 1,
+            "ev": 18,
+            "hev": 58,
+            "dr": 18
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Derek's Light Leather Shoes"
     }
 }
