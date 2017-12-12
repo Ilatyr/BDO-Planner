@@ -8,8 +8,8 @@ var CalcConfig = {
     configDefault: {
         latestVersion: {
             major: 1,
-            minor: 2,
-            revision: 1
+            minor: 3,
+            revision: 0
         },
         compact_item_modals: false
     },

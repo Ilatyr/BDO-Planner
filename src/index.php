@@ -1,8 +1,8 @@
 <?php
     include $_SERVER['DOCUMENT_ROOT'].'/php/inline/get_full_link.php';
     $__version_major = 1;
-    $__version_minor = 2;
-    $__version_revision = 1;
+    $__version_minor = 3;
+    $__version_revision = 0;
     $__vr_str = "?".$__version_major.$__version_minor.$__version_revision;
 ?>
 <!DOCTYPE html>
@@ -136,7 +136,7 @@
                             <div class="icon"></div>
                             <div class="name">Striker</div>
                         </li>
-                        <li class="class mystic disabled" data-value="14">
+                        <li class="class mystic" data-value="14">
                             <div class="main-background"></div>
                             <div class="icon"></div>
                             <div class="name">Mystic</div>
@@ -396,31 +396,24 @@
                                 <h1>New stuffs</h1>
 
                                 <ul>
-                                    <li>Added Striker Class and Weapons</li>
-                                    <li>Added new offhand crystal (Spirit Crystal)</li>
-                                    <li>Added new mediah necklace (Necklace of Dim Spell, Necklace of Concentrated Spell, Necklace of Sealed Spell)</li>
-                                    <li>Added Helm Destroyer's Belt</li>
-                                    <li>Added set bonus for the above items (belt and necklace)</li>
-                                    <li>Added new craftable costumes.</li>
-                                    <li>Enabled outfit crystal slot.</li>
+                                    <li>Added Mystic Class and Weapons.</li>
+                                    <li>Added a bunch of new items, too much to list here.</li>
                                 </ul>
 
                                 <h1>Bugs</h1>
 
                                 <ul>
-                                    <li>Removed enhance prefix from gems on tooltip popups</li>
+                                    <li>Fixed various bugs and probably added new ones...</li>
                                 </ul>
 
                                 <h1>Changes</h1>
 
                                 <ul>
-                                    <li>Changed "Breath Gauge" stat to "Underwater Breathing"</li>
-                                    <li>Updated Accuracy and Evasion stats on crystals and Alchemy Stones (Destruction / Protection) - (see <a href="https://community.blackdesertonline.com/index.php?threads/patch-notes-may-17th-2017-updated-on-18-05-17.2986/" target="_blank">Patch Notes - Item Changes</a>)</li>
-                                    <li>Crystal cleanup, removed a bunch of crystals that don't appear to exist anywhere. (see <a href="https://github.com/Ihellmasker/BDO-Planner/commit/17c0feb539181b3c07b9f1e7f4d237d3dd4f04fb" target="_blank">This commit</a>)</li>
+                                    <li>Changed heaps of stuff, see the full changelog at the link below.</li>
                                 </ul>
 
                                 <p><em>
-                                    Old patch notes can be found <a href="https://github.com/Ihellmasker/BDO-Planner/blob/master/CHANGELOG.md">here</a>
+                                    Patch notes can be found <a href="https://github.com/Ihellmasker/BDO-Planner/blob/master/CHANGELOG.md">here</a>
                                 </em></p>
                             </div>
                         </div>
