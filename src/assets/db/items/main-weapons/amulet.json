@@ -5293,5 +5293,21 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Black Abyssal Amulet"
+    },
+    "23044": {
+        "ap_min": 59,
+        "ap_max": 63,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "as": 1,
+            "cs": 1,
+            "chr": 1,
+            "acc": 74,
+            "dmgaes": 19
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Kaia Amulet"
     }
 }

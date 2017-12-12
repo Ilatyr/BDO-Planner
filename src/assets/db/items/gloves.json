@@ -7461,5 +7461,20 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Beia's Black Magic Gloves"
+    },
+    "23246": {
+        "dp": 30,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "ev": 16,
+            "hev": 52,
+            "dr": 14,
+            "hdr": 2,
+            "hp": 30
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Kaia Gloves"
     }
 }

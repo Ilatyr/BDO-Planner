@@ -7647,5 +7647,20 @@
             }
         },
         "name": "Lemoria Armor"
+    },
+    "23223": {
+        "dp": 48,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "ev": 18,
+            "hev": 58,
+            "dr": 30,
+            "hdr": 3,
+            "hp": 30
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Kaia Armor"
     }
 }
