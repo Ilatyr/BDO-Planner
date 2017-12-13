@@ -1953,142 +1953,101 @@
         "rarity": "uncommon",
         "gems": 2,
         "item_effects": {
-            "ev": 2,
-            "hev": 4,
-            "dr": 2
+            "ev": 1,
+            "hev": 2,
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5,
-                "ev": 3,
-                "hev": 6
+                "ap_min": 5,
+                "ap_max": 7
             },
             "2": {
-                "dp": 6,
-                "ev": 4,
-                "hev": 8
+                "ap_min": 5,
+                "ap_max": 8
             },
             "3": {
-                "dp": 7,
-                "ev": 5,
-                "hev": 10
+                "ap_min": 5,
+                "ap_max": 9
             },
             "4": {
-                "dp": 8,
-                "ev": 6,
-                "hev": 12
+                "ap_min": 5,
+                "ap_max": 10
             },
             "5": {
-                "dp": 9,
-                "ev": 7,
-                "hev": 14
+                "ap_min": 6,
+                "ap_max": 11
             },
             "6": {
-                "dp": 10,
-                "ev": 8,
-                "hev": 16
+                "ap_min": 6,
+                "ap_max": 12
             },
             "7": {
-                "dp": 11,
-                "ev": 9,
-                "hev": 18
+                "ap_min": 6,
+                "ap_max": 13
             },
             "8": {
-                "ap_min": 2,
-                "ap_max": 4,
-                "dp": 12,
-                "ev": 10,
-                "hev": 20
+                "ap_min": 6,
+                "ap_max": 14
             },
             "9": {
-                "ap_min": 3,
-                "ap_max": 5,
-                "dp": 13,
-                "ev": 11,
-                "hev": 22
+                "ap_min": 6,
+                "ap_max": 15
             },
             "10": {
-                "ap_min": 4,
-                "ap_max": 6,
-                "dp": 14,
-                "ev": 12,
-                "hev": 24
+                "ap_min": 7,
+                "ap_max": 16
             },
             "11": {
-                "ap_min": 5,
-                "ap_max": 7,
-                "dp": 15,
-                "ev": 13,
-                "hev": 26
+                "ap_min": 7,
+                "ap_max": 17
             },
             "12": {
-                "ap_min": 6,
-                "ap_max": 8,
-                "dp": 16,
-                "ev": 14,
-                "hev": 28
+                "ap_min": 7,
+                "ap_max": 18
             },
             "13": {
                 "ap_min": 7,
-                "ap_max": 9,
-                "dp": 17,
-                "ev": 15,
-                "hev": 30
+                "ap_max": 19
             },
             "14": {
-                "ap_min": 8,
-                "ap_max": 10,
-                "dp": 18,
-                "ev": 16,
-                "hev": 32
+                "ap_min": 7,
+                "ap_max": 20
             },
             "15": {
-                "ap_min": 9,
-                "ap_max": 11,
-                "dp": 19,
-                "ev": 17,
-                "hev": 34
+                "ap_min": 8,
+                "ap_max": 21
             },
             "16": {
-                "ap_min": 10,
-                "ap_max": 12,
-                "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3
-            },
-            "17": {
-                "ap_min": 11,
-                "ap_max": 13,
-                "dp": 23,
-                "ev": 19,
-                "hev": 38,
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 5,
                 "dr": 4
             },
-            "18": {
-                "ap_min": 12,
-                "ap_max": 14,
-                "dp": 28,
-                "ev": 23,
-                "hev": 46,
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 6,
                 "dr": 5
             },
-            "19": {
-                "ap_min": 13,
-                "ap_max": 15,
-                "dp": 30,
-                "ev": 24,
-                "hev": 48,
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 7,
                 "dr": 6
             },
-            "20": {
-                "ap_min": 14,
-                "ap_max": 16,
-                "dp": 32,
-                "ev": 25,
-                "hev": 50,
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 8,
                 "dr": 7
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 9,
+                "dr": 8
             }
         },
         "name": "Krea Ornamental Knot"
@@ -2261,140 +2220,99 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5,
-                "ev": 3,
-                "hev": 6
+                "ap_min": 5,
+                "ap_max": 7
             },
             "2": {
-                "dp": 6,
-                "ev": 4,
-                "hev": 8
+                "ap_min": 5,
+                "ap_max": 8
             },
             "3": {
-                "dp": 7,
-                "ev": 5,
-                "hev": 10
+                "ap_min": 5,
+                "ap_max": 9
             },
             "4": {
-                "dp": 8,
-                "ev": 6,
-                "hev": 12
+                "ap_min": 5,
+                "ap_max": 10
             },
             "5": {
-                "dp": 9,
-                "ev": 7,
-                "hev": 14
+                "ap_min": 6,
+                "ap_max": 11
             },
             "6": {
-                "dp": 10,
-                "ev": 8,
-                "hev": 16
+                "ap_min": 6,
+                "ap_max": 12
             },
             "7": {
-                "dp": 11,
-                "ev": 9,
-                "hev": 18
+                "ap_min": 6,
+                "ap_max": 13
             },
             "8": {
-                "ap_min": 2,
-                "ap_max": 4,
-                "dp": 12,
-                "ev": 10,
-                "hev": 20
+                "ap_min": 6,
+                "ap_max": 14
             },
             "9": {
-                "ap_min": 3,
-                "ap_max": 5,
-                "dp": 13,
-                "ev": 11,
-                "hev": 22
+                "ap_min": 6,
+                "ap_max": 15
             },
             "10": {
-                "ap_min": 4,
-                "ap_max": 6,
-                "dp": 14,
-                "ev": 12,
-                "hev": 24
+                "ap_min": 7,
+                "ap_max": 16
             },
             "11": {
-                "ap_min": 5,
-                "ap_max": 7,
-                "dp": 15,
-                "ev": 13,
-                "hev": 26
+                "ap_min": 7,
+                "ap_max": 17
             },
             "12": {
-                "ap_min": 6,
-                "ap_max": 8,
-                "dp": 16,
-                "ev": 14,
-                "hev": 28
+                "ap_min": 7,
+                "ap_max": 18
             },
             "13": {
                 "ap_min": 7,
-                "ap_max": 9,
-                "dp": 17,
-                "ev": 15,
-                "hev": 30
+                "ap_max": 19
             },
             "14": {
-                "ap_min": 8,
-                "ap_max": 10,
-                "dp": 18,
-                "ev": 16,
-                "hev": 32
+                "ap_min": 7,
+                "ap_max": 20
             },
             "15": {
-                "ap_min": 9,
-                "ap_max": 11,
-                "dp": 19,
-                "ev": 17,
-                "hev": 34
+                "ap_min": 8,
+                "ap_max": 21
             },
             "16": {
-                "ap_min": 10,
-                "ap_max": 12,
-                "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3
-            },
-            "17": {
-                "ap_min": 11,
-                "ap_max": 13,
-                "dp": 23,
-                "ev": 19,
-                "hev": 38,
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6,
                 "dr": 4
             },
-            "18": {
-                "ap_min": 12,
-                "ap_max": 14,
-                "dp": 28,
-                "ev": 23,
-                "hev": 46,
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7,
                 "dr": 5
             },
-            "19": {
-                "ap_min": 13,
-                "ap_max": 15,
-                "dp": 30,
-                "ev": 24,
-                "hev": 48,
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8,
                 "dr": 6
             },
-            "20": {
-                "ap_min": 14,
-                "ap_max": 16,
-                "dp": 32,
-                "ev": 25,
-                "hev": 50,
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9,
                 "dr": 7
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10,
+                "dr": 8
             }
         },
         "name": "Krea Ornamental Knot of Crimson Flame"
@@ -2410,140 +2328,99 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5,
-                "ev": 3,
-                "hev": 6
+                "ap_min": 5,
+                "ap_max": 7
             },
             "2": {
-                "dp": 6,
-                "ev": 4,
-                "hev": 8
+                "ap_min": 5,
+                "ap_max": 8
             },
             "3": {
-                "dp": 7,
-                "ev": 5,
-                "hev": 10
+                "ap_min": 5,
+                "ap_max": 9
             },
             "4": {
-                "dp": 8,
-                "ev": 6,
-                "hev": 12
+                "ap_min": 5,
+                "ap_max": 10
             },
             "5": {
-                "dp": 9,
-                "ev": 7,
-                "hev": 14
+                "ap_min": 6,
+                "ap_max": 11
             },
             "6": {
-                "dp": 10,
-                "ev": 8,
-                "hev": 16
+                "ap_min": 6,
+                "ap_max": 12
             },
             "7": {
-                "dp": 11,
-                "ev": 9,
-                "hev": 18
+                "ap_min": 6,
+                "ap_max": 13
             },
             "8": {
-                "ap_min": 2,
-                "ap_max": 4,
-                "dp": 12,
-                "ev": 10,
-                "hev": 20
+                "ap_min": 6,
+                "ap_max": 14
             },
             "9": {
-                "ap_min": 3,
-                "ap_max": 5,
-                "dp": 13,
-                "ev": 11,
-                "hev": 22
+                "ap_min": 6,
+                "ap_max": 15
             },
             "10": {
-                "ap_min": 4,
-                "ap_max": 6,
-                "dp": 14,
-                "ev": 12,
-                "hev": 24
+                "ap_min": 7,
+                "ap_max": 16
             },
             "11": {
-                "ap_min": 5,
-                "ap_max": 7,
-                "dp": 15,
-                "ev": 13,
-                "hev": 26
+                "ap_min": 7,
+                "ap_max": 17
             },
             "12": {
-                "ap_min": 6,
-                "ap_max": 8,
-                "dp": 16,
-                "ev": 14,
-                "hev": 28
+                "ap_min": 7,
+                "ap_max": 18
             },
             "13": {
                 "ap_min": 7,
-                "ap_max": 9,
-                "dp": 17,
-                "ev": 15,
-                "hev": 30
+                "ap_max": 19
             },
             "14": {
-                "ap_min": 8,
-                "ap_max": 10,
-                "dp": 18,
-                "ev": 16,
-                "hev": 32
+                "ap_min": 7,
+                "ap_max": 20
             },
             "15": {
-                "ap_min": 9,
-                "ap_max": 11,
-                "dp": 19,
-                "ev": 17,
-                "hev": 34
+                "ap_min": 8,
+                "ap_max": 21
             },
             "16": {
-                "ap_min": 10,
-                "ap_max": 12,
-                "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3
-            },
-            "17": {
-                "ap_min": 11,
-                "ap_max": 13,
-                "dp": 23,
-                "ev": 19,
-                "hev": 38,
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6,
                 "dr": 4
             },
-            "18": {
-                "ap_min": 12,
-                "ap_max": 14,
-                "dp": 28,
-                "ev": 23,
-                "hev": 46,
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7,
                 "dr": 5
             },
-            "19": {
-                "ap_min": 13,
-                "ap_max": 15,
-                "dp": 30,
-                "ev": 24,
-                "hev": 48,
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8,
                 "dr": 6
             },
-            "20": {
-                "ap_min": 14,
-                "ap_max": 16,
-                "dp": 32,
-                "ev": 25,
-                "hev": 50,
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9,
                 "dr": 7
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10,
+                "dr": 8
             }
         },
         "name": "Krea Ornamental Knot of Destruction"
@@ -2559,140 +2436,99 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5,
-                "ev": 3,
-                "hev": 6
+                "ap_min": 5,
+                "ap_max": 7
             },
             "2": {
-                "dp": 6,
-                "ev": 4,
-                "hev": 8
+                "ap_min": 5,
+                "ap_max": 8
             },
             "3": {
-                "dp": 7,
-                "ev": 5,
-                "hev": 10
+                "ap_min": 5,
+                "ap_max": 9
             },
             "4": {
-                "dp": 8,
-                "ev": 6,
-                "hev": 12
+                "ap_min": 5,
+                "ap_max": 10
             },
             "5": {
-                "dp": 9,
-                "ev": 7,
-                "hev": 14
+                "ap_min": 6,
+                "ap_max": 11
             },
             "6": {
-                "dp": 10,
-                "ev": 8,
-                "hev": 16
+                "ap_min": 6,
+                "ap_max": 12
             },
             "7": {
-                "dp": 11,
-                "ev": 9,
-                "hev": 18
+                "ap_min": 6,
+                "ap_max": 13
             },
             "8": {
-                "ap_min": 2,
-                "ap_max": 4,
-                "dp": 12,
-                "ev": 10,
-                "hev": 20
+                "ap_min": 6,
+                "ap_max": 14
             },
             "9": {
-                "ap_min": 3,
-                "ap_max": 5,
-                "dp": 13,
-                "ev": 11,
-                "hev": 22
+                "ap_min": 6,
+                "ap_max": 15
             },
             "10": {
-                "ap_min": 4,
-                "ap_max": 6,
-                "dp": 14,
-                "ev": 12,
-                "hev": 24
+                "ap_min": 7,
+                "ap_max": 16
             },
             "11": {
-                "ap_min": 5,
-                "ap_max": 7,
-                "dp": 15,
-                "ev": 13,
-                "hev": 26
+                "ap_min": 7,
+                "ap_max": 17
             },
             "12": {
-                "ap_min": 6,
-                "ap_max": 8,
-                "dp": 16,
-                "ev": 14,
-                "hev": 28
+                "ap_min": 7,
+                "ap_max": 18
             },
             "13": {
                 "ap_min": 7,
-                "ap_max": 9,
-                "dp": 17,
-                "ev": 15,
-                "hev": 30
+                "ap_max": 19
             },
             "14": {
-                "ap_min": 8,
-                "ap_max": 10,
-                "dp": 18,
-                "ev": 16,
-                "hev": 32
+                "ap_min": 7,
+                "ap_max": 20
             },
             "15": {
-                "ap_min": 9,
-                "ap_max": 11,
-                "dp": 19,
-                "ev": 17,
-                "hev": 34
+                "ap_min": 8,
+                "ap_max": 21
             },
             "16": {
-                "ap_min": 10,
-                "ap_max": 12,
-                "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3
-            },
-            "17": {
-                "ap_min": 11,
-                "ap_max": 13,
-                "dp": 23,
-                "ev": 19,
-                "hev": 38,
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6,
                 "dr": 4
             },
-            "18": {
-                "ap_min": 12,
-                "ap_max": 14,
-                "dp": 28,
-                "ev": 23,
-                "hev": 46,
+            "17": {
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7,
                 "dr": 5
             },
-            "19": {
-                "ap_min": 13,
-                "ap_max": 15,
-                "dp": 30,
-                "ev": 24,
-                "hev": 48,
+            "18": {
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8,
                 "dr": 6
             },
-            "20": {
-                "ap_min": 14,
-                "ap_max": 16,
-                "dp": 32,
-                "ev": 25,
-                "hev": 50,
+            "19": {
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9,
                 "dr": 7
+            },
+            "20": {
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10,
+                "dr": 8
             }
         },
         "name": "Krea Ornamental Knot of Temptation"
@@ -2708,140 +2544,99 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4
+            "dr": 3
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dp": 5,
-                "ev": 3,
-                "hev": 6
+                "ap_min": 5,
+                "ap_max": 7
             },
             "2": {
-                "dp": 6,
-                "ev": 4,
-                "hev": 8
+                "ap_min": 5,
+                "ap_max": 8
             },
             "3": {
-                "dp": 7,
-                "ev": 5,
-                "hev": 10
+                "ap_min": 5,
+                "ap_max": 9
             },
             "4": {
-                "dp": 8,
-                "ev": 6,
-                "hev": 12
+                "ap_min": 5,
+                "ap_max": 10
             },
             "5": {
-                "dp": 9,
-                "ev": 7,
-                "hev": 14
+                "ap_min": 6,
+                "ap_max": 11
             },
             "6": {
-                "dp": 10,
-                "ev": 8,
-                "hev": 16
+                "ap_min": 6,
+                "ap_max": 12
             },
             "7": {
-                "dp": 11,
-                "ev": 9,
-                "hev": 18
+                "ap_min": 6,
+                "ap_max": 13
             },
             "8": {
-                "ap_min": 2,
-                "ap_max": 4,
-                "dp": 12,
-                "ev": 10,
-                "hev": 20
+                "ap_min": 6,
+                "ap_max": 14
             },
             "9": {
-                "ap_min": 3,
-                "ap_max": 5,
-                "dp": 13,
-                "ev": 11,
-                "hev": 22
+                "ap_min": 6,
+                "ap_max": 15
             },
             "10": {
-                "ap_min": 4,
-                "ap_max": 6,
-                "dp": 14,
-                "ev": 12,
-                "hev": 24
+                "ap_min": 7,
+                "ap_max": 16
             },
             "11": {
-                "ap_min": 5,
-                "ap_max": 7,
-                "dp": 15,
-                "ev": 13,
-                "hev": 26
+                "ap_min": 7,
+                "ap_max": 17
             },
             "12": {
-                "ap_min": 6,
-                "ap_max": 8,
-                "dp": 16,
-                "ev": 14,
-                "hev": 28
+                "ap_min": 7,
+                "ap_max": 18
             },
             "13": {
                 "ap_min": 7,
-                "ap_max": 9,
-                "dp": 17,
-                "ev": 15,
-                "hev": 30
+                "ap_max": 19
             },
             "14": {
-                "ap_min": 8,
-                "ap_max": 10,
-                "dp": 18,
-                "ev": 16,
-                "hev": 32
+                "ap_min": 7,
+                "ap_max": 20
             },
             "15": {
-                "ap_min": 9,
-                "ap_max": 11,
-                "dp": 21,
-                "ev": 17,
-                "hev": 34
+                "ap_min": 8,
+                "ap_max": 21
             },
             "16": {
-                "ap_min": 10,
-                "ap_max": 12,
-                "dp": 23,
-                "ev": 18,
-                "hev": 36,
-                "dr": 5
+                "ap_min": 9,
+                "ap_max": 22,
+                "dp": 6,
+                "dr": 4
             },
             "17": {
-                "ap_min": 11,
-                "ap_max": 13,
-                "dp": 25,
-                "ev": 19,
-                "hev": 38,
-                "dr": 6
+                "ap_min": 10,
+                "ap_max": 23,
+                "dp": 7,
+                "dr": 5
             },
             "18": {
-                "ap_min": 12,
-                "ap_max": 14,
-                "dp": 30,
-                "ev": 23,
-                "hev": 46,
-                "dr": 7
+                "ap_min": 14,
+                "ap_max": 27,
+                "dp": 8,
+                "dr": 6
             },
             "19": {
-                "ap_min": 13,
-                "ap_max": 15,
-                "dp": 32,
-                "ev": 24,
-                "hev": 48,
-                "dr": 8
+                "ap_min": 15,
+                "ap_max": 28,
+                "dp": 9,
+                "dr": 7
             },
             "20": {
-                "ap_min": 14,
-                "ap_max": 16,
-                "dp": 34,
-                "ev": 25,
-                "hev": 50,
-                "dr": 9
+                "ap_min": 16,
+                "ap_max": 29,
+                "dp": 10,
+                "dr": 8
             }
         },
         "name": "Ultimate Krea Ornamental Knot"
