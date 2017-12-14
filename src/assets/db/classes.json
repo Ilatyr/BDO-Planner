@@ -154,5 +154,15 @@
             "ssfr": 20,
             "gr": 20
         }
+    },
+    "15": {
+        "name": "lahn",
+        "display_name": "Lahn",
+        "resistances": {
+            "kb": 20,
+            "kd": 20,
+            "ssfr": 20,
+            "gr": 20
+        }
     }
 }
