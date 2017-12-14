@@ -141,6 +141,11 @@
                             <div class="icon"></div>
                             <div class="name">Mystic</div>
                         </li>
+                        <li class="class lahn disabled" data-value="15">
+                            <div class="main-background"></div>
+                            <div class="icon"></div>
+                            <div class="name">Lahn</div>
+                        </li>
                     </ul>
                 </div>
             </div>
