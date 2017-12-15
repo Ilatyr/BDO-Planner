@@ -304,7 +304,7 @@
         <div id="footer-bar">
             <div class="container">
                 <div class="row">
-                <div class="col-lg-2">
+                    <div class="col-lg-2">
                         <a href="https://discord.gg/PdkPpdJ" target="_blank"><img src="./assets/discord.png"/></a>
                     </div>
                     <div class="offset-lg-8 col-lg-2">
