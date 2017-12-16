@@ -26,6 +26,60 @@
                 "dr": 2
             },
             "name": "Magic Crystal of Infinity - Armor"
+        },
+        "15003": {
+            "rarity": "uncommon",
+            "shatter_chance": "high",
+            "incompatible": [],
+            "item_effects": {
+                "dmgtdh": 1
+            },
+            "name": "Magic Crystal of Crimson Flame - Carnage (Demihumans)"
+        },
+        "15004": {
+            "rarity": "uncommon",
+            "shatter_chance": "high",
+            "incompatible": [],
+            "item_effects": {
+                "dmgth": 1
+            },
+            "name": "Magic Crystal of Crimson Flame - Carnage (Humans)"
+        },
+        "15005": {
+            "rarity": "uncommon",
+            "shatter_chance": "high",
+            "incompatible": [],
+            "item_effects": {
+                "dmgtb": 1
+            },
+            "name": "Magic Crystal of Crimson Flame - Carnage (Beasts)"
+        },
+        "15103": {
+            "rarity": "rare",
+            "shatter_chance": "high",
+            "incompatible": [],
+            "item_effects": {
+                "dmgtdh": 2
+            },
+            "name": "Magic Crystal of Infinity - Carnage (Demihumans)"
+        },
+        "15104": {
+            "rarity": "rare",
+            "shatter_chance": "high",
+            "incompatible": [],
+            "item_effects": {
+                "dmgth": 2
+            },
+            "name": "Magic Crystal of Infinity - Carnage (Humans)"
+        },
+        "15105": {
+            "rarity": "rare",
+            "shatter_chance": "high",
+            "incompatible": [],
+            "item_effects": {
+                "dmgtb": 2
+            },
+            "name": "Magic Crystal of Infinity - Carnage (Beasts)"
         }
     },
     "shoes": {
@@ -1150,33 +1204,6 @@
             },
             "name": "Magic Crystal of Crimson Flame - Power"
         },
-        "15003": {
-            "rarity": "uncommon",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "dmgtdh": 1
-            },
-            "name": "Magic Crystal of Crimson Flame - Carnage (Demihumans)"
-        },
-        "15004": {
-            "rarity": "uncommon",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "dmgth": 1
-            },
-            "name": "Magic Crystal of Crimson Flame - Carnage (Humans)"
-        },
-        "15005": {
-            "rarity": "uncommon",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "dmgtb": 1
-            },
-            "name": "Magic Crystal of Crimson Flame - Carnage (Beasts)"
-        },
         "15022": {
             "rarity": "epic",
             "shatter_chance": "low",
@@ -1251,33 +1278,6 @@
                 "hap": 2
             },
             "name": "Magic Crystal of Infinity - Power"
-        },
-        "15103": {
-            "rarity": "rare",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "dmgtdh": 1
-            },
-            "name": "Magic Crystal of Infinity - Carnage (Demihumans)"
-        },
-        "15104": {
-            "rarity": "rare",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "dmgth": 1
-            },
-            "name": "Magic Crystal of Infinity - Carnage (Humans)"
-        },
-        "15105": {
-            "rarity": "rare",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "dmgtb": 1
-            },
-            "name": "Magic Crystal of Infinity - Carnage (Beasts)"
         },
         "15126": {
             "rarity": "rare",
