@@ -406,6 +406,13 @@
         "symbol": "",
         "target": ".extra-stats"
     },
+    "dmgtasehad": {
+        "title": "Damage To All Species Except Humans and Demihumans",
+        "desc": "",
+        "total": 0,
+        "symbol": "",
+        "target": ".extra-stats"
+    },
     "iar": {
         "title": "Ignore All Resistance",
         "desc": "",

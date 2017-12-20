@@ -662,7 +662,7 @@
     "12113": {
         "rarity": "uncommon",
         "item_effects": {
-            "dmgaes": 20,
+            "dmgtasehad": 3,
             "hp": 30
         },
         "enhancement_text": "",
@@ -672,7 +672,7 @@
     "12114": {
         "rarity": "rare",
         "item_effects": {
-            "dmgth": 4,
+            "dmgtasehad": 4,
             "hp": 40,
             "acc": 2
         },
@@ -683,7 +683,7 @@
     "12115": {
         "rarity": "epic",
         "item_effects": {
-            "dmgaes": 5,
+            "dmgtasehad": 5,
             "hp": 50,
             "acc": 4
         },
@@ -726,30 +726,30 @@
     "12128": {
         "rarity": "epic",
         "item_effects": {
-            "dmgaes": 6,
+            "dmgtasehad": 6,
             "hp": 50,
             "acc": 2
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "dmgaes": 9,
+                "dmgtasehad": 9,
                 "acc": 4
             },
             "2": {
-                "dmgaes": 12,
+                "dmgtasehad": 12,
                 "acc": 6
             },
             "3": {
-                "dmgaes": 15,
+                "dmgtasehad": 15,
                 "acc": 8
             },
             "4": {
-                "dmgaes": 18,
+                "dmgtasehad": 18,
                 "acc": 10
             },
             "5": {
-                "dmgaes": 21,
+                "dmgtasehad": 21,
                 "acc": 12
             }
         },
