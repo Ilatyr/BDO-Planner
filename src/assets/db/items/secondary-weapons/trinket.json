@@ -1981,35 +1981,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Rosar Trinket"
@@ -2735,35 +2740,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Rosar Trinket of Crimson Flame"
@@ -2893,35 +2903,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Rosar Trinket of Destruction"
@@ -3051,35 +3066,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,
+                "dr": 3
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,
+                "dr": 4
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,
+                "dr": 5
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,
+                "dr": 6
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,
+                "dr": 7
             }
         },
         "name": "Rosar Trinket of Temptation"

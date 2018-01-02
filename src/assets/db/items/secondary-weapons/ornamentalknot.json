@@ -2175,36 +2175,36 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36
+                "ev": 19,
+                "hev": 38
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38
+                "ev": 21,
+                "hev": 42
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46
+                "ev": 26,
+                "hev": 52
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48
+                "ev": 28,
+                "hev": 56
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50
+                "ev": 30,
+                "hev": 60
             }
         },
         "name": "Rosar Ornamental Knot"
@@ -2765,36 +2765,36 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36
+                "ev": 19,
+                "hev": 38
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38
+                "ev": 21,
+                "hev": 42
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46
+                "ev": 26,
+                "hev": 52
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48
+                "ev": 28,
+                "hev": 56
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50
+                "ev": 30,
+                "hev": 60
             }
         },
         "name": "Rosar Ornamental Knot of Crimson Flame"
@@ -2923,36 +2923,36 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36
+                "ev": 19,
+                "hev": 38
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38
+                "ev": 21,
+                "hev": 42
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46
+                "ev": 26,
+                "hev": 52
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48
+                "ev": 28,
+                "hev": 56
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50
+                "ev": 30,
+                "hev": 60
             }
         },
         "name": "Rosar Ornamental Knot of Destruction"
@@ -3081,36 +3081,36 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36
+                "ev": 19,
+                "hev": 38
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38
+                "ev": 21,
+                "hev": 42
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46
+                "ev": 26,
+                "hev": 52
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48
+                "ev": 28,
+                "hev": 56
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50
+                "ev": 30,
+                "hev": 60
             }
         },
         "name": "Rosar Ornamental Knot of Temptation"
@@ -3225,41 +3225,36 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 23,
-                "ev": 18,
-                "hev": 36,
-                "dr": 5
+                "ev": 19,
+                "hev": 38
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 25,
-                "ev": 19,
-                "hev": 38,
-                "dr": 6
+                "ev": 21,
+                "hev": 42
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 30,
-                "ev": 23,
-                "hev": 46,
-                "dr": 7
+                "ev": 26,
+                "hev": 52
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 32,
-                "ev": 24,
-                "hev": 48,
-                "dr": 8
+                "ev": 28,
+                "hev": 56
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 34,
-                "ev": 25,
-                "hev": 50,
-                "dr": 9
+                "ev": 30,
+                "hev": 60
             }
         },
         "name": "Ultimate Rosar Ornamental Knot"
