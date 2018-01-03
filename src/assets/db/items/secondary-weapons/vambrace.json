@@ -9,7 +9,7 @@
             "acc": 20,
             "ev": 2,
             "dr": 2,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -125,7 +125,7 @@
                 "dp": 20,
                 "acc": 72,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -133,7 +133,7 @@
                 "dp": 21,
                 "acc": 76,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -141,7 +141,7 @@
                 "dp": 25,
                 "acc": 80,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -149,7 +149,7 @@
                 "dp": 26,
                 "acc": 84,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -157,7 +157,7 @@
                 "dp": 27,
                 "acc": 88,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,                "dmgtm": 5
             }
         },
         "name": "Leather Vambrace"
@@ -171,7 +171,7 @@
         "item_effects": {
             "ev": 1,
             "dr": 3,
-            "hev": 2
+            "hev": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -237,23 +237,23 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24
+                "ap_max": 24,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33
+                "ap_max": 33,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 5
             }
         },
         "name": "Scale Vambrace"
@@ -268,7 +268,7 @@
             "ev": 2,
             "dr": 5,
             "hp": 50,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -352,31 +352,31 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 24,
-                "dr": 22
+                "dr": 22,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 26,
-                "dr": 24
+                "dr": 24,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 31,
-                "dr": 29
+                "dr": 29,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 33,
-                "dr": 31
+                "dr": 31,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 35,
-                "dr": 33
+                "dr": 33,                "dmgtm": 5
             }
         },
         "name": "Iron Vambrace"
@@ -392,7 +392,7 @@
             "ev": 2,
             "dr": 2,
             "abad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -508,7 +508,7 @@
                 "dp": 20,
                 "acc": 80,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -516,7 +516,7 @@
                 "dp": 21,
                 "acc": 84,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -524,7 +524,7 @@
                 "dp": 25,
                 "acc": 88,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -532,7 +532,7 @@
                 "dp": 26,
                 "acc": 92,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -540,7 +540,7 @@
                 "dp": 27,
                 "acc": 96,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,                "dmgtm": 5
             }
         },
         "name": "Leather Vambrace of Crimson Flame"
@@ -556,7 +556,7 @@
             "ev": 2,
             "dr": 2,
             "adad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -672,7 +672,7 @@
                 "dp": 20,
                 "acc": 80,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -680,7 +680,7 @@
                 "dp": 21,
                 "acc": 84,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -688,7 +688,7 @@
                 "dp": 25,
                 "acc": 88,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -696,7 +696,7 @@
                 "dp": 26,
                 "acc": 92,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -704,7 +704,7 @@
                 "dp": 27,
                 "acc": 96,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,                "dmgtm": 5
             }
         },
         "name": "Leather Vambrace of Destruction"
@@ -720,7 +720,7 @@
             "ev": 2,
             "dr": 2,
             "aaad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -836,7 +836,7 @@
                 "dp": 20,
                 "acc": 80,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -844,7 +844,7 @@
                 "dp": 21,
                 "acc": 84,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -852,7 +852,7 @@
                 "dp": 25,
                 "acc": 88,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -860,7 +860,7 @@
                 "dp": 26,
                 "acc": 92,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -868,7 +868,7 @@
                 "dp": 27,
                 "acc": 96,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,                "dmgtm": 5
             }
         },
         "name": "Leather Vambrace of Temptation"
@@ -884,7 +884,7 @@
             "ev": 2,
             "dr": 2,
             "assad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1000,7 +1000,7 @@
                 "dp": 20,
                 "acc": 80,
                 "ev": 18,
-                "hev": 36
+                "hev": 36,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -1008,7 +1008,7 @@
                 "dp": 21,
                 "acc": 84,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -1016,7 +1016,7 @@
                 "dp": 25,
                 "acc": 88,
                 "ev": 23,
-                "hev": 46
+                "hev": 46,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -1024,7 +1024,7 @@
                 "dp": 26,
                 "acc": 92,
                 "ev": 24,
-                "hev": 48
+                "hev": 48,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -1032,7 +1032,7 @@
                 "dp": 27,
                 "acc": 96,
                 "ev": 25,
-                "hev": 50
+                "hev": 50,                "dmgtm": 5
             }
         },
         "name": "Ultimate Leather Vambrace"
@@ -1047,7 +1047,7 @@
             "ev": 2,
             "dr": 3,
             "abad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1113,23 +1113,23 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24
+                "ap_max": 24,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33
+                "ap_max": 33,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 5
             }
         },
         "name": "Scale Vambrace of Crimson Flame"
@@ -1144,7 +1144,7 @@
             "ev": 2,
             "dr": 3,
             "adad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1210,23 +1210,23 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24
+                "ap_max": 24,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33
+                "ap_max": 33,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 5
             }
         },
         "name": "Scale Vambrace of Destruction"
@@ -1241,7 +1241,7 @@
             "ev": 2,
             "dr": 3,
             "aaad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1307,23 +1307,23 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24
+                "ap_max": 24,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33
+                "ap_max": 33,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 5
             }
         },
         "name": "Scale Vambrace of Temptation"
@@ -1338,7 +1338,7 @@
             "ev": 2,
             "dr": 3,
             "assad": 1,
-            "hev": 4
+            "hev": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1404,23 +1404,23 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24
+                "ap_max": 24,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33
+                "ap_max": 33,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 5
             }
         },
         "name": "Ultimate Scale Vambrace"
@@ -1436,7 +1436,7 @@
             "dr": 5,
             "hp": 50,
             "abad": 1,
-            "hev": 6
+            "hev": 6,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1520,31 +1520,31 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22
+                "dr": 22,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24
+                "dr": 24,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29
+                "dr": 29,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31
+                "dr": 31,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33
+                "dr": 33,                "dmgtm": 5
             }
         },
         "name": "Iron Vambrace of Crimson Flame"
@@ -1560,7 +1560,7 @@
             "dr": 5,
             "hp": 50,
             "adad": 1,
-            "hev": 6
+            "hev": 6,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1644,31 +1644,31 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22
+                "dr": 22,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24
+                "dr": 24,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29
+                "dr": 29,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31
+                "dr": 31,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33
+                "dr": 33,                "dmgtm": 5
             }
         },
         "name": "Iron Vambrace of Destruction"
@@ -1684,7 +1684,7 @@
             "dr": 5,
             "hp": 50,
             "aaad": 1,
-            "hev": 6
+            "hev": 6,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1768,31 +1768,31 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22
+                "dr": 22,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24
+                "dr": 24,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29
+                "dr": 29,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31
+                "dr": 31,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33
+                "dr": 33,                "dmgtm": 5
             }
         },
         "name": "Iron Vambrace of Temptation"
@@ -1808,7 +1808,7 @@
             "dr": 5,
             "hp": 100,
             "assad": 1,
-            "hev": 6
+            "hev": 6,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1892,31 +1892,31 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22
+                "dr": 22,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24
+                "dr": 24,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29
+                "dr": 29,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31
+                "dr": 31,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33
+                "dr": 33,                "dmgtm": 5
             }
         },
         "name": "Ultimate Iron Vambrace"
@@ -1931,7 +1931,7 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2031,35 +2031,35 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Krea Vambrace"
@@ -2074,7 +2074,7 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2188,35 +2188,35 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Rosar Vambrace"
@@ -2232,7 +2232,7 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2332,35 +2332,35 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Krea Vambrace of Crimson Flame"
@@ -2376,7 +2376,7 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2476,35 +2476,35 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Krea Vambrace of Destruction"
@@ -2520,7 +2520,7 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2620,35 +2620,35 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Krea Vambrace of Temptation"
@@ -2664,7 +2664,7 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4
+            "dr": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2764,35 +2764,35 @@
                 "ap_max": 12,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 25,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 30,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 32,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 34,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Ultimate Krea Vambrace"
@@ -2808,7 +2808,7 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2922,35 +2922,35 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Rosar Vambrace of Crimson Flame"
@@ -2966,7 +2966,7 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3080,35 +3080,35 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Rosar Vambrace of Destruction"
@@ -3124,7 +3124,7 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3238,35 +3238,35 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Rosar Vambrace of Temptation"
@@ -3282,7 +3282,7 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4
+            "dr": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3382,35 +3382,35 @@
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38
+                "hev": 38,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 25,
                 "ev": 21,
-                "hev": 42
+                "hev": 42,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 26,
-                "hev": 52
+                "hev": 52,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 28,
-                "hev": 56
+                "hev": 56,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 34,
                 "ev": 30,
-                "hev": 60
+                "hev": 60,                "dmgtm": 5
             }
         },
         "name": "Ultimate Rosar Vambrace"
@@ -3424,7 +3424,7 @@
             "kb": 10,
             "kd": 10,
             "ssfr": 10,
-            "gr": 10
+            "gr": 10,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3490,23 +3490,23 @@
             },
             "16": {
                 "ap_min": 29,
-                "ap_max": 31
+                "ap_max": 31,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 32,
-                "ap_max": 34
+                "ap_max": 34,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 38,
-                "ap_max": 40
+                "ap_max": 40,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 41,
-                "ap_max": 43
+                "ap_max": 43,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 44,
-                "ap_max": 46
+                "ap_max": 46,                "dmgtm": 5
             }
         },
         "name": "Nouver Vambrace"

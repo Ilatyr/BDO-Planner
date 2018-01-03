@@ -5,7 +5,7 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "acc": 20
+            "acc": 20,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -73,27 +73,27 @@
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "acc": 76
+                "acc": 76,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "acc": 84
+                "acc": 84,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "acc": 92
+                "acc": 92,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "acc": 100
+                "acc": 100,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "acc": 108
+                "acc": 108,                "dmgtm": 5
             }
         },
         "name": "Incense Trinket"
@@ -103,7 +103,8 @@
         "ap_max": 8,
         "rarity": "uncommon",
         "gems": 1,
-        "item_effects": {},
+        "item_effects": {            "dmgtm": 0
+        },
         "enhancement_text": "",
         "enhancement": {
             "1": {
@@ -168,23 +169,23 @@
             },
             "16": {
                 "ap_min": 24,
-                "ap_max": 26
+                "ap_max": 26,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 27,
-                "ap_max": 29
+                "ap_max": 29,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 33,
-                "ap_max": 35
+                "ap_max": 35,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 36,
-                "ap_max": 38
+                "ap_max": 38,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 39,
-                "ap_max": 41
+                "ap_max": 41,                "dmgtm": 5
             }
         },
         "name": "Needle Trinket"
@@ -199,7 +200,7 @@
             "ev": 3,
             "hp": 50,
             "hev": 9,
-            "dr": 0
+            "dr": 0,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -300,7 +301,7 @@
                 "dp": 20,
                 "ev": 19,
                 "hev": 57,
-                "dr": 1
+                "dr": 1,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
@@ -308,7 +309,7 @@
                 "dp": 22,
                 "ev": 20,
                 "hev": 60,
-                "dr": 2
+                "dr": 2,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
@@ -316,7 +317,7 @@
                 "dp": 27,
                 "ev": 24,
                 "hev": 72,
-                "dr": 3
+                "dr": 3,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
@@ -324,7 +325,7 @@
                 "dp": 29,
                 "ev": 25,
                 "hev": 75,
-                "dr": 4
+                "dr": 4,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
@@ -332,7 +333,7 @@
                 "dp": 31,
                 "ev": 26,
                 "hev": 78,
-                "dr": 5
+                "dr": 5,                "dmgtm": 5
             }
         },
         "name": "Blade Trinket"
@@ -344,7 +345,7 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "abad": 1
+            "abad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -412,27 +413,27 @@
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "acc": 84
+                "acc": 84,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "acc": 92
+                "acc": 92,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "acc": 100
+                "acc": 100,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "acc": 108
+                "acc": 108,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "acc": 116
+                "acc": 116,                "dmgtm": 5
             }
         },
         "name": "Incense Trinket of Crimson Flame"
@@ -444,7 +445,7 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "adad": 1
+            "adad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -512,27 +513,27 @@
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "acc": 84
+                "acc": 84,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "acc": 92
+                "acc": 92,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "acc": 100
+                "acc": 100,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "acc": 108
+                "acc": 108,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "acc": 116
+                "acc": 116,                "dmgtm": 5
             }
         },
         "name": "Incense Trinket of Destruction"
@@ -544,7 +545,7 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "aaad": 1
+            "aaad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -612,27 +613,27 @@
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "acc": 84
+                "acc": 84,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "acc": 92
+                "acc": 92,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "acc": 100
+                "acc": 100,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "acc": 108
+                "acc": 108,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "acc": 116
+                "acc": 116,                "dmgtm": 5
             }
         },
         "name": "Incense Trinket of Temptation"
@@ -644,7 +645,7 @@
         "gems": 1,
         "item_effects": {
             "acc": 28,
-            "assad": 1
+            "assad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -712,27 +713,27 @@
             "16": {
                 "ap_min": 12,
                 "ap_max": 12,
-                "acc": 84
+                "acc": 84,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
-                "acc": 92
+                "acc": 92,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 17,
                 "ap_max": 17,
-                "acc": 100
+                "acc": 100,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 18,
                 "ap_max": 18,
-                "acc": 108
+                "acc": 108,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 19,
                 "ap_max": 19,
-                "acc": 116
+                "acc": 116,                "dmgtm": 5
             }
         },
         "name": "Ultimate Incense Trinket"
@@ -743,7 +744,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "abad": 1
+            "abad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -809,23 +810,23 @@
             },
             "16": {
                 "ap_min": 25,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 30
+                "ap_max": 30,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 42
+                "ap_max": 42,                "dmgtm": 5
             }
         },
         "name": "Needle Trinket of Crimson Flame"
@@ -836,7 +837,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "adad": 1
+            "adad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -902,23 +903,23 @@
             },
             "16": {
                 "ap_min": 25,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 30
+                "ap_max": 30,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 42
+                "ap_max": 42,                "dmgtm": 5
             }
         },
         "name": "Needle Trinket of Destruction"
@@ -929,7 +930,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "aaad": 1
+            "aaad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -995,23 +996,23 @@
             },
             "16": {
                 "ap_min": 25,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 30
+                "ap_max": 30,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 42
+                "ap_max": 42,                "dmgtm": 5
             }
         },
         "name": "Needle Trinket of Temptation"
@@ -1022,7 +1023,7 @@
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
-            "assad": 1
+            "assad": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1088,23 +1089,23 @@
             },
             "16": {
                 "ap_min": 25,
-                "ap_max": 27
+                "ap_max": 27,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 30
+                "ap_max": 30,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 36
+                "ap_max": 36,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 39
+                "ap_max": 39,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 42
+                "ap_max": 42,                "dmgtm": 5
             }
         },
         "name": "Ultimate Needle Trinket"
@@ -1121,7 +1122,7 @@
             "hp": 50,
             "abad": 1,
             "hev": 9,
-            "dr": 1
+            "dr": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1222,7 +1223,7 @@
                 "dp": 21,
                 "ev": 19,
                 "hev": 57,
-                "dr": 2
+                "dr": 2,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
@@ -1230,7 +1231,7 @@
                 "dp": 23,
                 "ev": 20,
                 "hev": 60,
-                "dr": 3
+                "dr": 3,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
@@ -1238,7 +1239,7 @@
                 "dp": 28,
                 "ev": 24,
                 "hev": 72,
-                "dr": 4
+                "dr": 4,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
@@ -1246,7 +1247,7 @@
                 "dp": 30,
                 "ev": 25,
                 "hev": 75,
-                "dr": 5
+                "dr": 5,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
@@ -1254,7 +1255,7 @@
                 "dp": 32,
                 "ev": 26,
                 "hev": 78,
-                "dr": 6
+                "dr": 6,                "dmgtm": 5
             }
         },
         "name": "Blade Trinket of Crimson Flame"
@@ -1271,7 +1272,7 @@
             "hp": 50,
             "adad": 1,
             "hev": 9,
-            "dr": 1
+            "dr": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1372,7 +1373,7 @@
                 "dp": 21,
                 "ev": 19,
                 "hev": 57,
-                "dr": 2
+                "dr": 2,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
@@ -1380,7 +1381,7 @@
                 "dp": 23,
                 "ev": 20,
                 "hev": 60,
-                "dr": 3
+                "dr": 3,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
@@ -1388,7 +1389,7 @@
                 "dp": 28,
                 "ev": 24,
                 "hev": 72,
-                "dr": 4
+                "dr": 4,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
@@ -1396,7 +1397,7 @@
                 "dp": 30,
                 "ev": 25,
                 "hev": 75,
-                "dr": 5
+                "dr": 5,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
@@ -1404,7 +1405,7 @@
                 "dp": 32,
                 "ev": 26,
                 "hev": 78,
-                "dr": 6
+                "dr": 6,                "dmgtm": 5
             }
         },
         "name": "Blade Trinket of Destruction"
@@ -1421,7 +1422,7 @@
             "hp": 50,
             "aaad": 1,
             "hev": 9,
-            "dr": 1
+            "dr": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1522,7 +1523,7 @@
                 "dp": 21,
                 "ev": 19,
                 "hev": 57,
-                "dr": 2
+                "dr": 2,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
@@ -1530,7 +1531,7 @@
                 "dp": 23,
                 "ev": 20,
                 "hev": 60,
-                "dr": 3
+                "dr": 3,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
@@ -1538,7 +1539,7 @@
                 "dp": 28,
                 "ev": 24,
                 "hev": 72,
-                "dr": 4
+                "dr": 4,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
@@ -1546,7 +1547,7 @@
                 "dp": 30,
                 "ev": 25,
                 "hev": 75,
-                "dr": 5
+                "dr": 5,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
@@ -1554,7 +1555,7 @@
                 "dp": 32,
                 "ev": 26,
                 "hev": 78,
-                "dr": 6
+                "dr": 6,                "dmgtm": 5
             }
         },
         "name": "Blade Trinket of Temptation"
@@ -1571,7 +1572,7 @@
             "hp": 100,
             "assad": 1,
             "hev": 9,
-            "dr": 1
+            "dr": 1,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1672,7 +1673,7 @@
                 "dp": 21,
                 "ev": 19,
                 "hev": 57,
-                "dr": 2
+                "dr": 2,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
@@ -1680,7 +1681,7 @@
                 "dp": 23,
                 "ev": 20,
                 "hev": 60,
-                "dr": 3
+                "dr": 3,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
@@ -1688,7 +1689,7 @@
                 "dp": 28,
                 "ev": 24,
                 "hev": 72,
-                "dr": 4
+                "dr": 4,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
@@ -1696,7 +1697,7 @@
                 "dp": 30,
                 "ev": 25,
                 "hev": 75,
-                "dr": 5
+                "dr": 5,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
@@ -1704,7 +1705,7 @@
                 "dp": 32,
                 "ev": 26,
                 "hev": 78,
-                "dr": 6
+                "dr": 6,                "dmgtm": 5
             }
         },
         "name": "Ultimate Blade Trinket"
@@ -1719,7 +1720,7 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1820,7 +1821,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -1828,7 +1829,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -1836,7 +1837,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -1844,7 +1845,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -1852,7 +1853,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Krea Trinket"
@@ -1867,7 +1868,7 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1982,7 +1983,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -1990,7 +1991,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -1998,7 +1999,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2006,7 +2007,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2014,7 +2015,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Rosar Trinket"
@@ -2030,7 +2031,7 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2131,7 +2132,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -2139,7 +2140,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -2147,7 +2148,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2155,7 +2156,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2163,7 +2164,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Krea Trinket of Crimson Flame"
@@ -2179,7 +2180,7 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2280,7 +2281,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -2288,7 +2289,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -2296,7 +2297,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2304,7 +2305,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2312,7 +2313,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Krea Trinket of Destruction"
@@ -2328,7 +2329,7 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2429,7 +2430,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -2437,7 +2438,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -2445,7 +2446,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2453,7 +2454,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2461,7 +2462,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Krea Trinket of Temptation"
@@ -2477,7 +2478,7 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4
+            "dr": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2578,7 +2579,7 @@
                 "dp": 23,
                 "ev": 18,
                 "hev": 36,
-                "dr": 5
+                "dr": 5,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -2586,7 +2587,7 @@
                 "dp": 25,
                 "ev": 19,
                 "hev": 38,
-                "dr": 6
+                "dr": 6,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -2594,7 +2595,7 @@
                 "dp": 30,
                 "ev": 23,
                 "hev": 46,
-                "dr": 7
+                "dr": 7,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2602,7 +2603,7 @@
                 "dp": 32,
                 "ev": 24,
                 "hev": 48,
-                "dr": 8
+                "dr": 8,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2610,7 +2611,7 @@
                 "dp": 34,
                 "ev": 25,
                 "hev": 50,
-                "dr": 9
+                "dr": 9,                "dmgtm": 5
             }
         },
         "name": "Ultimate Krea Trinket"
@@ -2626,7 +2627,7 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2741,7 +2742,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -2749,7 +2750,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -2757,7 +2758,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2765,7 +2766,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2773,7 +2774,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Rosar Trinket of Crimson Flame"
@@ -2789,7 +2790,7 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2904,7 +2905,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -2912,7 +2913,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -2920,7 +2921,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -2928,7 +2929,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -2936,7 +2937,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Rosar Trinket of Destruction"
@@ -2952,7 +2953,7 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2
+            "dr": 2,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3067,7 +3068,7 @@
                 "dp": 21,
                 "ev": 18,
                 "hev": 36,
-                "dr": 3
+                "dr": 3,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -3075,7 +3076,7 @@
                 "dp": 23,
                 "ev": 19,
                 "hev": 38,
-                "dr": 4
+                "dr": 4,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -3083,7 +3084,7 @@
                 "dp": 28,
                 "ev": 23,
                 "hev": 46,
-                "dr": 5
+                "dr": 5,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -3091,7 +3092,7 @@
                 "dp": 30,
                 "ev": 24,
                 "hev": 48,
-                "dr": 6
+                "dr": 6,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -3099,7 +3100,7 @@
                 "dp": 32,
                 "ev": 25,
                 "hev": 50,
-                "dr": 7
+                "dr": 7,                "dmgtm": 5
             }
         },
         "name": "Rosar Trinket of Temptation"
@@ -3115,7 +3116,7 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4
+            "dr": 4,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3216,7 +3217,7 @@
                 "dp": 23,
                 "ev": 18,
                 "hev": 36,
-                "dr": 5
+                "dr": 5,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -3224,7 +3225,7 @@
                 "dp": 25,
                 "ev": 19,
                 "hev": 38,
-                "dr": 6
+                "dr": 6,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -3232,7 +3233,7 @@
                 "dp": 30,
                 "ev": 23,
                 "hev": 46,
-                "dr": 7
+                "dr": 7,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -3240,7 +3241,7 @@
                 "dp": 32,
                 "ev": 24,
                 "hev": 48,
-                "dr": 8
+                "dr": 8,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -3248,7 +3249,7 @@
                 "dp": 34,
                 "ev": 25,
                 "hev": 50,
-                "dr": 9
+                "dr": 9,                "dmgtm": 5
             }
         },
         "name": "Ultimate Rosar Trinket"
@@ -3262,7 +3263,7 @@
             "kb": 10,
             "kd": 10,
             "ssfr": 10,
-            "gr": 10
+            "gr": 10,            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3328,23 +3329,23 @@
             },
             "16": {
                 "ap_min": 29,
-                "ap_max": 31
+                "ap_max": 31,                "dmgtm": 1
             },
             "17": {
                 "ap_min": 32,
-                "ap_max": 34
+                "ap_max": 34,                "dmgtm": 2
             },
             "18": {
                 "ap_min": 38,
-                "ap_max": 40
+                "ap_max": 40,                "dmgtm": 3
             },
             "19": {
                 "ap_min": 41,
-                "ap_max": 43
+                "ap_max": 43,                "dmgtm": 4
             },
             "20": {
                 "ap_min": 44,
-                "ap_max": 46
+                "ap_max": 46,                "dmgtm": 5
             }
         },
         "name": "Nouver Trinket"
