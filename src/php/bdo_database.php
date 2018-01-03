@@ -74,7 +74,7 @@ $scripts["items"]["awakening-weapons"]["witch"] = "items/awakening-weapons/aadsp
 $scripts["items"]["awakening-weapons"]["wizard"] = "items/awakening-weapons/godrsphera.json";
 $scripts["items"]["awakening-weapons"]["darkknight"] = "items/awakening-weapons/vediant.json";
 $scripts["items"]["awakening-weapons"]["striker"] = "items/awakening-weapons/gardbrace.json";
-$scripts["items"]["awakening-weapons"]["mystic"] = "items/awakening-weapons/mysticawakeningweapon.json";
+$scripts["items"]["awakening-weapons"]["mystic"] = "items/awakening-weapons/cestus.json";
 
 /* Modified from D3Planner https://github.com/d07RiV/d3planner/blob/master/php/getter.php */
 
