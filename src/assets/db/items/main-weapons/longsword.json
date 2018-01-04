@@ -7,6 +7,7 @@
         "item_effects": {
             "dmgaes": 5,
             "acc": 10,
+            "dmgtm": 0,
             "special": "5% chance to heal 5 HP on attack."
         },
         "enhancement_text": "",
@@ -105,31 +106,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "dmgaes": 14,
-                "acc": 168
+                "acc": 168,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "dmgaes": 15,
-                "acc": 176
+                "acc": 176,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "dmgaes": 16,
-                "acc": 184
+                "acc": 184,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "dmgaes": 17,
-                "acc": 192
+                "acc": 192,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "dmgaes": 18,
-                "acc": 200
+                "acc": 200,
+                "dmgtm": 15
             }
         },
         "name": "Elsh Longsword"
@@ -141,6 +147,7 @@
         "gems": 1,
         "item_effects": {
             "acc": 20,
+            "dmgtm": 0,
             "special": "AP does not decrease in the rain."
         },
         "enhancement_text": "",
@@ -223,27 +230,32 @@
             "16": {
                 "ap_min": 74,
                 "ap_max": 78,
-                "acc": 106
+                "acc": 106,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 82,
                 "ap_max": 86,
-                "acc": 112
+                "acc": 112,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 94,
                 "ap_max": 98,
-                "acc": 118
+                "acc": 118,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 102,
                 "ap_max": 106,
-                "acc": 124
+                "acc": 124,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 110,
                 "ap_max": 114,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 15
             }
         },
         "name": "Azwell Longsword"
@@ -255,7 +267,8 @@
         "gems": 1,
         "item_effects": {
             "dmgth": 10,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -353,31 +366,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "acc": 86,
-                "dmgth": 27
+                "dmgth": 27,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "acc": 92,
-                "dmgth": 29
+                "dmgth": 29,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "acc": 98,
-                "dmgth": 31
+                "dmgth": 31,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "acc": 104,
-                "dmgth": 33
+                "dmgth": 33,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "acc": 110,
-                "dmgth": 35
+                "dmgth": 35,
+                "dmgtm": 15
             }
         },
         "name": "Seleth Longsword"
@@ -391,7 +409,8 @@
         "item_effects": {
             "chr": 3,
             "acc": 0,
-            "dmgaes": 5
+            "dmgaes": 5,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -473,27 +492,32 @@
             "16": {
                 "ap_min": 86,
                 "ap_max": 90,
-                "acc": 142
+                "acc": 142,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 94,
                 "ap_max": 98,
-                "acc": 152
+                "acc": 152,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 106,
                 "ap_max": 110,
-                "acc": 162
+                "acc": 162,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 114,
                 "ap_max": 118,
-                "acc": 172
+                "acc": 172,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 122,
                 "ap_max": 126,
-                "acc": 182
+                "acc": 182,
+                "dmgtm": 15
             }
         },
         "name": "Liverto Longsword"
@@ -507,7 +531,8 @@
             "as": 3,
             "cs": 3,
             "acc": 10,
-            "dmgaes": 10
+            "dmgaes": 10,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -605,31 +630,36 @@
                 "ap_min": 86,
                 "ap_max": 90,
                 "acc": 168,
-                "dmgaes": 16
+                "dmgaes": 16,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 94,
                 "ap_max": 98,
                 "acc": 176,
-                "dmgaes": 17
+                "dmgaes": 17,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "acc": 184,
-                "dmgaes": 18
+                "dmgaes": 18,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 114,
                 "ap_max": 118,
                 "acc": 192,
-                "dmgaes": 19
+                "dmgaes": 19,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 122,
                 "ap_max": 126,
                 "acc": 200,
-                "dmgaes": 20
+                "dmgaes": 20,
+                "dmgtm": 15
             }
         },
         "name": "Kzarka Longsword"
@@ -640,7 +670,8 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -722,27 +753,32 @@
             "16": {
                 "ap_min": 73,
                 "ap_max": 87,
-                "acc": 86
+                "acc": 86,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 81,
                 "ap_max": 95,
-                "acc": 92
+                "acc": 92,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 93,
                 "ap_max": 107,
-                "acc": 98
+                "acc": 98,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 101,
                 "ap_max": 115,
-                "acc": 104
+                "acc": 104,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 109,
                 "ap_max": 123,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 15
             }
         },
         "name": "Kalis Longsword"
@@ -754,7 +790,8 @@
         "gems": 1,
         "item_effects": {
             "dmgaes": 5,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -852,31 +889,36 @@
                 "ap_min": 71,
                 "ap_max": 75,
                 "acc": 86,
-                "dmgaes": 21
+                "dmgaes": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 79,
                 "ap_max": 83,
                 "acc": 92,
-                "dmgaes": 22
+                "dmgaes": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 91,
                 "ap_max": 95,
                 "acc": 98,
-                "dmgaes": 23
+                "dmgaes": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 99,
                 "ap_max": 103,
                 "acc": 104,
-                "dmgaes": 24
+                "dmgaes": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 107,
                 "ap_max": 111,
                 "acc": 110,
-                "dmgaes": 25
+                "dmgaes": 25,
+                "dmgtm": 15
             }
         },
         "name": "Bares Longsword"
@@ -888,7 +930,8 @@
         "gems": 1,
         "item_effects": {
             "dmgth": 5,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -986,31 +1029,36 @@
                 "ap_min": 76,
                 "ap_max": 81,
                 "acc": 86,
-                "dmgth": 21
+                "dmgth": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 84,
                 "ap_max": 89,
                 "acc": 92,
-                "dmgth": 22
+                "dmgth": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 96,
                 "ap_max": 101,
                 "acc": 98,
-                "dmgth": 23
+                "dmgth": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 104,
                 "ap_max": 109,
                 "acc": 104,
-                "dmgth": 24
+                "dmgth": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 112,
                 "ap_max": 117,
                 "acc": 110,
-                "dmgth": 25
+                "dmgth": 25,
+                "dmgtm": 15
             }
         },
         "name": "Yuria Longsword"
@@ -1023,6 +1071,7 @@
         "item_effects": {
             "acc": 20,
             "chr": 1,
+            "dmgtm": 0,
             "special": "AP does not decrease in the rain."
         },
         "enhancement_text": "",
@@ -1105,27 +1154,32 @@
             "16": {
                 "ap_min": 74,
                 "ap_max": 78,
-                "acc": 128
+                "acc": 128,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 82,
                 "ap_max": 86,
-                "acc": 136
+                "acc": 136,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 94,
                 "ap_max": 98,
-                "acc": 144
+                "acc": 144,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 102,
                 "ap_max": 106,
-                "acc": 152
+                "acc": 152,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 110,
                 "ap_max": 114,
-                "acc": 160
+                "acc": 160,
+                "dmgtm": 15
             }
         },
         "name": "Azwell Longsword of Crimson Flame"
@@ -1139,6 +1193,7 @@
             "acc": 20,
             "as": 1,
             "cs": 1,
+            "dmgtm": 0,
             "special": "AP does not decrease in the rain."
         },
         "enhancement_text": "",
@@ -1221,27 +1276,32 @@
             "16": {
                 "ap_min": 74,
                 "ap_max": 78,
-                "acc": 128
+                "acc": 128,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 82,
                 "ap_max": 86,
-                "acc": 136
+                "acc": 136,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 94,
                 "ap_max": 98,
-                "acc": 144
+                "acc": 144,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 102,
                 "ap_max": 106,
-                "acc": 152
+                "acc": 152,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 110,
                 "ap_max": 114,
-                "acc": 160
+                "acc": 160,
+                "dmgtm": 15
             }
         },
         "name": "Azwell Longsword of Destruction"
@@ -1256,6 +1316,7 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
+            "dmgtm": 0,
             "special": "AP does not decrease in the rain."
         },
         "enhancement_text": "",
@@ -1338,27 +1399,32 @@
             "16": {
                 "ap_min": 74,
                 "ap_max": 78,
-                "acc": 128
+                "acc": 128,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 82,
                 "ap_max": 86,
-                "acc": 136
+                "acc": 136,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 94,
                 "ap_max": 98,
-                "acc": 144
+                "acc": 144,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 102,
                 "ap_max": 106,
-                "acc": 152
+                "acc": 152,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 110,
                 "ap_max": 114,
-                "acc": 160
+                "acc": 160,
+                "dmgtm": 15
             }
         },
         "name": "Azwell Longsword of Temptation"
@@ -1373,6 +1439,7 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
+            "dmgtm": 0,
             "special": "AP does not decrease in the rain."
         },
         "enhancement_text": "",
@@ -1455,27 +1522,32 @@
             "16": {
                 "ap_min": 76,
                 "ap_max": 84,
-                "acc": 152
+                "acc": 152,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 84,
                 "ap_max": 92,
-                "acc": 164
+                "acc": 164,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 96,
                 "ap_max": 104,
-                "acc": 176
+                "acc": 176,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 104,
                 "ap_max": 112,
-                "acc": 188
+                "acc": 188,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 112,
                 "ap_max": 120,
-                "acc": 200
+                "acc": 200,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Azwell Longsword"
@@ -1488,7 +1560,8 @@
         "item_effects": {
             "dmgth": 10,
             "chr": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1586,31 +1659,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "acc": 110,
-                "dmgth": 27
+                "dmgth": 27,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "acc": 120,
-                "dmgth": 29
+                "dmgth": 29,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "acc": 130,
-                "dmgth": 31
+                "dmgth": 31,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "acc": 140,
-                "dmgth": 33
+                "dmgth": 33,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "acc": 150,
-                "dmgth": 35
+                "dmgth": 35,
+                "dmgtm": 15
             }
         },
         "name": "Seleth Longsword of Crimson Flame"
@@ -1624,7 +1702,8 @@
             "dmgth": 10,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1722,31 +1801,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "acc": 110,
-                "dmgth": 27
+                "dmgth": 27,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "acc": 120,
-                "dmgth": 29
+                "dmgth": 29,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "acc": 130,
-                "dmgth": 31
+                "dmgth": 31,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "acc": 140,
-                "dmgth": 33
+                "dmgth": 33,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "acc": 150,
-                "dmgth": 35
+                "dmgth": 35,
+                "dmgtm": 15
             }
         },
         "name": "Seleth Longsword of Destruction"
@@ -1761,7 +1845,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1859,31 +1944,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "acc": 110,
-                "dmgth": 27
+                "dmgth": 27,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "acc": 120,
-                "dmgth": 29
+                "dmgth": 29,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "acc": 130,
-                "dmgth": 31
+                "dmgth": 31,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "acc": 140,
-                "dmgth": 33
+                "dmgth": 33,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "acc": 150,
-                "dmgth": 35
+                "dmgth": 35,
+                "dmgtm": 15
             }
         },
         "name": "Seleth Longsword of Temptation"
@@ -1898,7 +1988,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1996,31 +2087,36 @@
                 "ap_min": 70,
                 "ap_max": 78,
                 "acc": 130,
-                "dmgth": 27
+                "dmgth": 27,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 86,
                 "acc": 140,
-                "dmgth": 29
+                "dmgth": 29,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 98,
                 "acc": 150,
-                "dmgth": 31
+                "dmgth": 31,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 106,
                 "acc": 160,
-                "dmgth": 33
+                "dmgth": 33,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 114,
                 "acc": 170,
-                "dmgth": 35
+                "dmgth": 35,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Seleth Longsword"
@@ -2032,7 +2128,8 @@
         "gems": 1,
         "item_effects": {
             "chr": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2114,27 +2211,32 @@
             "16": {
                 "ap_min": 73,
                 "ap_max": 87,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 81,
                 "ap_max": 95,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 93,
                 "ap_max": 107,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 101,
                 "ap_max": 115,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 109,
                 "ap_max": 123,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Kalis Longsword of Crimson Flame"
@@ -2147,7 +2249,8 @@
         "item_effects": {
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2229,27 +2332,32 @@
             "16": {
                 "ap_min": 73,
                 "ap_max": 87,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 81,
                 "ap_max": 95,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 93,
                 "ap_max": 107,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 101,
                 "ap_max": 115,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 109,
                 "ap_max": 123,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Kalis Longsword of Destruction"
@@ -2263,7 +2371,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2345,27 +2454,32 @@
             "16": {
                 "ap_min": 73,
                 "ap_max": 87,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 81,
                 "ap_max": 95,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 93,
                 "ap_max": 107,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 101,
                 "ap_max": 115,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 109,
                 "ap_max": 123,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Kalis Longsword of Temptation"
@@ -2379,7 +2493,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2461,27 +2576,32 @@
             "16": {
                 "ap_min": 73,
                 "ap_max": 91,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 81,
                 "ap_max": 99,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 93,
                 "ap_max": 111,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 101,
                 "ap_max": 119,
-                "acc": 160
+                "acc": 160,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 109,
                 "ap_max": 127,
-                "acc": 170
+                "acc": 170,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Kalis Longsword"
@@ -2494,7 +2614,8 @@
         "item_effects": {
             "dmgaes": 5,
             "chr": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2592,31 +2713,36 @@
                 "ap_min": 71,
                 "ap_max": 75,
                 "acc": 110,
-                "dmgaes": 21
+                "dmgaes": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 79,
                 "ap_max": 83,
                 "acc": 120,
-                "dmgaes": 22
+                "dmgaes": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 91,
                 "ap_max": 95,
                 "acc": 130,
-                "dmgaes": 23
+                "dmgaes": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 99,
                 "ap_max": 103,
                 "acc": 140,
-                "dmgaes": 24
+                "dmgaes": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 107,
                 "ap_max": 111,
                 "acc": 150,
-                "dmgaes": 25
+                "dmgaes": 25,
+                "dmgtm": 15
             }
         },
         "name": "Bares Longsword of Crimson Flame"
@@ -2630,7 +2756,8 @@
             "dmgaes": 5,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2728,31 +2855,36 @@
                 "ap_min": 71,
                 "ap_max": 75,
                 "acc": 110,
-                "dmgaes": 21
+                "dmgaes": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 79,
                 "ap_max": 83,
                 "acc": 120,
-                "dmgaes": 22
+                "dmgaes": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 91,
                 "ap_max": 95,
                 "acc": 130,
-                "dmgaes": 23
+                "dmgaes": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 99,
                 "ap_max": 103,
                 "acc": 140,
-                "dmgaes": 24
+                "dmgaes": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 107,
                 "ap_max": 111,
                 "acc": 150,
-                "dmgaes": 25
+                "dmgaes": 25,
+                "dmgtm": 15
             }
         },
         "name": "Bares Longsword of Destruction"
@@ -2767,7 +2899,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2865,31 +2998,36 @@
                 "ap_min": 71,
                 "ap_max": 75,
                 "acc": 110,
-                "dmgaes": 21
+                "dmgaes": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 79,
                 "ap_max": 83,
                 "acc": 120,
-                "dmgaes": 22
+                "dmgaes": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 91,
                 "ap_max": 95,
                 "acc": 130,
-                "dmgaes": 23
+                "dmgaes": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 99,
                 "ap_max": 103,
                 "acc": 140,
-                "dmgaes": 24
+                "dmgaes": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 107,
                 "ap_max": 111,
                 "acc": 150,
-                "dmgaes": 25
+                "dmgaes": 25,
+                "dmgtm": 15
             }
         },
         "name": "Bares Longsword of Temptation"
@@ -2904,7 +3042,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3002,31 +3141,36 @@
                 "ap_min": 71,
                 "ap_max": 79,
                 "acc": 130,
-                "dmgaes": 21
+                "dmgaes": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 79,
                 "ap_max": 87,
                 "acc": 140,
-                "dmgaes": 22
+                "dmgaes": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 91,
                 "ap_max": 99,
                 "acc": 150,
-                "dmgaes": 23
+                "dmgaes": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 99,
                 "ap_max": 107,
                 "acc": 160,
-                "dmgaes": 24
+                "dmgaes": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 107,
                 "ap_max": 115,
                 "acc": 170,
-                "dmgaes": 25
+                "dmgaes": 25,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Bares Longsword"
@@ -3039,7 +3183,8 @@
         "item_effects": {
             "dmgth": 5,
             "chr": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3137,31 +3282,36 @@
                 "ap_min": 76,
                 "ap_max": 81,
                 "acc": 110,
-                "dmgth": 21
+                "dmgth": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 84,
                 "ap_max": 89,
                 "acc": 120,
-                "dmgth": 22
+                "dmgth": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 96,
                 "ap_max": 101,
                 "acc": 130,
-                "dmgth": 23
+                "dmgth": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 104,
                 "ap_max": 109,
                 "acc": 140,
-                "dmgth": 24
+                "dmgth": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 112,
                 "ap_max": 117,
                 "acc": 150,
-                "dmgth": 25
+                "dmgth": 25,
+                "dmgtm": 15
             }
         },
         "name": "Yuria Longsword of Crimson Flame"
@@ -3175,7 +3325,8 @@
             "dmgth": 5,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3273,31 +3424,36 @@
                 "ap_min": 76,
                 "ap_max": 81,
                 "acc": 110,
-                "dmgth": 21
+                "dmgth": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 84,
                 "ap_max": 89,
                 "acc": 120,
-                "dmgth": 22
+                "dmgth": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 96,
                 "ap_max": 101,
                 "acc": 130,
-                "dmgth": 23
+                "dmgth": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 104,
                 "ap_max": 109,
                 "acc": 140,
-                "dmgth": 24
+                "dmgth": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 112,
                 "ap_max": 117,
                 "acc": 150,
-                "dmgth": 25
+                "dmgth": 25,
+                "dmgtm": 15
             }
         },
         "name": "Yuria Longsword of Destruction"
@@ -3312,7 +3468,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3410,31 +3567,36 @@
                 "ap_min": 76,
                 "ap_max": 81,
                 "acc": 110,
-                "dmgth": 21
+                "dmgth": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 84,
                 "ap_max": 89,
                 "acc": 120,
-                "dmgth": 22
+                "dmgth": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 96,
                 "ap_max": 101,
                 "acc": 130,
-                "dmgth": 23
+                "dmgth": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 104,
                 "ap_max": 109,
                 "acc": 140,
-                "dmgth": 24
+                "dmgth": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 112,
                 "ap_max": 117,
                 "acc": 150,
-                "dmgth": 25
+                "dmgth": 25,
+                "dmgtm": 15
             }
         },
         "name": "Yuria Longsword of Temptation"
@@ -3449,7 +3611,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3547,31 +3710,36 @@
                 "ap_min": 76,
                 "ap_max": 85,
                 "acc": 130,
-                "dmgth": 21
+                "dmgth": 21,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 84,
                 "ap_max": 93,
                 "acc": 140,
-                "dmgth": 22
+                "dmgth": 22,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 96,
                 "ap_max": 105,
                 "acc": 150,
-                "dmgth": 23
+                "dmgth": 23,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 104,
                 "ap_max": 113,
                 "acc": 160,
-                "dmgth": 24
+                "dmgth": 24,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 112,
                 "ap_max": 121,
                 "acc": 170,
-                "dmgth": 25
+                "dmgth": 25,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Yuria Longsword"
@@ -3583,7 +3751,8 @@
         "rarity": "uncommon",
         "gems": 2,
         "item_effects": {
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3665,27 +3834,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 79,
-                "acc": 86
+                "acc": 86,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 87,
-                "acc": 92
+                "acc": 92,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 99,
-                "acc": 98
+                "acc": 98,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 107,
-                "acc": 104
+                "acc": 104,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 115,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 15
             }
         },
         "name": "Krea Longsword"
@@ -3697,7 +3871,8 @@
         "rarity": "uncommon",
         "gems": 2,
         "item_effects": {
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3779,27 +3954,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 82,
-                "acc": 86
+                "acc": 86,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 90,
-                "acc": 92
+                "acc": 92,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 102,
-                "acc": 98
+                "acc": 98,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 110,
-                "acc": 104
+                "acc": 104,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 118,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 15
             }
         },
         "name": "Rosar Longsword"
@@ -3812,7 +3992,8 @@
         "gems": 2,
         "item_effects": {
             "chr": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3894,27 +4075,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 79,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 87,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 99,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 107,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 115,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Krea Longsword of Crimson Flame"
@@ -3928,7 +4114,8 @@
         "item_effects": {
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4010,27 +4197,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 79,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 87,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 99,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 107,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 115,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Krea Longsword of Destruction"
@@ -4045,7 +4237,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4127,27 +4320,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 79,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 87,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 99,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 107,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 115,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Krea Longsword of Temptation"
@@ -4162,7 +4360,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4244,27 +4443,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 83,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 91,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 103,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 111,
-                "acc": 160
+                "acc": 160,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 119,
-                "acc": 170
+                "acc": 170,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Krea Longsword"
@@ -4277,7 +4481,8 @@
         "gems": 2,
         "item_effects": {
             "chr": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4359,27 +4564,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 82,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 90,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 102,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 110,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 118,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Rosar Longsword of Crimson Flame"
@@ -4393,7 +4603,8 @@
         "item_effects": {
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4475,27 +4686,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 82,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 90,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 102,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 110,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 118,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Rosar Longsword of Destruction"
@@ -4510,7 +4726,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4592,27 +4809,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 82,
-                "acc": 110
+                "acc": 110,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 90,
-                "acc": 120
+                "acc": 120,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 102,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 110,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 118,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 15
             }
         },
         "name": "Rosar Longsword of Temptation"
@@ -4627,7 +4849,8 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
-            "acc": 0
+            "acc": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -4709,27 +4932,32 @@
             "16": {
                 "ap_min": 77,
                 "ap_max": 86,
-                "acc": 130
+                "acc": 130,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 85,
                 "ap_max": 94,
-                "acc": 140
+                "acc": 140,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 97,
                 "ap_max": 106,
-                "acc": 150
+                "acc": 150,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 105,
                 "ap_max": 114,
-                "acc": 160
+                "acc": 160,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 113,
                 "ap_max": 122,
-                "acc": 170
+                "acc": 170,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Rosar Longsword"
@@ -4743,6 +4971,7 @@
             "dmgaes": 5,
             "acc": 10,
             "chr": 1,
+            "dmgtm": 0,
             "special": "5% chance to heal 5 HP on attack."
         },
         "enhancement_text": "",
@@ -4841,31 +5070,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "dmgaes": 14,
-                "acc": 168
+                "acc": 168,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "dmgaes": 15,
-                "acc": 176
+                "acc": 176,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "dmgaes": 16,
-                "acc": 184
+                "acc": 184,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "dmgaes": 17,
-                "acc": 192
+                "acc": 192,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "dmgaes": 18,
-                "acc": 200
+                "acc": 200,
+                "dmgtm": 15
             }
         },
         "name": "Elsh Longsword of Crimson Flame"
@@ -4880,6 +5114,7 @@
             "acc": 10,
             "as": 1,
             "cs": 1,
+            "dmgtm": 0,
             "special": "5% chance to heal 5 HP on attack."
         },
         "enhancement_text": "",
@@ -4978,31 +5213,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "dmgaes": 14,
-                "acc": 168
+                "acc": 168,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "dmgaes": 15,
-                "acc": 176
+                "acc": 176,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "dmgaes": 16,
-                "acc": 184
+                "acc": 184,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "dmgaes": 17,
-                "acc": 192
+                "acc": 192,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "dmgaes": 18,
-                "acc": 200
+                "acc": 200,
+                "dmgtm": 15
             }
         },
         "name": "Elsh Longsword of Destruction"
@@ -5018,6 +5258,7 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
+            "dmgtm": 0,
             "special": "5% chance to heal 5 HP on attack."
         },
         "enhancement_text": "",
@@ -5116,31 +5357,36 @@
                 "ap_min": 70,
                 "ap_max": 74,
                 "dmgaes": 14,
-                "acc": 168
+                "acc": 168,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 82,
                 "dmgaes": 15,
-                "acc": 176
+                "acc": 176,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 94,
                 "dmgaes": 16,
-                "acc": 184
+                "acc": 184,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 102,
                 "dmgaes": 17,
-                "acc": 192
+                "acc": 192,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 110,
                 "dmgaes": 18,
-                "acc": 200
+                "acc": 200,
+                "dmgtm": 15
             }
         },
         "name": "Elsh Longsword of Temptation"
@@ -5156,6 +5402,7 @@
             "chr": 1,
             "as": 1,
             "cs": 1,
+            "dmgtm": 0,
             "special": "5% chance to heal 5 HP on attack."
         },
         "enhancement_text": "",
@@ -5254,31 +5501,36 @@
                 "ap_min": 70,
                 "ap_max": 78,
                 "dmgaes": 14,
-                "acc": 168
+                "acc": 168,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 78,
                 "ap_max": 86,
                 "dmgaes": 15,
-                "acc": 176
+                "acc": 176,
+                "dmgtm": 3
             },
             "18": {
                 "ap_min": 90,
                 "ap_max": 98,
                 "dmgaes": 16,
-                "acc": 184
+                "acc": 184,
+                "dmgtm": 6
             },
             "19": {
                 "ap_min": 98,
                 "ap_max": 106,
                 "dmgaes": 17,
-                "acc": 192
+                "acc": 192,
+                "dmgtm": 10
             },
             "20": {
                 "ap_min": 106,
                 "ap_max": 114,
                 "dmgaes": 18,
-                "acc": 200
+                "acc": 200,
+                "dmgtm": 15
             }
         },
         "name": "Ultimate Elsh Longsword"
