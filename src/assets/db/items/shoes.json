@@ -7576,5 +7576,19 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Kaia Shoes"
+    },
+    "11529": {
+        "dp": 20,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "ev": 9,
+            "hev": 27,
+            "dr": 11,
+            "ms": 1
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Veteran Adventurer's Shoes"
     }
 }

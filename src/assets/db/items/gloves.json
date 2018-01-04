@@ -7476,5 +7476,21 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Kaia Gloves"
+    },
+    "11528": {
+        "dp": 17,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "ev": 7,
+            "hev": 21,
+            "dr": 10,
+            "as": 1,
+            "cs": 1,
+            "acc": 20
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Wind Crystal Gloves"
     }
 }

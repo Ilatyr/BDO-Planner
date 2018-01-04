@@ -7575,5 +7575,19 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Kaia Helmet"
+    },
+    "11527": {
+        "dp": 25,
+        "rarity": "rare",
+        "gems": 2,
+        "item_effects": {
+            "ev": 15,
+            "hev": 45,
+            "dr": 10,
+            "stam": 100
+        },
+        "enhancement_text": "",
+        "enhancement": {},
+        "name": "Devourer Helmet"
     }
 }
