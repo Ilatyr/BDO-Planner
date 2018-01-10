@@ -4,10 +4,13 @@
         "gems": 1,
         "item_effects": {
             "vr": 10,
-            "dthpen": -10,
+            "dthpen": -20,
             "am": 10,
             "jhm": 0.5,
-            "cbexp": 10
+            "cbexp": 10,
+            "skexp": 10,
+            "mwdrc": -10,
+            "awdrc": -10
         },
         "enhancement_text": "",
         "enhancement": {},
