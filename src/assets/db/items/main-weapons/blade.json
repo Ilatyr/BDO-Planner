@@ -1,7 +1,7 @@
 {
     "13303": {
-        "ap_min": 10,
-        "ap_max": 14,
+        "ap_min": 9,
+        "ap_max": 13,
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
@@ -13,126 +13,126 @@
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 14,
-                "ap_max": 18,
+                "ap_min": 13,
+                "ap_max": 17,
                 "dmgaes": 5,
                 "acc": 20
             },
             "2": {
-                "ap_min": 17,
-                "ap_max": 21,
+                "ap_min": 16,
+                "ap_max": 20,
                 "dmgaes": 5,
                 "acc": 30
             },
             "3": {
-                "ap_min": 20,
-                "ap_max": 24,
+                "ap_min": 19,
+                "ap_max": 23,
                 "dmgaes": 5,
                 "acc": 40
             },
             "4": {
-                "ap_min": 22,
-                "ap_max": 26,
+                "ap_min": 21,
+                "ap_max": 25,
                 "dmgaes": 5,
                 "acc": 50
             },
             "5": {
-                "ap_min": 24,
-                "ap_max": 28,
+                "ap_min": 23,
+                "ap_max": 27,
                 "dmgaes": 5,
                 "acc": 60
             },
             "6": {
-                "ap_min": 27,
-                "ap_max": 31,
+                "ap_min": 26,
+                "ap_max": 30,
                 "dmgaes": 5,
                 "acc": 70
             },
             "7": {
-                "ap_min": 30,
-                "ap_max": 34,
+                "ap_min": 29,
+                "ap_max": 33,
                 "dmgaes": 5,
                 "acc": 80
             },
             "8": {
-                "ap_min": 34,
-                "ap_max": 38,
+                "ap_min": 33,
+                "ap_max": 37,
                 "dmgaes": 6,
                 "acc": 90
             },
             "9": {
-                "ap_min": 38,
-                "ap_max": 42,
+                "ap_min": 37,
+                "ap_max": 41,
                 "dmgaes": 7,
                 "acc": 100
             },
             "10": {
-                "ap_min": 42,
-                "ap_max": 46,
+                "ap_min": 41,
+                "ap_max": 45,
                 "dmgaes": 8,
                 "acc": 110
             },
             "11": {
-                "ap_min": 46,
-                "ap_max": 50,
+                "ap_min": 45,
+                "ap_max": 49,
                 "dmgaes": 9,
                 "acc": 120
             },
             "12": {
-                "ap_min": 50,
-                "ap_max": 54,
+                "ap_min": 49,
+                "ap_max": 53,
                 "dmgaes": 10,
                 "acc": 130
             },
             "13": {
-                "ap_min": 54,
-                "ap_max": 58,
+                "ap_min": 53,
+                "ap_max": 57,
                 "dmgaes": 11,
                 "acc": 140
             },
             "14": {
-                "ap_min": 58,
-                "ap_max": 62,
+                "ap_min": 57,
+                "ap_max": 61,
                 "dmgaes": 12,
                 "acc": 150
             },
             "15": {
-                "ap_min": 62,
-                "ap_max": 66,
+                "ap_min": 61,
+                "ap_max": 65,
                 "dmgaes": 13,
                 "acc": 160
             },
             "16": {
-                "ap_min": 70,
-                "ap_max": 74,
+                "ap_min": 69,
+                "ap_max": 73,
                 "dmgaes": 14,
                 "acc": 168,
                 "dmgtm": 1
             },
             "17": {
-                "ap_min": 78,
-                "ap_max": 82,
+                "ap_min": 77,
+                "ap_max": 81,
                 "dmgaes": 15,
                 "acc": 176,
                 "dmgtm": 3
             },
             "18": {
-                "ap_min": 90,
-                "ap_max": 94,
+                "ap_min": 89,
+                "ap_max": 93,
                 "dmgaes": 16,
                 "acc": 184,
                 "dmgtm": 6
             },
             "19": {
-                "ap_min": 98,
-                "ap_max": 102,
+                "ap_min": 97,
+                "ap_max": 101,
                 "dmgaes": 17,
                 "acc": 192,
                 "dmgtm": 10
             },
             "20": {
-                "ap_min": 106,
-                "ap_max": 110,
+                "ap_min": 105,
+                "ap_max": 109,
                 "dmgaes": 18,
                 "acc": 200,
                 "dmgtm": 15
@@ -4941,8 +4941,8 @@
         "name": "Ultimate Rosar Blade"
     },
     "13374": {
-        "ap_min": 10,
-        "ap_max": 14,
+        "ap_min": 9,
+        "ap_max": 13,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
@@ -4955,126 +4955,126 @@
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 14,
-                "ap_max": 18,
+                "ap_min": 13,
+                "ap_max": 17,
                 "dmgaes": 5,
                 "acc": 20
             },
             "2": {
-                "ap_min": 17,
-                "ap_max": 21,
+                "ap_min": 16,
+                "ap_max": 20,
                 "dmgaes": 5,
                 "acc": 30
             },
             "3": {
-                "ap_min": 20,
-                "ap_max": 24,
+                "ap_min": 19,
+                "ap_max": 23,
                 "dmgaes": 5,
                 "acc": 40
             },
             "4": {
-                "ap_min": 22,
-                "ap_max": 26,
+                "ap_min": 21,
+                "ap_max": 25,
                 "dmgaes": 5,
                 "acc": 50
             },
             "5": {
-                "ap_min": 24,
-                "ap_max": 28,
+                "ap_min": 23,
+                "ap_max": 27,
                 "dmgaes": 5,
                 "acc": 60
             },
             "6": {
-                "ap_min": 27,
-                "ap_max": 31,
+                "ap_min": 26,
+                "ap_max": 30,
                 "dmgaes": 5,
                 "acc": 70
             },
             "7": {
-                "ap_min": 30,
-                "ap_max": 34,
+                "ap_min": 29,
+                "ap_max": 33,
                 "dmgaes": 5,
                 "acc": 80
             },
             "8": {
-                "ap_min": 34,
-                "ap_max": 38,
+                "ap_min": 33,
+                "ap_max": 37,
                 "dmgaes": 6,
                 "acc": 90
             },
             "9": {
-                "ap_min": 38,
-                "ap_max": 42,
+                "ap_min": 37,
+                "ap_max": 41,
                 "dmgaes": 7,
                 "acc": 100
             },
             "10": {
-                "ap_min": 42,
-                "ap_max": 46,
+                "ap_min": 41,
+                "ap_max": 45,
                 "dmgaes": 8,
                 "acc": 110
             },
             "11": {
-                "ap_min": 46,
-                "ap_max": 50,
+                "ap_min": 45,
+                "ap_max": 49,
                 "dmgaes": 9,
                 "acc": 120
             },
             "12": {
-                "ap_min": 50,
-                "ap_max": 54,
+                "ap_min": 49,
+                "ap_max": 53,
                 "dmgaes": 10,
                 "acc": 130
             },
             "13": {
-                "ap_min": 54,
-                "ap_max": 58,
+                "ap_min": 53,
+                "ap_max": 57,
                 "dmgaes": 11,
                 "acc": 140
             },
             "14": {
-                "ap_min": 58,
-                "ap_max": 62,
+                "ap_min": 57,
+                "ap_max": 61,
                 "dmgaes": 12,
                 "acc": 150
             },
             "15": {
-                "ap_min": 62,
-                "ap_max": 66,
+                "ap_min": 61,
+                "ap_max": 65,
                 "dmgaes": 13,
                 "acc": 160
             },
             "16": {
-                "ap_min": 70,
-                "ap_max": 74,
+                "ap_min": 69,
+                "ap_max": 73,
                 "dmgaes": 14,
                 "acc": 168,
                 "dmgtm": 1
             },
             "17": {
-                "ap_min": 78,
-                "ap_max": 82,
+                "ap_min": 77,
+                "ap_max": 81,
                 "dmgaes": 15,
                 "acc": 176,
                 "dmgtm": 3
             },
             "18": {
-                "ap_min": 90,
-                "ap_max": 94,
+                "ap_min": 89,
+                "ap_max": 93,
                 "dmgaes": 16,
                 "acc": 184,
                 "dmgtm": 6
             },
             "19": {
-                "ap_min": 98,
-                "ap_max": 102,
+                "ap_min": 97,
+                "ap_max": 101,
                 "dmgaes": 17,
                 "acc": 192,
                 "dmgtm": 10
             },
             "20": {
-                "ap_min": 106,
-                "ap_max": 110,
+                "ap_min": 105,
+                "ap_max": 109,
                 "dmgaes": 18,
                 "acc": 200,
                 "dmgtm": 15
@@ -5083,8 +5083,8 @@
         "name": "Elsh Blade of Crimson Flame"
     },
     "13375": {
-        "ap_min": 10,
-        "ap_max": 14,
+        "ap_min": 9,
+        "ap_max": 13,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
@@ -5097,126 +5097,126 @@
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 14,
-                "ap_max": 18,
+                "ap_min": 13,
+                "ap_max": 17,
                 "dmgaes": 5,
                 "acc": 20
             },
             "2": {
-                "ap_min": 17,
-                "ap_max": 21,
+                "ap_min": 16,
+                "ap_max": 20,
                 "dmgaes": 5,
                 "acc": 30
             },
             "3": {
-                "ap_min": 20,
-                "ap_max": 24,
+                "ap_min": 19,
+                "ap_max": 23,
                 "dmgaes": 5,
                 "acc": 40
             },
             "4": {
-                "ap_min": 22,
-                "ap_max": 26,
+                "ap_min": 21,
+                "ap_max": 25,
                 "dmgaes": 5,
                 "acc": 50
             },
             "5": {
-                "ap_min": 24,
-                "ap_max": 28,
+                "ap_min": 23,
+                "ap_max": 27,
                 "dmgaes": 5,
                 "acc": 60
             },
             "6": {
-                "ap_min": 27,
-                "ap_max": 31,
+                "ap_min": 26,
+                "ap_max": 30,
                 "dmgaes": 5,
                 "acc": 70
             },
             "7": {
-                "ap_min": 30,
-                "ap_max": 34,
+                "ap_min": 29,
+                "ap_max": 33,
                 "dmgaes": 5,
                 "acc": 80
             },
             "8": {
-                "ap_min": 34,
-                "ap_max": 38,
+                "ap_min": 33,
+                "ap_max": 37,
                 "dmgaes": 6,
                 "acc": 90
             },
             "9": {
-                "ap_min": 38,
-                "ap_max": 42,
+                "ap_min": 37,
+                "ap_max": 41,
                 "dmgaes": 7,
                 "acc": 100
             },
             "10": {
-                "ap_min": 42,
-                "ap_max": 46,
+                "ap_min": 41,
+                "ap_max": 45,
                 "dmgaes": 8,
                 "acc": 110
             },
             "11": {
-                "ap_min": 46,
-                "ap_max": 50,
+                "ap_min": 45,
+                "ap_max": 49,
                 "dmgaes": 9,
                 "acc": 120
             },
             "12": {
-                "ap_min": 50,
-                "ap_max": 54,
+                "ap_min": 49,
+                "ap_max": 53,
                 "dmgaes": 10,
                 "acc": 130
             },
             "13": {
-                "ap_min": 54,
-                "ap_max": 58,
+                "ap_min": 53,
+                "ap_max": 57,
                 "dmgaes": 11,
                 "acc": 140
             },
             "14": {
-                "ap_min": 58,
-                "ap_max": 62,
+                "ap_min": 57,
+                "ap_max": 61,
                 "dmgaes": 12,
                 "acc": 150
             },
             "15": {
-                "ap_min": 62,
-                "ap_max": 66,
+                "ap_min": 61,
+                "ap_max": 65,
                 "dmgaes": 13,
                 "acc": 160
             },
             "16": {
-                "ap_min": 70,
-                "ap_max": 74,
+                "ap_min": 69,
+                "ap_max": 73,
                 "dmgaes": 14,
                 "acc": 168,
                 "dmgtm": 1
             },
             "17": {
-                "ap_min": 78,
-                "ap_max": 82,
+                "ap_min": 77,
+                "ap_max": 81,
                 "dmgaes": 15,
                 "acc": 176,
                 "dmgtm": 3
             },
             "18": {
-                "ap_min": 90,
-                "ap_max": 94,
+                "ap_min": 89,
+                "ap_max": 93,
                 "dmgaes": 16,
                 "acc": 184,
                 "dmgtm": 6
             },
             "19": {
-                "ap_min": 98,
-                "ap_max": 102,
+                "ap_min": 97,
+                "ap_max": 101,
                 "dmgaes": 17,
                 "acc": 192,
                 "dmgtm": 10
             },
             "20": {
-                "ap_min": 106,
-                "ap_max": 110,
+                "ap_min": 105,
+                "ap_max": 109,
                 "dmgaes": 18,
                 "acc": 200,
                 "dmgtm": 15
@@ -5225,8 +5225,8 @@
         "name": "Elsh Blade of Destruction"
     },
     "13376": {
-        "ap_min": 10,
-        "ap_max": 14,
+        "ap_min": 9,
+        "ap_max": 13,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
@@ -5240,126 +5240,126 @@
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 14,
-                "ap_max": 18,
+                "ap_min": 13,
+                "ap_max": 17,
                 "dmgaes": 5,
                 "acc": 20
             },
             "2": {
-                "ap_min": 17,
-                "ap_max": 21,
+                "ap_min": 16,
+                "ap_max": 20,
                 "dmgaes": 5,
                 "acc": 30
             },
             "3": {
-                "ap_min": 20,
-                "ap_max": 24,
+                "ap_min": 19,
+                "ap_max": 23,
                 "dmgaes": 5,
                 "acc": 40
             },
             "4": {
-                "ap_min": 22,
-                "ap_max": 26,
+                "ap_min": 21,
+                "ap_max": 25,
                 "dmgaes": 5,
                 "acc": 50
             },
             "5": {
-                "ap_min": 24,
-                "ap_max": 28,
+                "ap_min": 23,
+                "ap_max": 27,
                 "dmgaes": 5,
                 "acc": 60
             },
             "6": {
-                "ap_min": 27,
-                "ap_max": 31,
+                "ap_min": 26,
+                "ap_max": 30,
                 "dmgaes": 5,
                 "acc": 70
             },
             "7": {
-                "ap_min": 30,
-                "ap_max": 34,
+                "ap_min": 29,
+                "ap_max": 33,
                 "dmgaes": 5,
                 "acc": 80
             },
             "8": {
-                "ap_min": 34,
-                "ap_max": 38,
+                "ap_min": 33,
+                "ap_max": 37,
                 "dmgaes": 6,
                 "acc": 90
             },
             "9": {
-                "ap_min": 38,
-                "ap_max": 42,
+                "ap_min": 37,
+                "ap_max": 41,
                 "dmgaes": 7,
                 "acc": 100
             },
             "10": {
-                "ap_min": 42,
-                "ap_max": 46,
+                "ap_min": 41,
+                "ap_max": 45,
                 "dmgaes": 8,
                 "acc": 110
             },
             "11": {
-                "ap_min": 46,
-                "ap_max": 50,
+                "ap_min": 45,
+                "ap_max": 49,
                 "dmgaes": 9,
                 "acc": 120
             },
             "12": {
-                "ap_min": 50,
-                "ap_max": 54,
+                "ap_min": 49,
+                "ap_max": 53,
                 "dmgaes": 10,
                 "acc": 130
             },
             "13": {
-                "ap_min": 54,
-                "ap_max": 58,
+                "ap_min": 53,
+                "ap_max": 57,
                 "dmgaes": 11,
                 "acc": 140
             },
             "14": {
-                "ap_min": 58,
-                "ap_max": 62,
+                "ap_min": 57,
+                "ap_max": 61,
                 "dmgaes": 12,
                 "acc": 150
             },
             "15": {
-                "ap_min": 62,
-                "ap_max": 66,
+                "ap_min": 61,
+                "ap_max": 65,
                 "dmgaes": 13,
                 "acc": 160
             },
             "16": {
-                "ap_min": 70,
-                "ap_max": 74,
+                "ap_min": 69,
+                "ap_max": 73,
                 "dmgaes": 14,
                 "acc": 168,
                 "dmgtm": 1
             },
             "17": {
-                "ap_min": 78,
-                "ap_max": 82,
+                "ap_min": 77,
+                "ap_max": 81,
                 "dmgaes": 15,
                 "acc": 176,
                 "dmgtm": 3
             },
             "18": {
-                "ap_min": 90,
-                "ap_max": 94,
+                "ap_min": 89,
+                "ap_max": 93,
                 "dmgaes": 16,
                 "acc": 184,
                 "dmgtm": 6
             },
             "19": {
-                "ap_min": 98,
-                "ap_max": 102,
+                "ap_min": 97,
+                "ap_max": 101,
                 "dmgaes": 17,
                 "acc": 192,
                 "dmgtm": 10
             },
             "20": {
-                "ap_min": 106,
-                "ap_max": 110,
+                "ap_min": 105,
+                "ap_max": 109,
                 "dmgaes": 18,
                 "acc": 200,
                 "dmgtm": 15
@@ -5368,8 +5368,8 @@
         "name": "Elsh Blade of Temptation"
     },
     "13377": {
-        "ap_min": 10,
-        "ap_max": 18,
+        "ap_min": 9,
+        "ap_max": 17,
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
@@ -5383,126 +5383,126 @@
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 14,
-                "ap_max": 22,
+                "ap_min": 13,
+                "ap_max": 21,
                 "dmgaes": 5,
                 "acc": 20
             },
             "2": {
-                "ap_min": 17,
-                "ap_max": 25,
+                "ap_min": 16,
+                "ap_max": 24,
                 "dmgaes": 5,
                 "acc": 30
             },
             "3": {
-                "ap_min": 20,
-                "ap_max": 28,
+                "ap_min": 19,
+                "ap_max": 27,
                 "dmgaes": 5,
                 "acc": 40
             },
             "4": {
-                "ap_min": 22,
-                "ap_max": 30,
+                "ap_min": 21,
+                "ap_max": 29,
                 "dmgaes": 5,
                 "acc": 50
             },
             "5": {
-                "ap_min": 24,
-                "ap_max": 32,
+                "ap_min": 23,
+                "ap_max": 31,
                 "dmgaes": 5,
                 "acc": 60
             },
             "6": {
-                "ap_min": 27,
-                "ap_max": 35,
+                "ap_min": 26,
+                "ap_max": 34,
                 "dmgaes": 5,
                 "acc": 70
             },
             "7": {
-                "ap_min": 30,
-                "ap_max": 38,
+                "ap_min": 29,
+                "ap_max": 37,
                 "dmgaes": 5,
                 "acc": 80
             },
             "8": {
-                "ap_min": 34,
-                "ap_max": 42,
+                "ap_min": 33,
+                "ap_max": 41,
                 "dmgaes": 6,
                 "acc": 90
             },
             "9": {
-                "ap_min": 38,
-                "ap_max": 46,
+                "ap_min": 37,
+                "ap_max": 45,
                 "dmgaes": 7,
                 "acc": 100
             },
             "10": {
-                "ap_min": 42,
-                "ap_max": 50,
+                "ap_min": 41,
+                "ap_max": 49,
                 "dmgaes": 8,
                 "acc": 110
             },
             "11": {
-                "ap_min": 46,
-                "ap_max": 54,
+                "ap_min": 45,
+                "ap_max": 53,
                 "dmgaes": 9,
                 "acc": 120
             },
             "12": {
-                "ap_min": 50,
-                "ap_max": 58,
+                "ap_min": 49,
+                "ap_max": 57,
                 "dmgaes": 10,
                 "acc": 130
             },
             "13": {
-                "ap_min": 54,
-                "ap_max": 62,
+                "ap_min": 53,
+                "ap_max": 61,
                 "dmgaes": 11,
                 "acc": 140
             },
             "14": {
-                "ap_min": 58,
-                "ap_max": 66,
+                "ap_min": 57,
+                "ap_max": 65,
                 "dmgaes": 12,
                 "acc": 150
             },
             "15": {
-                "ap_min": 62,
-                "ap_max": 70,
+                "ap_min": 61,
+                "ap_max": 69,
                 "dmgaes": 13,
                 "acc": 160
             },
             "16": {
-                "ap_min": 70,
-                "ap_max": 78,
+                "ap_min": 69,
+                "ap_max": 77,
                 "dmgaes": 14,
                 "acc": 168,
                 "dmgtm": 1
             },
             "17": {
-                "ap_min": 78,
-                "ap_max": 86,
+                "ap_min": 77,
+                "ap_max": 85,
                 "dmgaes": 15,
                 "acc": 176,
                 "dmgtm": 3
             },
             "18": {
-                "ap_min": 90,
-                "ap_max": 98,
+                "ap_min": 89,
+                "ap_max": 97,
                 "dmgaes": 16,
                 "acc": 184,
                 "dmgtm": 6
             },
             "19": {
-                "ap_min": 98,
-                "ap_max": 106,
+                "ap_min": 97,
+                "ap_max": 105,
                 "dmgaes": 17,
                 "acc": 192,
                 "dmgtm": 10
             },
             "20": {
-                "ap_min": 106,
-                "ap_max": 114,
+                "ap_min": 105,
+                "ap_max": 113,
                 "dmgaes": 18,
                 "acc": 200,
                 "dmgtm": 15
