@@ -1097,7 +1097,7 @@
         "rarity": "uncommon",
         "item_effects": {
             "dr": 6,
-            "ev": 4,
+            "ev": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -1118,7 +1118,7 @@
         "rarity": "uncommon",
         "item_effects": {
             "hap": 6,
-            "acc": 4,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -1135,5 +1135,5 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Destruction Spirit Stone"
-    },
+    }
 }
