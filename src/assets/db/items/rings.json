@@ -855,5 +855,37 @@
             }
         },
         "name": "Forest Ronaros Ring"
+    },
+    "12054": {
+        "ap": 1,
+        "rarity": "epic",
+        "item_effects": {
+            "acc": 1,
+            "dmgtm": 5
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dmgtm": 6,
+                "acc": 2
+            },
+            "2": {
+                "dmgtm": 8,
+                "acc": 3
+            },
+            "3": {
+                "dmgtm": 9,
+                "acc": 4
+            },
+            "4": {
+                "dmgtm": 10,
+                "acc": 5
+            },
+            "5": {
+                "dmgtm": 12,
+                "acc": 7
+            }
+        },
+        "name": "General's Ring"
     }
 }

@@ -1011,4 +1011,37 @@
         "enhancement": {},
         "name": "Capotia Belt"
     },
+    "12246": {
+        "ap": 1,
+        "rarity": "epic",
+        "item_effects": {
+            "acc": 0,
+            "wgt": 80,
+            "dmgtm": 5
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "dmgtm": 6,
+                "acc": 1
+            },
+            "2": {
+                "dmgtm": 8,
+                "acc": 2
+            },
+            "3": {
+                "dmgtm": 9,
+                "acc": 3
+            },
+            "4": {
+                "dmgtm": 10,
+                "acc": 4
+            },
+            "5": {
+                "dmgtm": 12,
+                "acc": 5
+            }
+        },
+        "name": "General's Belt"
+    }
 }
