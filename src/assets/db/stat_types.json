@@ -92,63 +92,28 @@
         "target": ".extra-stats"
     },
     "hp": {
-        "title": "Health",
+        "title": "Max HP",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".survive-stats"
     },
     "mpwpsp": {
-        "title": "MP/WP/SP",
+        "title": "Max MP(EP)/WP/SP",
+        "desc": "",
+        "total": 0,
+        "symbol": "",
+        "target": ".survive-stats"
+    },
+    "mpwpsprc": {
+        "title": "MP(EP)/WP/SP Recovery",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".survive-stats"
     },
     "hprc": {
-        "title": "HP recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
-    "wprc": {
-        "title": "WP recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
-    "sprc": {
-        "title": "SP recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
-    "mprc": {
-        "title": "MP recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
-    "mpar": {
-        "title": "MP Auto Recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
-    "wpar": {
-        "title": "WP Auto Recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
-    "spar": {
-        "title": "SP Auto Recovery",
+        "title": "HP Recovery",
         "desc": "",
         "total": 0,
         "symbol": "",
@@ -168,13 +133,6 @@
         "symbol": "",
         "target": ".survive-stats"
     },
-    "hpar": {
-        "title": "HP Auto Recovery",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".survive-stats"
-    },
     "dr": {
         "title": "Damage Reduction",
         "desc": "",
@@ -183,14 +141,14 @@
         "target": ".defense-stats"
     },
     "lrdr": {
-        "title": "Long Range Damage Reduction",
+        "title": "Ranged Damage Reduction",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".defense-stats"
     },
     "crdr": {
-        "title": "Close Range Damage Reduction",
+        "title": "Melee Damage Reduction",
         "desc": "",
         "total": 0,
         "symbol": "",
@@ -358,56 +316,49 @@
         "target": ".general-stats"
     },
     "dmgtdh": {
-        "title": "Damage To Demihumans",
+        "title": "Additional Damage to Demihumans",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".extra-stats"
     },
     "dmgth": {
-        "title": "Damage To Humans",
+        "title": "Additional Damage to Humans",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".extra-stats"
     },
     "dmgtb": {
-        "title": "Damage To Beasts",
+        "title": "Additional Damage to Beasts",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".extra-stats"
     },
     "dmgaes": {
-        "title": "Damage Against All Species",
+        "title": "Extra Damage to All Species",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".extra-stats"
     },
     "dmgakm": {
-        "title": "Damage Against Kamasylvian Monsters",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".extra-stats"
-    },
-    "adafm": {
-        "title": "Additional Damage Against \"Ferocious\" Monsters",
+        "title": "Extra Damage Against Kamasylvian Monsters",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".extra-stats"
     },
     "dmgtm": {
-        "title": "Damage To Monsters",
+        "title": "Extra Damage to Monsters",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".extra-stats"
     },
     "dmgtasehad": {
-        "title": "Damage To All Species Except Humans and Demihumans",
+        "title": "Extra Damage to All Species Except Humans and Demihumans",
         "desc": "",
         "total": 0,
         "symbol": "",
@@ -547,7 +498,7 @@
         "target": ".general-stats"
     },
     "spcev": {
-        "title": "Special Attack Evasion",
+        "title": "Special Attack Evasion Rate",
         "desc": "",
         "total": 0,
         "symbol": "%",
@@ -575,24 +526,17 @@
         "target": ".defense-stats"
     },
     "swev": {
-        "title": "Siege Weapon Evasion",
+        "title": "Siege Weapon Evasion Rate",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".defense-stats"
     },
     "fdmg": {
-        "title": "Fall Damage Reduction",
+        "title": "Fall Damage",
         "desc": "",
         "total": 0,
         "symbol": "%",
-        "target": ".general-stats"
-    },
-    "fdr": {
-        "title": "Fall Damage Reduction (unknown additional amount)",
-        "desc": "",
-        "active": false,
-        "symbol": "",
         "target": ".general-stats"
     },
     "alccktime": {
@@ -610,14 +554,14 @@
         "target": ".special-stats"
     },
     "gatfislv": {
-        "title": "Gathering/Fishing Level",
+        "title": "Gathering/Fishing",
         "desc": "",
         "total": 0,
         "symbol": "",
         "target": ".special-stats"
     },
     "gatidr": {
-        "title": "Gathering Item Drop Rate",
+        "title": "Gathering Drop Rate",
         "desc": "",
         "total": 0,
         "symbol": "%",
@@ -645,7 +589,7 @@
         "target": ".special-stats"
     },
     "mwdrc": {
-        "title": "Main Weapon's Durability Consumption",
+        "title": "Weapon's Durability Consumption",
         "desc": "",
         "total": 0,
         "symbol": "%",
@@ -659,7 +603,7 @@
         "target": ".special-stats"
     },
     "am": {
-        "title": "Amity Gain",
+        "title": "Amity",
         "desc": "",
         "total": 0,
         "symbol": "%",

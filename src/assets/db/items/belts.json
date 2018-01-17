@@ -451,8 +451,7 @@
         "dp": 1,
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 50,
-            "mpwpsp": 30,
+            "wgt": 30,
             "ev": 1,
             "hev": 1
         },
@@ -463,11 +462,7 @@
     "12318": {
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 50,
-            "hprc": 3,
-            "mprc": 3,
-            "wprc": 3,
-            "sprc": 3
+            "wgt": 50
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -477,8 +472,7 @@
         "ap": 1,
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 50,
-            "stam": 60
+            "wgt": 30
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -488,8 +482,7 @@
         "ap": 1,
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 50,
-            "hp": 30
+            "wgt": 30
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -498,8 +491,7 @@
     "12323": {
         "rarity": "uncommon",
         "item_effects": {
-            "wgt": 50,
-            "dmgaes": 3
+            "wgt": 30
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -509,8 +501,8 @@
         "dp": 2,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 60,
-            "mpwpsp": 40,
+            "wgt": 40,
+            "acc": 2,
             "ev": 2,
             "hev": 2
         },
@@ -522,10 +514,6 @@
         "rarity": "rare",
         "item_effects": {
             "wgt": 60,
-            "hprc": 4,
-            "mprc": 4,
-            "wprc": 4,
-            "sprc": 4,
             "acc": 2
         },
         "enhancement_text": "",
@@ -536,8 +524,7 @@
         "ap": 2,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 60,
-            "stam": 80,
+            "wgt": 40,
             "acc": 2
         },
         "enhancement_text": "",
@@ -548,8 +535,7 @@
         "ap": 2,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 60,
-            "hp": 40,
+            "wgt": 40,
             "acc": 2
         },
         "enhancement_text": "",
@@ -560,8 +546,7 @@
         "ap": 1,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 60,
-            "dmgaes": 4,
+            "wgt": 40,
             "acc": 2
         },
         "enhancement_text": "",
@@ -572,8 +557,7 @@
         "dp": 3,
         "rarity": "epic",
         "item_effects": {
-            "wgt": 70,
-            "mpwpsp": 70,
+            "wgt": 50,
             "ev": 3,
             "hev": 3,
             "acc": 4
@@ -586,11 +570,8 @@
         "rarity": "epic",
         "item_effects": {
             "wgt": 70,
-            "hprc": 5,
-            "mprc": 5,
-            "wprc": 5,
-            "sprc": 5,
-            "acc": 4
+            "acc": 4,
+            "ms": 1
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -600,9 +581,9 @@
         "ap": 3,
         "rarity": "epic",
         "item_effects": {
-            "wgt": 70,
-            "stam": 100,
-            "acc": 4
+            "wgt": 50,
+            "acc": 4,
+            "ms": 1
         },
         "enhancement_text": "",
         "enhancement": {},
@@ -612,8 +593,7 @@
         "ap": 3,
         "rarity": "epic",
         "item_effects": {
-            "wgt": 70,
-            "hp": 70,
+            "wgt": 50,
             "acc": 4
         },
         "enhancement_text": "",
@@ -624,8 +604,7 @@
         "ap": 2,
         "rarity": "epic",
         "item_effects": {
-            "wgt": 70,
-            "dmgaes": 5,
+            "wgt": 50,
             "acc": 4
         },
         "enhancement_text": "",
