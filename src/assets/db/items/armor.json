@@ -290,7 +290,7 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "hpar": 5,
+            "hprc": 5,
             "wgt": 50,
             "ev": 5,
             "hev": 15,
@@ -433,9 +433,7 @@
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "mpar": 5,
-            "wpar": 5,
-            "spar": 5,
+            "mpwpsprc": 5,
             "ev": 3,
             "hev": 9,
             "dr": 3,
@@ -1723,7 +1721,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "hpar": 5,
+            "hprc": 5,
             "wgt": 50,
             "crdr": 2,
             "ev": 5,
@@ -1867,7 +1865,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "hpar": 5,
+            "hprc": 5,
             "wgt": 50,
             "lrdr": 2,
             "ev": 5,
@@ -2011,7 +2009,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "hpar": 5,
+            "hprc": 5,
             "wgt": 50,
             "mdr": 2,
             "ev": 5,
@@ -2155,7 +2153,7 @@
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
-            "hpar": 5,
+            "hprc": 5,
             "wgt": 50,
             "ev": 5,
             "hev": 15,
@@ -2298,9 +2296,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "mpar": 5,
-            "wpar": 5,
-            "spar": 5,
+            "mpwpsprc": 5,
             "crdr": 2,
             "ev": 3,
             "hev": 9,
@@ -2443,9 +2439,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "mpar": 5,
-            "wpar": 5,
-            "spar": 5,
+            "mpwpsprc": 5,
             "lrdr": 2,
             "ev": 3,
             "hev": 9,
@@ -2588,9 +2582,7 @@
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "mpar": 5,
-            "wpar": 5,
-            "spar": 5,
+            "mpwpsprc": 5,
             "mdr": 2,
             "ev": 3,
             "hev": 9,
@@ -2733,9 +2725,7 @@
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
-            "mpar": 5,
-            "wpar": 5,
-            "spar": 5,
+            "mpwpsprc": 5,
             "ev": 3,
             "hev": 9,
             "dr": 8,
