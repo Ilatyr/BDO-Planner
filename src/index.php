@@ -304,9 +304,10 @@
         <div id="footer-bar">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4">
-                        <a href="https://discord.gg/PdkPpdJ" target="_blank"><img src="https://discordapp.com/api/guilds/388727480095211523/widget.png?style=shield"/></a>
-                        <a href="https://patreon.com/bdoplanner" target="_blank" style="margin-left: 10px;"><img src="/assets/Patreon.png"/></a>
+                    <div class="col-lg-4 footer-buttons">
+                        <a class="button discord" href="https://discord.gg/PdkPpdJ" target="_blank"></a>
+                        <a class="button twitter" href="https://twitter.com/bdoplanner" target="_blank"></a>
+                        <a class="button patreon" href="https://patreon.com/bdoplanner" target="_blank"></a>
                     </div>
                     <div class="offset-lg-6 col-lg-2">
                         <a href="#" id="open-save-menu" class="btn btn-success btn-block btn-sm"><i class="fa fa-floppy-o"></i> Save</a>
@@ -377,7 +378,10 @@
                                     BDO Gear Calculator was originally created by <a href="https://github.com/MrEliasen" target="_blank">MrEliasen</a>, it was updated heavily and grown on to create a full character planner by <a href="https://github.com/Ihellmasker" target="_blank">Ihm</a> and <a href="https://github.com/Shadowtrance" target="_blank">Shadowtrance</a>.
                                 </p>
                                 <p>
-                                    This is an open source project. You can get a copy of the source code here: <a href="https://github.com/Ihellmasker/BDO-Planner" target="_blank">github.com/Ihellmasker/BDO-Planner</a>.
+                                    Support further development, help cover server costs and keep the website Ad-free by becoming a Patron.
+                                </p>
+                                <p>
+                                    <a href="https://patreon.com/bdoplanner" target="_blank"><img src="/assets/become_a_patron_button.png" alt="Become a Patron" /></a>
                                 </p>
                                 <p>
                                     All Black Desert Online media and content is a registered trademark of Pearl Abyss & Kakao Games.
