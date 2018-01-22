@@ -5567,5 +5567,710 @@
         "enhancement_text": "",
         "enhancement": {},
         "name": "Kaia Shortsword"
+    },
+    "13206": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "uncommon",
+        "gems": 1,
+        "item_effects": {
+            "acc": 0,
+            "dmgtdh": 10,
+            "dmgtm": 0
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18,
+                "acc": 8,
+                "dmgtdh": 11
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21,
+                "acc": 14,
+                "dmgtdh": 12
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24,
+                "acc": 20,
+                "dmgtdh": 13
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26,
+                "acc": 24,
+                "dmgtdh": 14
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28,
+                "acc": 28,
+                "dmgtdh": 15
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31,
+                "acc": 34,
+                "dmgtdh": 16
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34,
+                "acc": 40,
+                "dmgtdh": 17
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38,
+                "acc": 44,
+                "dmgtdh": 18
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42,
+                "acc": 48,
+                "dmgtdh": 19
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46,
+                "acc": 52,
+                "dmgtdh": 20
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50,
+                "acc": 56,
+                "dmgtdh": 21
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54,
+                "acc": 62,
+                "dmgtdh": 22
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58,
+                "acc": 68,
+                "dmgtdh": 23
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62,
+                "acc": 74,
+                "dmgtdh": 24
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66,
+                "acc": 80,
+                "dmgtdh": 25
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74,
+                "acc": 86,
+                "dmgtdh": 27,
+                "dmgtm": 1
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82,
+                "acc": 92,
+                "dmgtdh": 29,
+                "dmgtm": 3
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94,
+                "acc": 98,
+                "dmgtdh": 31,
+                "dmgtm": 6
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102,
+                "acc": 104,
+                "dmgtdh": 33,
+                "dmgtm": 10
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110,
+                "acc": 110,
+                "dmgtdh": 35,
+                "dmgtm": 15
+            }
+        },
+        "name": "Ain Shortsword"
+    },
+    "13224": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "chr": 1,
+            "acc": 0,
+            "dmgtdh": 10,
+            "dmgtm": 0
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18,
+                "acc": 8,
+                "dmgtdh": 11
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21,
+                "acc": 14,
+                "dmgtdh": 12
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24,
+                "acc": 20,
+                "dmgtdh": 13
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26,
+                "acc": 24,
+                "dmgtdh": 14
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28,
+                "acc": 28,
+                "dmgtdh": 15
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31,
+                "acc": 34,
+                "dmgtdh": 16
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34,
+                "acc": 40,
+                "dmgtdh": 17
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38,
+                "acc": 44,
+                "dmgtdh": 18
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42,
+                "acc": 48,
+                "dmgtdh": 19
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46,
+                "acc": 52,
+                "dmgtdh": 20
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50,
+                "acc": 60,
+                "dmgtdh": 21
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54,
+                "acc": 70,
+                "dmgtdh": 22
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58,
+                "acc": 80,
+                "dmgtdh": 23
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62,
+                "acc": 90,
+                "dmgtdh": 24
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66,
+                "acc": 100,
+                "dmgtdh": 25
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74,
+                "acc": 110,
+                "dmgtdh": 27,
+                "dmgtm": 1
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82,
+                "acc": 120,
+                "dmgtdh": 29,
+                "dmgtm": 3
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94,
+                "acc": 130,
+                "dmgtdh": 31,
+                "dmgtm": 6
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102,
+                "acc": 140,
+                "dmgtdh": 33,
+                "dmgtm": 10
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110,
+                "acc": 150,
+                "dmgtdh": 35,
+                "dmgtm": 15
+            }
+        },
+        "name": "Ain Shortsword of Crimson Flame"
+    },
+    "13225": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "as": 1,
+            "acc": 0,
+            "dmgtdh": 10,
+            "dmgtm": 0
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18,
+                "acc": 8,
+                "dmgtdh": 11
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21,
+                "acc": 14,
+                "dmgtdh": 12
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24,
+                "acc": 20,
+                "dmgtdh": 13
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26,
+                "acc": 24,
+                "dmgtdh": 14
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28,
+                "acc": 28,
+                "dmgtdh": 15
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31,
+                "acc": 34,
+                "dmgtdh": 16
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34,
+                "acc": 40,
+                "dmgtdh": 17
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38,
+                "acc": 44,
+                "dmgtdh": 18
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42,
+                "acc": 48,
+                "dmgtdh": 19
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46,
+                "acc": 52,
+                "dmgtdh": 20
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50,
+                "acc": 60,
+                "dmgtdh": 21
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54,
+                "acc": 70,
+                "dmgtdh": 22
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58,
+                "acc": 80,
+                "dmgtdh": 23
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62,
+                "acc": 90,
+                "dmgtdh": 24
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66,
+                "acc": 100,
+                "dmgtdh": 25
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74,
+                "acc": 110,
+                "dmgtdh": 27,
+                "dmgtm": 1
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82,
+                "acc": 120,
+                "dmgtdh": 29,
+                "dmgtm": 3
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94,
+                "acc": 130,
+                "dmgtdh": 31,
+                "dmgtm": 6
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102,
+                "acc": 140,
+                "dmgtdh": 33,
+                "dmgtm": 10
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110,
+                "acc": 150,
+                "dmgtdh": 35,
+                "dmgtm": 15
+            }
+        },
+        "name": "Ain Shortsword of Destruction"
+    },
+    "13226": {
+        "ap_min": 10,
+        "ap_max": 14,
+        "rarity": "rare",
+        "gems": 1,
+        "item_effects": {
+            "cs": 1,
+            "acc": 0,
+            "dmgtdh": 10,
+            "dmgtm": 0
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 18,
+                "acc": 8,
+                "dmgtdh": 11
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 21,
+                "acc": 14,
+                "dmgtdh": 12
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 24,
+                "acc": 20,
+                "dmgtdh": 13
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 26,
+                "acc": 24,
+                "dmgtdh": 14
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 28,
+                "acc": 28,
+                "dmgtdh": 15
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 31,
+                "acc": 34,
+                "dmgtdh": 16
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 34,
+                "acc": 40,
+                "dmgtdh": 17
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 38,
+                "acc": 44,
+                "dmgtdh": 18
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 42,
+                "acc": 48,
+                "dmgtdh": 19
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 46,
+                "acc": 52,
+                "dmgtdh": 20
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 50,
+                "acc": 60,
+                "dmgtdh": 21
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 54,
+                "acc": 70,
+                "dmgtdh": 22
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 58,
+                "acc": 80,
+                "dmgtdh": 23
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 62,
+                "acc": 90,
+                "dmgtdh": 24
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 66,
+                "acc": 100,
+                "dmgtdh": 25
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 74,
+                "acc": 110,
+                "dmgtdh": 27,
+                "dmgtm": 1
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 82,
+                "acc": 120,
+                "dmgtdh": 29,
+                "dmgtm": 3
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 94,
+                "acc": 130,
+                "dmgtdh": 31,
+                "dmgtm": 6
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 102,
+                "acc": 140,
+                "dmgtdh": 33,
+                "dmgtm": 10
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 110,
+                "acc": 150,
+                "dmgtdh": 35,
+                "dmgtm": 15
+            }
+        },
+        "name": "Ain Shortsword of Temptation"
+    },
+    "13227": {
+        "ap_min": 10,
+        "ap_max": 18,
+        "rarity": "epic",
+        "gems": 1,
+        "item_effects": {
+            "as": 1,
+            "chr": 1,
+            "acc": 0,
+            "dmgtdh": 10,
+            "dmgtm": 0
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 14,
+                "ap_max": 22,
+                "acc": 8,
+                "dmgtdh": 11
+            },
+            "2": {
+                "ap_min": 17,
+                "ap_max": 25,
+                "acc": 14,
+                "dmgtdh": 12
+            },
+            "3": {
+                "ap_min": 20,
+                "ap_max": 28,
+                "acc": 20,
+                "dmgtdh": 13
+            },
+            "4": {
+                "ap_min": 22,
+                "ap_max": 30,
+                "acc": 24,
+                "dmgtdh": 14
+            },
+            "5": {
+                "ap_min": 24,
+                "ap_max": 32,
+                "acc": 28,
+                "dmgtdh": 15
+            },
+            "6": {
+                "ap_min": 27,
+                "ap_max": 35,
+                "acc": 34,
+                "dmgtdh": 16
+            },
+            "7": {
+                "ap_min": 30,
+                "ap_max": 38,
+                "acc": 40,
+                "dmgtdh": 17
+            },
+            "8": {
+                "ap_min": 34,
+                "ap_max": 42,
+                "acc": 44,
+                "dmgtdh": 18
+            },
+            "9": {
+                "ap_min": 38,
+                "ap_max": 46,
+                "acc": 48,
+                "dmgtdh": 19
+            },
+            "10": {
+                "ap_min": 42,
+                "ap_max": 50,
+                "acc": 52,
+                "dmgtdh": 20
+            },
+            "11": {
+                "ap_min": 46,
+                "ap_max": 54,
+                "acc": 64,
+                "dmgtdh": 21
+            },
+            "12": {
+                "ap_min": 50,
+                "ap_max": 58,
+                "acc": 78,
+                "dmgtdh": 22
+            },
+            "13": {
+                "ap_min": 54,
+                "ap_max": 62,
+                "acc": 92,
+                "dmgtdh": 23
+            },
+            "14": {
+                "ap_min": 58,
+                "ap_max": 66,
+                "acc": 106,
+                "dmgtdh": 24
+            },
+            "15": {
+                "ap_min": 62,
+                "ap_max": 70,
+                "acc": 120,
+                "dmgtdh": 25
+            },
+            "16": {
+                "ap_min": 70,
+                "ap_max": 78,
+                "acc": 130,
+                "dmgtdh": 27,
+                "dmgtm": 1
+            },
+            "17": {
+                "ap_min": 78,
+                "ap_max": 86,
+                "acc": 140,
+                "dmgtdh": 29,
+                "dmgtm": 3
+            },
+            "18": {
+                "ap_min": 90,
+                "ap_max": 98,
+                "acc": 150,
+                "dmgtdh": 31,
+                "dmgtm": 6
+            },
+            "19": {
+                "ap_min": 98,
+                "ap_max": 106,
+                "acc": 160,
+                "dmgtdh": 33,
+                "dmgtm": 10
+            },
+            "20": {
+                "ap_min": 106,
+                "ap_max": 114,
+                "acc": 170,
+                "dmgtdh": 35,
+                "dmgtm": 15
+            }
+        },
+        "name": "Ultimate Ain Shortsword"
     }
 }
