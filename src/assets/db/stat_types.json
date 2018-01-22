@@ -329,13 +329,6 @@
         "symbol": "",
         "target": ".extra-stats"
     },
-    "dmgtb": {
-        "title": "Additional Damage to Beasts",
-        "desc": "",
-        "total": 0,
-        "symbol": "",
-        "target": ".extra-stats"
-    },
     "dmgaes": {
         "title": "Extra Damage to All Species",
         "desc": "",
