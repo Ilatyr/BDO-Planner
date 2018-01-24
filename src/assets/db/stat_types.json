@@ -351,7 +351,7 @@
         "target": ".extra-stats"
     },
     "dmgtm": {
-        "title": "Extra Damage to Monsters",
+        "title": "Extra AP Against Monsters",
         "desc": "",
         "total": 0,
         "symbol": "",
