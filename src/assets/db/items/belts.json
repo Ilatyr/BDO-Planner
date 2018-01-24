@@ -877,13 +877,41 @@
     },
     "12238": {
         "set": "Asula",
+        "dp": 0,
         "ap": 6,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 100
+            "wgt": 100,
+            "dr": 0,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
+            "1": {
+                "dp": 1,
+                "dr": 1,
+                "dmgtm": 1
+            },
+            "2": {
+                "dp": 1,
+                "dr": 1,
+                "dmgtm": 2
+            },
+            "3": {
+                "dp": 2,
+                "dr": 2,
+                "dmgtm": 3
+            },
+            "4": {
+                "dp": 2,
+                "dr": 2,
+                "dmgtm": 4
+            },
+            "5": {
+                "dp": 3,
+                "dr": 3,
+                "dmgtm": 5
+            }
         },
         "name": "Asula's Crimson Eye Belt"
     },
