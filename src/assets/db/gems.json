@@ -50,9 +50,9 @@
             "shatter_chance": "high",
             "incompatible": [],
             "item_effects": {
-                "dmgtdh": 1
+                "dmgtb": 1
             },
-            "name": "Magic Crystal of Crimson Flame - Carnage (Demihumans)"
+            "name": "Magic Crystal of Crimson Flame - Carnage (Beasts)"
         },
         "15103": {
             "rarity": "rare",
@@ -77,9 +77,9 @@
             "shatter_chance": "high",
             "incompatible": [],
             "item_effects": {
-                "dmgtdh": 2
+                "dmgtb": 2
             },
-            "name": "Magic Crystal of Infinity - Carnage (Demihumans)"
+            "name": "Magic Crystal of Infinity - Carnage (Beasts)"
         }
     },
     "shoes": {
