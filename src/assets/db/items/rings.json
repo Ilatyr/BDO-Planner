@@ -762,7 +762,8 @@
         "rarity": "rare",
         "item_effects": {
             "dr": 2,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "acc": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -774,22 +775,26 @@
             "2": {
                 "dp": 3,
                 "dr": 3,
-                "dmgtm": 2
+                "dmgtm": 2,
+                "acc": 2
             },
             "3": {
                 "dp": 4,
                 "dr": 4,
-                "dmgtm": 3
+                "dmgtm": 3,
+                "acc": 2
             },
             "4": {
                 "dp": 4,
                 "dr": 4,
-                "dmgtm": 4
+                "dmgtm": 4,
+                "acc": 4
             },
             "5": {
                 "dp": 5,
                 "dr": 5,
-                "dmgtm": 5
+                "dmgtm": 5,
+                "acc": 4
             }
         },
         "name": "Asula's Crimson Eye Ring"
