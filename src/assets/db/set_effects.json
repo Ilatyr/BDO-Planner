@@ -91,54 +91,30 @@
     },
     "Rocaba": {
         "pieces": {
+            "2": {
+                "ev": 5
+            },
+            "3": {
+                "hp": 75,
+                "mpwpsp": 75
+            },
             "4": {
                 "ev": 2
             }
-        },
-        "combos": [{
-                "pieces": [
-                    "gloves",
-                    "helmet"
-                ],
-                "effects": {
-                    "ev": 5
-                }
-            }, {
-                "pieces": [
-                    "armor",
-                    "shoes"
-                ],
-                "effects": {
-                    "hp": 75,
-                    "mpwpsp": 75
-                }
-            }
-        ]
+        }
     },
     "Grunil": {
         "pieces": {
+            "2": {
+                "hap": 5
+            },
+            "3": {
+                "hp": 150
+            },
             "4": {
                 "hap": 2
             }
-        },
-        "combos": [{
-                "pieces": [
-                    "gloves",
-                    "helmet"
-                ],
-                "effects": {
-                    "hap": 5
-                }
-            }, {
-                "pieces": [
-                    "armor",
-                    "shoes"
-                ],
-                "effects": {
-                    "hp": 150
-                }
-            }
-        ]
+        }
     },
     "Boss": {
         "pieces": {
