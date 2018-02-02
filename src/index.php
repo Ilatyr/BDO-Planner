@@ -18,7 +18,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
         <meta property="og:title" content="BDO Planner" />
-        <meta property="og:image" content="http://bdoplanner.com/assets/favicon.png" />
+        <meta property="og:image" content="https://bdoplanner.com/assets/favicon.png" />
         <meta property="og:image:width" content="75" />
         <meta property="og:image:height" content="75" />
         <meta property="og:description" content="BDO Planner build config" />
