@@ -1,7 +1,7 @@
 <?php
     include $_SERVER['DOCUMENT_ROOT'].'/php/inline/get_full_link.php';
     $__version_major = 1;
-    $__version_minor = 3;
+    $__version_minor = 4;
     $__version_revision = 0;
     $__vr_str = "?".$__version_major.$__version_minor.$__version_revision;
 ?>
@@ -406,23 +406,17 @@
                     <div class="modal-body">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1>New stuffs</h1>
-
-                                <ul>
-                                    <li>Added Mystic Class and Weapons.</li>
-                                    <li>Added a bunch of new items, too much to list here.</li>
-                                </ul>
-
-                                <h1>Bugs</h1>
-
-                                <ul>
-                                    <li>Fixed various bugs and probably added new ones...</li>
-                                </ul>
-
                                 <h1>Changes</h1>
 
                                 <ul>
-                                    <li>Changed heaps of stuff, see the full changelog at the link below.</li>
+                                    <li>The IDs that were used for some Ultimate Awakening weapons have been corrected. Saved short links have been updated accordingly, but any saved long links will break if they used those items.</li>
+                                    <li>If you have any problems using your old short links, let us know on GitHub or Discord and we'll see what we can do.</li>
+                                </ul>
+
+                                <h1>Other stuff</h1>
+
+                                <ul>
+                                    <li>We have also created a Patreon. If you wish to support us and help with covering server costs, please consider becoming one of our Patrons.<br /><a href="https://patreon.com/bdoplanner" target="_blank"><img src="/assets/become_a_patron_button.png" alt="Become a Patron" /></a></li>
                                 </ul>
 
                                 <p><em>

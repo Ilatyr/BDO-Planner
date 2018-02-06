@@ -3,6 +3,13 @@ Change Log
 
 _If we jump numbers at all, it's probably because it just fixed something minor we didn't make a note of, or maybe we just don't like that number._
 
+## 1.4.0 (2018-02-06)
+
+### Changes
+
+* The IDs that were used for some Ultimate Awakening weapons have been corrected. Saved short links have been updated accordingly, but any saved long links will break if they used those items.
+* If you have any problems using your old short links, let us know on GitHub or Discord and we'll see what we can do.
+
 ## 1.3.0 (2017-12-12)
 
 ### New stuffs

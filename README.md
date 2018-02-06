@@ -7,8 +7,6 @@ A character planner for Black Desert Online. Originally started as a gear/equipm
 
 The current live version of the planner can be accessed at [BDOPlanner.com](http://www.bdoplanner.com).
 
-Any features we're currently testing can be found on the Beta site [Beta.BDOPlanner.com](http://beta.bdoplanner.com) but there's no promises it'll actually work!
-
 ## Current Version
 
 The Changelog can be viewed [here](https://github.com/Ihellmasker/BDO-Planner/blob/master/CHANGELOG.md).
