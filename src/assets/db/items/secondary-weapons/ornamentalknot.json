@@ -9,7 +9,8 @@
             "acc": 20,
             "ev": 2,
             "dr": 2,
-            "hev": 4,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -17,43 +18,43 @@
                 "dp": 5,
                 "acc": 24,
                 "ev": 3,
-                "hev": 6
+                "hev": 3
             },
             "2": {
                 "dp": 6,
                 "acc": 27,
                 "ev": 4,
-                "hev": 8
+                "hev": 4
             },
             "3": {
                 "dp": 7,
                 "acc": 30,
                 "ev": 5,
-                "hev": 10
+                "hev": 5
             },
             "4": {
                 "dp": 8,
                 "acc": 32,
                 "ev": 6,
-                "hev": 12
+                "hev": 6
             },
             "5": {
                 "dp": 9,
                 "acc": 34,
                 "ev": 7,
-                "hev": 14
+                "hev": 7
             },
             "6": {
                 "dp": 10,
                 "acc": 36,
                 "ev": 8,
-                "hev": 16
+                "hev": 8
             },
             "7": {
                 "dp": 11,
                 "acc": 38,
                 "ev": 9,
-                "hev": 18
+                "hev": 9
             },
             "8": {
                 "ap_min": 2,
@@ -61,7 +62,7 @@
                 "dp": 12,
                 "acc": 41,
                 "ev": 10,
-                "hev": 20
+                "hev": 10
             },
             "9": {
                 "ap_min": 3,
@@ -69,7 +70,7 @@
                 "dp": 13,
                 "acc": 44,
                 "ev": 11,
-                "hev": 22
+                "hev": 11
             },
             "10": {
                 "ap_min": 4,
@@ -77,7 +78,7 @@
                 "dp": 14,
                 "acc": 48,
                 "ev": 12,
-                "hev": 24
+                "hev": 12
             },
             "11": {
                 "ap_min": 5,
@@ -85,7 +86,7 @@
                 "dp": 15,
                 "acc": 52,
                 "ev": 13,
-                "hev": 26
+                "hev": 13
             },
             "12": {
                 "ap_min": 6,
@@ -93,7 +94,7 @@
                 "dp": 16,
                 "acc": 56,
                 "ev": 14,
-                "hev": 28
+                "hev": 14
             },
             "13": {
                 "ap_min": 7,
@@ -101,7 +102,7 @@
                 "dp": 17,
                 "acc": 60,
                 "ev": 15,
-                "hev": 30
+                "hev": 15
             },
             "14": {
                 "ap_min": 8,
@@ -109,7 +110,7 @@
                 "dp": 18,
                 "acc": 64,
                 "ev": 16,
-                "hev": 32
+                "hev": 16
             },
             "15": {
                 "ap_min": 9,
@@ -117,7 +118,7 @@
                 "dp": 19,
                 "acc": 68,
                 "ev": 17,
-                "hev": 34
+                "hev": 17
             },
             "16": {
                 "ap_min": 10,
@@ -126,7 +127,8 @@
                 "acc": 72,
                 "ev": 18,
                 "dr": 3,
-                "hev": 36,                "dmgtm": 1
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -135,7 +137,8 @@
                 "acc": 76,
                 "ev": 19,
                 "dr": 4,
-                "hev": 38,                "dmgtm": 2
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -144,7 +147,8 @@
                 "acc": 80,
                 "ev": 23,
                 "dr": 5,
-                "hev": 46,                "dmgtm": 3
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -153,7 +157,8 @@
                 "acc": 84,
                 "ev": 24,
                 "dr": 6,
-                "hev": 48,                "dmgtm": 4
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -162,7 +167,8 @@
                 "acc": 88,
                 "ev": 25,
                 "dr": 7,
-                "hev": 50,                "dmgtm": 5
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Saiyer Ornamental Knot"
@@ -176,7 +182,8 @@
         "item_effects": {
             "ev": 1,
             "dr": 3,
-            "hev": 2,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -242,23 +249,28 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24,                "dmgtm": 1
+                "ap_max": 24,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27,                "dmgtm": 2
+                "ap_max": 27,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33,                "dmgtm": 3
+                "ap_max": 33,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36,                "dmgtm": 4
+                "ap_max": 36,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39,                "dmgtm": 5
+                "ap_max": 39,
+                "dmgtm": 5
             }
         },
         "name": "Oros Ornamental Knot"
@@ -273,7 +285,8 @@
             "ev": 1,
             "dr": 5,
             "hp": 50,
-            "hev": 4,            "dmgtm": 0
+            "hev": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -357,31 +370,36 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 24,
-                "dr": 22,                "dmgtm": 1
+                "dr": 22,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 26,
-                "dr": 24,                "dmgtm": 2
+                "dr": 24,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 31,
-                "dr": 29,                "dmgtm": 3
+                "dr": 29,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 33,
-                "dr": 31,                "dmgtm": 4
+                "dr": 31,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 35,
-                "dr": 33,                "dmgtm": 5
+                "dr": 33,
+                "dmgtm": 5
             }
         },
         "name": "Theos Ornamental Knot"
@@ -397,7 +415,8 @@
             "ev": 2,
             "dr": 2,
             "abad": 1,
-            "hev": 4,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -405,43 +424,43 @@
                 "dp": 5,
                 "acc": 32,
                 "ev": 3,
-                "hev": 6
+                "hev": 3
             },
             "2": {
                 "dp": 6,
                 "acc": 35,
                 "ev": 4,
-                "hev": 8
+                "hev": 4
             },
             "3": {
                 "dp": 7,
                 "acc": 38,
                 "ev": 5,
-                "hev": 10
+                "hev": 5
             },
             "4": {
                 "dp": 8,
                 "acc": 40,
                 "ev": 6,
-                "hev": 12
+                "hev": 6
             },
             "5": {
                 "dp": 9,
                 "acc": 42,
                 "ev": 7,
-                "hev": 14
+                "hev": 7
             },
             "6": {
                 "dp": 10,
                 "acc": 44,
                 "ev": 8,
-                "hev": 16
+                "hev": 8
             },
             "7": {
                 "dp": 11,
                 "acc": 46,
                 "ev": 9,
-                "hev": 18
+                "hev": 9
             },
             "8": {
                 "ap_min": 2,
@@ -449,7 +468,7 @@
                 "dp": 12,
                 "acc": 49,
                 "ev": 10,
-                "hev": 20
+                "hev": 10
             },
             "9": {
                 "ap_min": 3,
@@ -457,7 +476,7 @@
                 "dp": 13,
                 "acc": 52,
                 "ev": 11,
-                "hev": 22
+                "hev": 11
             },
             "10": {
                 "ap_min": 4,
@@ -465,7 +484,7 @@
                 "dp": 14,
                 "acc": 56,
                 "ev": 12,
-                "hev": 24
+                "hev": 12
             },
             "11": {
                 "ap_min": 5,
@@ -473,7 +492,7 @@
                 "dp": 15,
                 "acc": 60,
                 "ev": 13,
-                "hev": 26
+                "hev": 13
             },
             "12": {
                 "ap_min": 6,
@@ -481,7 +500,7 @@
                 "dp": 16,
                 "acc": 64,
                 "ev": 14,
-                "hev": 28
+                "hev": 14
             },
             "13": {
                 "ap_min": 7,
@@ -489,7 +508,7 @@
                 "dp": 17,
                 "acc": 68,
                 "ev": 15,
-                "hev": 30
+                "hev": 15
             },
             "14": {
                 "ap_min": 8,
@@ -497,7 +516,7 @@
                 "dp": 18,
                 "acc": 72,
                 "ev": 16,
-                "hev": 32
+                "hev": 16
             },
             "15": {
                 "ap_min": 9,
@@ -505,7 +524,7 @@
                 "dp": 19,
                 "acc": 76,
                 "ev": 17,
-                "hev": 34
+                "hev": 17
             },
             "16": {
                 "ap_min": 10,
@@ -514,7 +533,8 @@
                 "acc": 80,
                 "ev": 18,
                 "dr": 3,
-                "hev": 36,                "dmgtm": 1
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -523,7 +543,8 @@
                 "acc": 84,
                 "ev": 19,
                 "dr": 4,
-                "hev": 38,                "dmgtm": 2
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -532,7 +553,8 @@
                 "acc": 88,
                 "ev": 23,
                 "dr": 5,
-                "hev": 46,                "dmgtm": 3
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -541,7 +563,8 @@
                 "acc": 92,
                 "ev": 24,
                 "dr": 6,
-                "hev": 48,                "dmgtm": 4
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -550,7 +573,8 @@
                 "acc": 96,
                 "ev": 25,
                 "dr": 7,
-                "hev": 50,                "dmgtm": 5
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Saiyer Ornamental Knot of Crimson Flame"
@@ -566,7 +590,8 @@
             "ev": 2,
             "dr": 2,
             "adad": 1,
-            "hev": 4,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -574,43 +599,43 @@
                 "dp": 5,
                 "acc": 32,
                 "ev": 3,
-                "hev": 6
+                "hev": 3
             },
             "2": {
                 "dp": 6,
                 "acc": 35,
                 "ev": 4,
-                "hev": 8
+                "hev": 4
             },
             "3": {
                 "dp": 7,
                 "acc": 38,
                 "ev": 5,
-                "hev": 10
+                "hev": 5
             },
             "4": {
                 "dp": 8,
                 "acc": 40,
                 "ev": 6,
-                "hev": 12
+                "hev": 6
             },
             "5": {
                 "dp": 9,
                 "acc": 42,
                 "ev": 7,
-                "hev": 14
+                "hev": 7
             },
             "6": {
                 "dp": 10,
                 "acc": 44,
                 "ev": 8,
-                "hev": 16
+                "hev": 8
             },
             "7": {
                 "dp": 11,
                 "acc": 46,
                 "ev": 9,
-                "hev": 18
+                "hev": 9
             },
             "8": {
                 "ap_min": 2,
@@ -618,7 +643,7 @@
                 "dp": 12,
                 "acc": 49,
                 "ev": 10,
-                "hev": 20
+                "hev": 10
             },
             "9": {
                 "ap_min": 3,
@@ -626,7 +651,7 @@
                 "dp": 13,
                 "acc": 52,
                 "ev": 11,
-                "hev": 22
+                "hev": 11
             },
             "10": {
                 "ap_min": 4,
@@ -634,7 +659,7 @@
                 "dp": 14,
                 "acc": 56,
                 "ev": 12,
-                "hev": 24
+                "hev": 12
             },
             "11": {
                 "ap_min": 5,
@@ -642,7 +667,7 @@
                 "dp": 15,
                 "acc": 60,
                 "ev": 13,
-                "hev": 26
+                "hev": 13
             },
             "12": {
                 "ap_min": 6,
@@ -650,7 +675,7 @@
                 "dp": 16,
                 "acc": 64,
                 "ev": 14,
-                "hev": 28
+                "hev": 14
             },
             "13": {
                 "ap_min": 7,
@@ -658,7 +683,7 @@
                 "dp": 17,
                 "acc": 68,
                 "ev": 15,
-                "hev": 30
+                "hev": 15
             },
             "14": {
                 "ap_min": 8,
@@ -666,7 +691,7 @@
                 "dp": 18,
                 "acc": 72,
                 "ev": 16,
-                "hev": 32
+                "hev": 16
             },
             "15": {
                 "ap_min": 9,
@@ -674,7 +699,7 @@
                 "dp": 19,
                 "acc": 76,
                 "ev": 17,
-                "hev": 34
+                "hev": 17
             },
             "16": {
                 "ap_min": 10,
@@ -683,7 +708,8 @@
                 "acc": 80,
                 "ev": 18,
                 "dr": 3,
-                "hev": 36,                "dmgtm": 1
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -692,7 +718,8 @@
                 "acc": 84,
                 "ev": 19,
                 "dr": 4,
-                "hev": 38,                "dmgtm": 2
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -701,7 +728,8 @@
                 "acc": 88,
                 "ev": 23,
                 "dr": 5,
-                "hev": 46,                "dmgtm": 3
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -710,7 +738,8 @@
                 "acc": 92,
                 "ev": 24,
                 "dr": 6,
-                "hev": 48,                "dmgtm": 4
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -719,7 +748,8 @@
                 "acc": 96,
                 "ev": 25,
                 "dr": 7,
-                "hev": 50,                "dmgtm": 5
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Saiyer Ornamental Knot of Destruction"
@@ -734,7 +764,9 @@
             "acc": 28,
             "ev": 2,
             "dr": 2,
-            "aaad": 1,            "dmgtm": 0
+            "aaad": 1,
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -742,43 +774,43 @@
                 "dp": 5,
                 "acc": 32,
                 "ev": 3,
-                "hev": 6
+                "hev": 3
             },
             "2": {
                 "dp": 6,
                 "acc": 35,
                 "ev": 4,
-                "hev": 8
+                "hev": 4
             },
             "3": {
                 "dp": 7,
                 "acc": 38,
                 "ev": 5,
-                "hev": 10
+                "hev": 5
             },
             "4": {
                 "dp": 8,
                 "acc": 40,
                 "ev": 6,
-                "hev": 12
+                "hev": 6
             },
             "5": {
                 "dp": 9,
                 "acc": 42,
                 "ev": 7,
-                "hev": 14
+                "hev": 7
             },
             "6": {
                 "dp": 10,
                 "acc": 44,
                 "ev": 8,
-                "hev": 16
+                "hev": 8
             },
             "7": {
                 "dp": 11,
                 "acc": 46,
                 "ev": 9,
-                "hev": 18
+                "hev": 9
             },
             "8": {
                 "ap_min": 2,
@@ -786,7 +818,7 @@
                 "dp": 12,
                 "acc": 49,
                 "ev": 10,
-                "hev": 20
+                "hev": 10
             },
             "9": {
                 "ap_min": 3,
@@ -794,7 +826,7 @@
                 "dp": 13,
                 "acc": 52,
                 "ev": 11,
-                "hev": 22
+                "hev": 11
             },
             "10": {
                 "ap_min": 4,
@@ -802,7 +834,7 @@
                 "dp": 14,
                 "acc": 56,
                 "ev": 12,
-                "hev": 24
+                "hev": 12
             },
             "11": {
                 "ap_min": 5,
@@ -810,7 +842,7 @@
                 "dp": 15,
                 "acc": 60,
                 "ev": 13,
-                "hev": 26
+                "hev": 13
             },
             "12": {
                 "ap_min": 6,
@@ -818,7 +850,7 @@
                 "dp": 16,
                 "acc": 64,
                 "ev": 14,
-                "hev": 28
+                "hev": 14
             },
             "13": {
                 "ap_min": 7,
@@ -826,7 +858,7 @@
                 "dp": 17,
                 "acc": 68,
                 "ev": 15,
-                "hev": 30
+                "hev": 15
             },
             "14": {
                 "ap_min": 8,
@@ -834,7 +866,7 @@
                 "dp": 18,
                 "acc": 72,
                 "ev": 16,
-                "hev": 32
+                "hev": 16
             },
             "15": {
                 "ap_min": 9,
@@ -842,7 +874,7 @@
                 "dp": 19,
                 "acc": 76,
                 "ev": 17,
-                "hev": 34
+                "hev": 17
             },
             "16": {
                 "ap_min": 10,
@@ -851,7 +883,8 @@
                 "acc": 80,
                 "ev": 18,
                 "dr": 3,
-                "hev": 36,                "dmgtm": 1
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -860,7 +893,8 @@
                 "acc": 84,
                 "ev": 19,
                 "dr": 4,
-                "hev": 38,                "dmgtm": 2
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -869,7 +903,8 @@
                 "acc": 88,
                 "ev": 23,
                 "dr": 5,
-                "hev": 46,                "dmgtm": 3
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -878,7 +913,8 @@
                 "acc": 92,
                 "ev": 24,
                 "dr": 6,
-                "hev": 48,                "dmgtm": 4
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -887,7 +923,8 @@
                 "acc": 96,
                 "ev": 25,
                 "dr": 7,
-                "hev": 50,                "dmgtm": 5
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Saiyer Ornamental Knot of Temptation"
@@ -903,7 +940,8 @@
             "ev": 2,
             "dr": 2,
             "assad": 1,
-            "hev": 6,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -911,43 +949,43 @@
                 "dp": 5,
                 "acc": 32,
                 "ev": 3,
-                "hev": 6
+                "hev": 3
             },
             "2": {
                 "dp": 6,
                 "acc": 35,
                 "ev": 4,
-                "hev": 8
+                "hev": 4
             },
             "3": {
                 "dp": 7,
                 "acc": 38,
                 "ev": 5,
-                "hev": 10
+                "hev": 5
             },
             "4": {
                 "dp": 8,
                 "acc": 40,
                 "ev": 6,
-                "hev": 12
+                "hev": 6
             },
             "5": {
                 "dp": 9,
                 "acc": 42,
                 "ev": 7,
-                "hev": 14
+                "hev": 7
             },
             "6": {
                 "dp": 10,
                 "acc": 44,
                 "ev": 8,
-                "hev": 16
+                "hev": 8
             },
             "7": {
                 "dp": 11,
                 "acc": 46,
                 "ev": 9,
-                "hev": 18
+                "hev": 9
             },
             "8": {
                 "ap_min": 2,
@@ -955,7 +993,7 @@
                 "dp": 12,
                 "acc": 49,
                 "ev": 10,
-                "hev": 20
+                "hev": 10
             },
             "9": {
                 "ap_min": 3,
@@ -963,7 +1001,7 @@
                 "dp": 13,
                 "acc": 52,
                 "ev": 11,
-                "hev": 22
+                "hev": 11
             },
             "10": {
                 "ap_min": 4,
@@ -971,7 +1009,7 @@
                 "dp": 14,
                 "acc": 56,
                 "ev": 12,
-                "hev": 24
+                "hev": 12
             },
             "11": {
                 "ap_min": 5,
@@ -979,7 +1017,7 @@
                 "dp": 15,
                 "acc": 60,
                 "ev": 13,
-                "hev": 26
+                "hev": 13
             },
             "12": {
                 "ap_min": 6,
@@ -987,7 +1025,7 @@
                 "dp": 16,
                 "acc": 64,
                 "ev": 14,
-                "hev": 28
+                "hev": 14
             },
             "13": {
                 "ap_min": 7,
@@ -995,7 +1033,7 @@
                 "dp": 17,
                 "acc": 68,
                 "ev": 15,
-                "hev": 30
+                "hev": 15
             },
             "14": {
                 "ap_min": 8,
@@ -1003,7 +1041,7 @@
                 "dp": 18,
                 "acc": 72,
                 "ev": 16,
-                "hev": 32
+                "hev": 16
             },
             "15": {
                 "ap_min": 9,
@@ -1011,7 +1049,7 @@
                 "dp": 19,
                 "acc": 76,
                 "ev": 17,
-                "hev": 34
+                "hev": 17
             },
             "16": {
                 "ap_min": 10,
@@ -1020,7 +1058,8 @@
                 "acc": 80,
                 "ev": 18,
                 "dr": 3,
-                "hev": 36,                "dmgtm": 1
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
@@ -1029,7 +1068,8 @@
                 "acc": 84,
                 "ev": 19,
                 "dr": 4,
-                "hev": 38,                "dmgtm": 2
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
@@ -1038,7 +1078,8 @@
                 "acc": 88,
                 "ev": 23,
                 "dr": 5,
-                "hev": 46,                "dmgtm": 3
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
@@ -1047,7 +1088,8 @@
                 "acc": 92,
                 "ev": 24,
                 "dr": 6,
-                "hev": 48,                "dmgtm": 4
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
@@ -1056,7 +1098,8 @@
                 "acc": 96,
                 "ev": 25,
                 "dr": 7,
-                "hev": 50,                "dmgtm": 5
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Saiyer Ornamental Knot"
@@ -1071,7 +1114,8 @@
             "ev": 2,
             "dr": 3,
             "abad": 1,
-            "hev": 4,            "dmgtm": 0
+            "hev": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1137,23 +1181,28 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24,                "dmgtm": 1
+                "ap_max": 24,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27,                "dmgtm": 2
+                "ap_max": 27,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33,                "dmgtm": 3
+                "ap_max": 33,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36,                "dmgtm": 4
+                "ap_max": 36,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39,                "dmgtm": 5
+                "ap_max": 39,
+                "dmgtm": 5
             }
         },
         "name": "Oros Ornamental Knot of Crimson Flame"
@@ -1168,7 +1217,8 @@
             "ev": 2,
             "dr": 3,
             "adad": 1,
-            "hev": 4,            "dmgtm": 0
+            "hev": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1234,23 +1284,28 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24,                "dmgtm": 1
+                "ap_max": 24,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27,                "dmgtm": 2
+                "ap_max": 27,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33,                "dmgtm": 3
+                "ap_max": 33,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36,                "dmgtm": 4
+                "ap_max": 36,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39,                "dmgtm": 5
+                "ap_max": 39,
+                "dmgtm": 5
             }
         },
         "name": "Oros Ornamental Knot of Destruction"
@@ -1265,7 +1320,8 @@
             "ev": 2,
             "dr": 3,
             "aaad": 1,
-            "hev": 4,            "dmgtm": 0
+            "hev": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1331,23 +1387,28 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24,                "dmgtm": 1
+                "ap_max": 24,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27,                "dmgtm": 2
+                "ap_max": 27,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33,                "dmgtm": 3
+                "ap_max": 33,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36,                "dmgtm": 4
+                "ap_max": 36,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39,                "dmgtm": 5
+                "ap_max": 39,
+                "dmgtm": 5
             }
         },
         "name": "Oros Ornamental Knot of Temptation"
@@ -1362,7 +1423,8 @@
             "ev": 2,
             "dr": 3,
             "assad": 1,
-            "hev": 4,            "dmgtm": 0
+            "hev": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1428,23 +1490,28 @@
             },
             "16": {
                 "ap_min": 11,
-                "ap_max": 24,                "dmgtm": 1
+                "ap_max": 24,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 14,
-                "ap_max": 27,                "dmgtm": 2
+                "ap_max": 27,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 20,
-                "ap_max": 33,                "dmgtm": 3
+                "ap_max": 33,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 23,
-                "ap_max": 36,                "dmgtm": 4
+                "ap_max": 36,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 26,
-                "ap_max": 39,                "dmgtm": 5
+                "ap_max": 39,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Oros Ornamental Knot"
@@ -1460,7 +1527,8 @@
             "dr": 5,
             "hp": 50,
             "abad": 1,
-            "hev": 6,            "dmgtm": 0
+            "hev": 6,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1544,31 +1612,36 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22,                "dmgtm": 1
+                "dr": 22,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24,                "dmgtm": 2
+                "dr": 24,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29,                "dmgtm": 3
+                "dr": 29,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31,                "dmgtm": 4
+                "dr": 31,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33,                "dmgtm": 5
+                "dr": 33,
+                "dmgtm": 5
             }
         },
         "name": "Theos Ornamental Knot of Crimson Flame"
@@ -1584,7 +1657,8 @@
             "dr": 5,
             "hp": 50,
             "adad": 1,
-            "hev": 6,            "dmgtm": 0
+            "hev": 6,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1668,31 +1742,36 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22,                "dmgtm": 1
+                "dr": 22,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24,                "dmgtm": 2
+                "dr": 24,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29,                "dmgtm": 3
+                "dr": 29,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31,                "dmgtm": 4
+                "dr": 31,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33,                "dmgtm": 5
+                "dr": 33,
+                "dmgtm": 5
             }
         },
         "name": "Theos Ornamental Knot of Destruction"
@@ -1708,7 +1787,8 @@
             "dr": 5,
             "hp": 50,
             "aaad": 1,
-            "hev": 6,            "dmgtm": 0
+            "hev": 6,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1792,31 +1872,36 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22,                "dmgtm": 1
+                "dr": 22,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24,                "dmgtm": 2
+                "dr": 24,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29,                "dmgtm": 3
+                "dr": 29,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31,                "dmgtm": 4
+                "dr": 31,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33,                "dmgtm": 5
+                "dr": 33,
+                "dmgtm": 5
             }
         },
         "name": "Theos Ornamental Knot of Temptation"
@@ -1832,7 +1917,8 @@
             "dr": 5,
             "hp": 100,
             "assad": 1,
-            "hev": 6,            "dmgtm": 0
+            "hev": 6,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1916,31 +2002,36 @@
                 "ap_min": 9,
                 "ap_max": 9,
                 "dp": 25,
-                "dr": 22,                "dmgtm": 1
+                "dr": 22,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 10,
                 "dp": 27,
-                "dr": 24,                "dmgtm": 2
+                "dr": 24,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 11,
                 "ap_max": 11,
                 "dp": 32,
-                "dr": 29,                "dmgtm": 3
+                "dr": 29,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 12,
                 "ap_max": 12,
                 "dp": 34,
-                "dr": 31,                "dmgtm": 4
+                "dr": 31,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 36,
-                "dr": 33,                "dmgtm": 5
+                "dr": 33,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Theos Ornamental Knot"
@@ -1955,7 +2046,8 @@
         "item_effects": {
             "ev": 1,
             "hev": 2,
-            "dr": 3,            "dmgtm": 0
+            "dr": 3,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2023,31 +2115,36 @@
                 "ap_min": 9,
                 "ap_max": 22,
                 "dp": 5,
-                "dr": 4,                "dmgtm": 1
+                "dr": 4,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 23,
                 "dp": 6,
-                "dr": 5,                "dmgtm": 2
+                "dr": 5,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 27,
                 "dp": 7,
-                "dr": 6,                "dmgtm": 3
+                "dr": 6,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 28,
                 "dp": 8,
-                "dr": 7,                "dmgtm": 4
+                "dr": 7,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 29,
                 "dp": 9,
-                "dr": 8,                "dmgtm": 5
+                "dr": 8,
+                "dmgtm": 5
             }
         },
         "name": "Krea Ornamental Knot"
@@ -2062,7 +2159,8 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2176,35 +2274,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38,                "dmgtm": 1
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42,                "dmgtm": 2
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52,                "dmgtm": 3
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56,                "dmgtm": 4
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60,                "dmgtm": 5
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Ornamental Knot"
@@ -2220,7 +2323,8 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 3,            "dmgtm": 0
+            "dr": 3,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2288,31 +2392,36 @@
                 "ap_min": 9,
                 "ap_max": 22,
                 "dp": 6,
-                "dr": 4,                "dmgtm": 1
+                "dr": 4,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 23,
                 "dp": 7,
-                "dr": 5,                "dmgtm": 2
+                "dr": 5,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 27,
                 "dp": 8,
-                "dr": 6,                "dmgtm": 3
+                "dr": 6,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 28,
                 "dp": 9,
-                "dr": 7,                "dmgtm": 4
+                "dr": 7,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 29,
                 "dp": 10,
-                "dr": 8,                "dmgtm": 5
+                "dr": 8,
+                "dmgtm": 5
             }
         },
         "name": "Krea Ornamental Knot of Crimson Flame"
@@ -2328,7 +2437,8 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 3,            "dmgtm": 0
+            "dr": 3,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2396,31 +2506,36 @@
                 "ap_min": 9,
                 "ap_max": 22,
                 "dp": 6,
-                "dr": 4,                "dmgtm": 1
+                "dr": 4,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 23,
                 "dp": 7,
-                "dr": 5,                "dmgtm": 2
+                "dr": 5,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 27,
                 "dp": 8,
-                "dr": 6,                "dmgtm": 3
+                "dr": 6,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 28,
                 "dp": 9,
-                "dr": 7,                "dmgtm": 4
+                "dr": 7,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 29,
                 "dp": 10,
-                "dr": 8,                "dmgtm": 5
+                "dr": 8,
+                "dmgtm": 5
             }
         },
         "name": "Krea Ornamental Knot of Destruction"
@@ -2436,7 +2551,8 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 3,            "dmgtm": 0
+            "dr": 3,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2504,31 +2620,36 @@
                 "ap_min": 9,
                 "ap_max": 22,
                 "dp": 6,
-                "dr": 4,                "dmgtm": 1
+                "dr": 4,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 23,
                 "dp": 7,
-                "dr": 5,                "dmgtm": 2
+                "dr": 5,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 27,
                 "dp": 8,
-                "dr": 6,                "dmgtm": 3
+                "dr": 6,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 28,
                 "dp": 9,
-                "dr": 7,                "dmgtm": 4
+                "dr": 7,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 29,
                 "dp": 10,
-                "dr": 8,                "dmgtm": 5
+                "dr": 8,
+                "dmgtm": 5
             }
         },
         "name": "Krea Ornamental Knot of Temptation"
@@ -2544,7 +2665,8 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 3,            "dmgtm": 0
+            "dr": 3,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2612,31 +2734,36 @@
                 "ap_min": 9,
                 "ap_max": 22,
                 "dp": 6,
-                "dr": 4,                "dmgtm": 1
+                "dr": 4,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 10,
                 "ap_max": 23,
                 "dp": 7,
-                "dr": 5,                "dmgtm": 2
+                "dr": 5,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 27,
                 "dp": 8,
-                "dr": 6,                "dmgtm": 3
+                "dr": 6,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 28,
                 "dp": 9,
-                "dr": 7,                "dmgtm": 4
+                "dr": 7,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 29,
                 "dp": 10,
-                "dr": 8,                "dmgtm": 5
+                "dr": 8,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Krea Ornamental Knot"
@@ -2652,7 +2779,8 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2766,35 +2894,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38,                "dmgtm": 1
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42,                "dmgtm": 2
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52,                "dmgtm": 3
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56,                "dmgtm": 4
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60,                "dmgtm": 5
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Ornamental Knot of Crimson Flame"
@@ -2810,7 +2943,8 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2924,35 +3058,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38,                "dmgtm": 1
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42,                "dmgtm": 2
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52,                "dmgtm": 3
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56,                "dmgtm": 4
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60,                "dmgtm": 5
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Ornamental Knot of Destruction"
@@ -2968,7 +3107,8 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3082,35 +3222,40 @@
                 "ap_max": 13,
                 "dp": 21,
                 "ev": 19,
-                "hev": 38,                "dmgtm": 1
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
                 "ev": 21,
-                "hev": 42,                "dmgtm": 2
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
                 "ev": 26,
-                "hev": 52,                "dmgtm": 3
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
                 "ev": 28,
-                "hev": 56,                "dmgtm": 4
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
                 "ev": 30,
-                "hev": 60,                "dmgtm": 5
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Ornamental Knot of Temptation"
@@ -3126,7 +3271,8 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4,            "dmgtm": 0
+            "dr": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3226,35 +3372,40 @@
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 19,
-                "hev": 38,                "dmgtm": 1
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 25,
                 "ev": 21,
-                "hev": 42,                "dmgtm": 2
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 26,
-                "hev": 52,                "dmgtm": 3
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 28,
-                "hev": 56,                "dmgtm": 4
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 34,
                 "ev": 30,
-                "hev": 60,                "dmgtm": 5
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Rosar Ornamental Knot"
@@ -3268,7 +3419,8 @@
             "kb": 10,
             "kd": 10,
             "ssfr": 10,
-            "gr": 10,            "dmgtm": 0
+            "gr": 10,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3334,23 +3486,28 @@
             },
             "16": {
                 "ap_min": 29,
-                "ap_max": 31,                "dmgtm": 1
+                "ap_max": 31,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 32,
-                "ap_max": 34,                "dmgtm": 2
+                "ap_max": 34,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 38,
-                "ap_max": 40,                "dmgtm": 3
+                "ap_max": 40,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 41,
-                "ap_max": 43,                "dmgtm": 4
+                "ap_max": 43,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 44,
-                "ap_max": 46,                "dmgtm": 5
+                "ap_max": 46,
+                "dmgtm": 5
             }
         },
         "name": "Nouver Ornamental Knot"
