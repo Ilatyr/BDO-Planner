@@ -551,7 +551,7 @@
             "shatter_chance": "high",
             "incompatible": [],
             "item_effects": {
-                "mpwpsprc": 2,
+                "mpwpsprc": 2
             },
             "name": "Magic Crystal of Abundance - Resonance"
         },
@@ -587,7 +587,7 @@
             "shatter_chance": "high",
             "incompatible": [],
             "item_effects": {
-                "mpwpsprc": 3,
+                "mpwpsprc": 3
             },
             "name": "Magic Crystal of Infinity - Resonance"
         },
@@ -691,7 +691,7 @@
             "incompatible": [],
             "item_effects": {
                 "mpwpsp": 50,
-                "mpwpsprc": 3,
+                "mpwpsprc": 3
             },
             "name": "Ancient Magic Crystal of Abundance - Resonance"
         },
