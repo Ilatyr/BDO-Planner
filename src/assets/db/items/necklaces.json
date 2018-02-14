@@ -452,7 +452,8 @@
         "rarity": "epic",
         "item_effects": {
             "ev": 3,
-            "hev": 6
+            "hev": 6,
+            "acc": 4
         },
         "enhancement_text": "",
         "enhancement": {
@@ -460,31 +461,36 @@
                 "ap": 10,
                 "dp": 5,
                 "ev": 5,
-                "hev": 10
+                "hev": 10,
+                "acc": 8
             },
             "2": {
                 "ap": 13,
                 "dp": 7,
                 "ev": 7,
-                "hev": 14
+                "hev": 14,
+                "acc": 12
             },
             "3": {
                 "ap": 16,
                 "dp": 9,
                 "ev": 9,
-                "hev": 18
+                "hev": 18,
+                "acc": 16
             },
             "4": {
                 "ap": 19,
                 "dp": 11,
                 "ev": 11,
-                "hev": 22
+                "hev": 22,
+                "acc": 20
             },
             "5": {
                 "ap": 22,
                 "dp": 13,
                 "ev": 13,
-                "hev": 26
+                "hev": 26,
+                "acc": 24
             }
         },
         "name": "Sicil's Necklace"
