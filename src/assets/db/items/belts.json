@@ -960,10 +960,10 @@
     },
     "12242": {
         "set": "Treant",
-        "ap": 3,
+        "ap": 4,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 80,
+            "wgt": 50,
             "acc": 2
         },
         "enhancement_text": "",
@@ -972,10 +972,10 @@
     },
     "12243": {
         "set": "Treant",
-        "ap": 4,
+        "ap": 5,
         "rarity": "rare",
         "item_effects": {
-            "wgt": 50,
+            "wgt": 30,
             "acc": 2
         },
         "enhancement_text": "",

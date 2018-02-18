@@ -937,7 +937,7 @@
     },
     "11843": {
         "set": "Treant",
-        "ap": 2,
+        "ap": 3,
         "rarity": "rare",
         "item_effects": {
             "acc": 16
@@ -948,7 +948,7 @@
     },
     "11844": {
         "set": "Treant",
-        "ap": 4,
+        "ap": 5,
         "rarity": "rare",
         "item_effects": {
             "acc": 4
