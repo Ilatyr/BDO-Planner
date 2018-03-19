@@ -399,6 +399,7 @@
         "name": "Necklace of Concentrated Magical Power"
     },
     "11624": {
+        "dp": 0,
         "ap": 5,
         "rarity": "rare",
         "item_effects": {
