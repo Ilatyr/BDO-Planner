@@ -110,15 +110,6 @@
             },
             "name": "Magic Crystal of Nature - Ascension"
         },
-        "15027": {
-            "rarity": "uncommon",
-            "shatter_chance": "high",
-            "incompatible": [],
-            "item_effects": {
-                "fdmg": -10
-            },
-            "name": "Magic Crystal of Nature - Falling"
-        },
         "15028": {
             "rarity": "uncommon",
             "shatter_chance": "high",
@@ -126,7 +117,7 @@
             "item_effects": {
                 "stam": 100
             },
-            "name": "Magic Crystal of Nature - Energy"
+            "name": "Magic Crystal of Nature - Endurance"
         },
         "15111": {
             "rarity": "rare",
@@ -162,7 +153,7 @@
             "item_effects": {
                 "fdmg": -15
             },
-            "name": "Magic Crystal of Infinity - Falling"
+            "name": "Magic Crystal of Infinity - Descent"
         },
         "15115": {
             "rarity": "rare",
@@ -171,7 +162,7 @@
             "item_effects": {
                 "stam": 150
             },
-            "name": "Magic Crystal of Infinity - Energy (Stamina)"
+            "name": "Magic Crystal of Infinity - Endurance"
         },
         "15146": {
             "rarity": "rare",
