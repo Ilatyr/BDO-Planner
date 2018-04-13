@@ -123,45 +123,50 @@
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 20,
+                "dp": 21,
                 "acc": 72,
                 "ev": 18,
+                "dr": 3,
                 "hev": 18,
                 "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 21,
+                "dp": 23,
                 "acc": 76,
                 "ev": 19,
+                "dr": 4,
                 "hev": 19,
                 "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 25,
+                "dp": 28,
                 "acc": 80,
                 "ev": 23,
+                "dr": 5,
                 "hev": 23,
                 "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 26,
+                "dp": 30,
                 "acc": 84,
                 "ev": 24,
+                "dr": 6,
                 "hev": 24,
                 "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 27,
+                "dp": 32,
                 "acc": 88,
                 "ev": 25,
+                "dr": 7,
                 "hev": 25,
                 "dmgtm": 5
             }
@@ -169,103 +174,111 @@
         "name": "Vangertz Shield"
     },
     "10103": {
-        "ap_min": 4,
+        "ap_min": 6,
         "ap_max": 6,
-        "dp": 4,
+        "dp": 0,
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
-            "ev": 1,
-            "dr": 3,
-            "hev": 2,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 5,
+                "ap_min": 7,
                 "ap_max": 7
             },
             "2": {
-                "ap_min": 5,
+                "ap_min": 8,
                 "ap_max": 8
             },
             "3": {
-                "ap_min": 5,
+                "ap_min": 9,
                 "ap_max": 9
             },
             "4": {
-                "ap_min": 5,
+                "ap_min": 10,
                 "ap_max": 10
             },
             "5": {
-                "ap_min": 6,
+                "ap_min": 11,
                 "ap_max": 11
             },
             "6": {
-                "ap_min": 6,
+                "ap_min": 12,
                 "ap_max": 12
             },
             "7": {
-                "ap_min": 6,
+                "ap_min": 13,
                 "ap_max": 13
             },
             "8": {
-                "ap_min": 6,
+                "ap_min": 14,
                 "ap_max": 14
             },
             "9": {
-                "ap_min": 6,
+                "ap_min": 15,
                 "ap_max": 15
             },
             "10": {
-                "ap_min": 7,
+                "ap_min": 16,
                 "ap_max": 16
             },
             "11": {
-                "ap_min": 7,
+                "ap_min": 17,
                 "ap_max": 17
             },
             "12": {
-                "ap_min": 7,
+                "ap_min": 18,
                 "ap_max": 18
             },
             "13": {
-                "ap_min": 7,
+                "ap_min": 19,
                 "ap_max": 19
             },
             "14": {
-                "ap_min": 7,
+                "ap_min": 20,
                 "ap_max": 20
             },
             "15": {
-                "ap_min": 8,
+                "ap_min": 21,
                 "ap_max": 21
             },
             "16": {
-                "ap_min": 11,
+                "ap_min": 24,
                 "ap_max": 24,
-                "dmgtm": 1
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
-                "ap_min": 14,
+                "ap_min": 27,
                 "ap_max": 27,
-                "dmgtm": 2
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
-                "ap_min": 20,
+                "ap_min": 33,
                 "ap_max": 33,
-                "dmgtm": 3
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
-                "ap_min": 23,
+                "ap_min": 36,
                 "ap_max": 36,
-                "dmgtm": 4
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
-                "ap_min": 26,
+                "ap_min": 39,
                 "ap_max": 39,
-                "dmgtm": 5
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Axion Shield"
@@ -524,45 +537,50 @@
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 20,
+                "dp": 21,
                 "acc": 80,
                 "ev": 18,
+                "dr": 3,
                 "hev": 18,
                 "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 21,
+                "dp": 23,
                 "acc": 84,
                 "ev": 19,
+                "dr": 4,
                 "hev": 19,
                 "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 25,
+                "dp": 28,
                 "acc": 88,
                 "ev": 23,
+                "dr": 5,
                 "hev": 23,
                 "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 26,
+                "dp": 30,
                 "acc": 92,
                 "ev": 24,
+                "dr": 6,
                 "hev": 24,
                 "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 27,
+                "dp": 32,
                 "acc": 96,
                 "ev": 25,
+                "dr": 7,
                 "hev": 25,
                 "dmgtm": 5
             }
@@ -694,45 +712,50 @@
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 20,
+                "dp": 21,
                 "acc": 80,
                 "ev": 18,
+                "dr": 3,
                 "hev": 18,
                 "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 21,
+                "dp": 23,
                 "acc": 84,
                 "ev": 19,
+                "dr": 4,
                 "hev": 19,
                 "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 25,
+                "dp": 28,
                 "acc": 88,
                 "ev": 23,
+                "dr": 5,
                 "hev": 23,
                 "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 26,
+                "dp": 30,
                 "acc": 92,
                 "ev": 24,
+                "dr": 6,
                 "hev": 24,
                 "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 27,
+                "dp": 32,
                 "acc": 96,
                 "ev": 25,
+                "dr": 7,
                 "hev": 25,
                 "dmgtm": 5
             }
@@ -864,45 +887,50 @@
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 20,
+                "dp": 21,
                 "acc": 80,
                 "ev": 18,
+                "dr": 3,
                 "hev": 18,
                 "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 21,
+                "dp": 23,
                 "acc": 84,
                 "ev": 19,
+                "dr": 4,
                 "hev": 19,
                 "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 25,
+                "dp": 28,
                 "acc": 88,
                 "ev": 23,
+                "dr": 5,
                 "hev": 23,
                 "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 26,
+                "dp": 30,
                 "acc": 92,
                 "ev": 24,
+                "dr": 6,
                 "hev": 24,
                 "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 27,
+                "dp": 32,
                 "acc": 96,
                 "ev": 25,
+                "dr": 7,
                 "hev": 25,
                 "dmgtm": 5
             }
@@ -1034,45 +1062,50 @@
             "16": {
                 "ap_min": 10,
                 "ap_max": 12,
-                "dp": 20,
+                "dp": 21,
                 "acc": 80,
                 "ev": 18,
+                "dr": 3,
                 "hev": 18,
                 "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 21,
+                "dp": 23,
                 "acc": 84,
                 "ev": 19,
+                "dr": 4,
                 "hev": 19,
                 "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 25,
+                "dp": 28,
                 "acc": 88,
                 "ev": 23,
+                "dr": 5,
                 "hev": 23,
                 "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 26,
+                "dp": 30,
                 "acc": 92,
                 "ev": 24,
+                "dr": 6,
                 "hev": 24,
                 "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 27,
+                "dp": 32,
                 "acc": 96,
                 "ev": 25,
+                "dr": 7,
                 "hev": 25,
                 "dmgtm": 5
             }
@@ -1080,413 +1113,445 @@
         "name": "Ultimate Vangertz Shield"
     },
     "10110": {
-        "ap_min": 4,
-        "ap_max": 6,
-        "dp": 5,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "ev": 1,
-            "dr": 3,
             "abad": 1,
-            "hev": 4,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 5,
-                "ap_max": 7
-            },
-            "2": {
-                "ap_min": 5,
+                "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
-                "ap_min": 5,
+            "2": {
+                "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
-                "ap_min": 5,
+            "3": {
+                "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
-                "ap_min": 6,
+            "4": {
+                "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
-                "ap_min": 6,
+            "5": {
+                "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
-                "ap_min": 6,
+            "6": {
+                "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
-                "ap_min": 6,
+            "7": {
+                "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
-                "ap_min": 6,
+            "8": {
+                "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
-                "ap_min": 7,
+            "9": {
+                "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
-                "ap_min": 7,
+            "10": {
+                "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
-                "ap_min": 7,
+            "11": {
+                "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
-                "ap_min": 7,
+            "12": {
+                "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
-                "ap_min": 7,
+            "13": {
+                "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
-                "ap_min": 8,
+            "14": {
+                "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
-                "ap_min": 11,
-                "ap_max": 24,
-                "dmgtm": 1
+                "ap_min": 25,
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
-                "ap_min": 14,
-                "ap_max": 27,
-                "dmgtm": 2
+                "ap_min": 28,
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
-                "ap_min": 20,
-                "ap_max": 33,
-                "dmgtm": 3
+                "ap_min": 34,
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
-                "ap_min": 23,
-                "ap_max": 36,
-                "dmgtm": 4
+                "ap_min": 37,
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
-                "ap_min": 26,
-                "ap_max": 39,
-                "dmgtm": 5
+                "ap_min": 40,
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Axion Shield of Crimson Flame"
     },
     "10111": {
-        "ap_min": 4,
-        "ap_max": 6,
-        "dp": 5,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "ev": 1,
-            "dr": 3,
             "adad": 1,
-            "hev": 4,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 5,
-                "ap_max": 7
-            },
-            "2": {
-                "ap_min": 5,
+                "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
-                "ap_min": 5,
+            "2": {
+                "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
-                "ap_min": 5,
+            "3": {
+                "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
-                "ap_min": 6,
+            "4": {
+                "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
-                "ap_min": 6,
+            "5": {
+                "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
-                "ap_min": 6,
+            "6": {
+                "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
-                "ap_min": 6,
+            "7": {
+                "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
-                "ap_min": 6,
+            "8": {
+                "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
-                "ap_min": 7,
+            "9": {
+                "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
-                "ap_min": 7,
+            "10": {
+                "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
-                "ap_min": 7,
+            "11": {
+                "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
-                "ap_min": 7,
+            "12": {
+                "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
-                "ap_min": 7,
+            "13": {
+                "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
-                "ap_min": 8,
+            "14": {
+                "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
-                "ap_min": 11,
-                "ap_max": 24,
-                "dmgtm": 1
+                "ap_min": 25,
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
-                "ap_min": 14,
-                "ap_max": 27,
-                "dmgtm": 2
+                "ap_min": 28,
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
-                "ap_min": 20,
-                "ap_max": 33,
-                "dmgtm": 3
+                "ap_min": 34,
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
-                "ap_min": 23,
-                "ap_max": 36,
-                "dmgtm": 4
+                "ap_min": 37,
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
-                "ap_min": 26,
-                "ap_max": 39,
-                "dmgtm": 5
+                "ap_min": 40,
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Axion Shield of Destruction"
     },
     "10112": {
-        "ap_min": 4,
-        "ap_max": 6,
-        "dp": 5,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "ev": 1,
-            "dr": 3,
             "aaad": 1,
-            "hev": 4,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 5,
-                "ap_max": 7
-            },
-            "2": {
-                "ap_min": 5,
+                "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
-                "ap_min": 5,
+            "2": {
+                "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
-                "ap_min": 5,
+            "3": {
+                "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
-                "ap_min": 6,
+            "4": {
+                "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
-                "ap_min": 6,
+            "5": {
+                "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
-                "ap_min": 6,
+            "6": {
+                "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
-                "ap_min": 6,
+            "7": {
+                "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
-                "ap_min": 6,
+            "8": {
+                "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
-                "ap_min": 7,
+            "9": {
+                "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
-                "ap_min": 7,
+            "10": {
+                "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
-                "ap_min": 7,
+            "11": {
+                "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
-                "ap_min": 7,
+            "12": {
+                "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
-                "ap_min": 7,
+            "13": {
+                "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
-                "ap_min": 8,
+            "14": {
+                "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
-                "ap_min": 11,
-                "ap_max": 24,
-                "dmgtm": 1
+                "ap_min": 25,
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
-                "ap_min": 14,
-                "ap_max": 27,
-                "dmgtm": 2
+                "ap_min": 28,
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
-                "ap_min": 20,
-                "ap_max": 33,
-                "dmgtm": 3
+                "ap_min": 34,
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
-                "ap_min": 23,
-                "ap_max": 36,
-                "dmgtm": 4
+                "ap_min": 37,
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
-                "ap_min": 26,
-                "ap_max": 39,
-                "dmgtm": 5
+                "ap_min": 40,
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Axion Shield of Temptation"
     },
     "10113": {
-        "ap_min": 4,
-        "ap_max": 6,
-        "dp": 5,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
-            "ev": 1,
-            "dr": 3,
             "assad": 1,
-            "hev": 4,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 5,
-                "ap_max": 7
-            },
-            "2": {
-                "ap_min": 5,
+                "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
-                "ap_min": 5,
+            "2": {
+                "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
-                "ap_min": 5,
+            "3": {
+                "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
-                "ap_min": 6,
+            "4": {
+                "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
-                "ap_min": 6,
+            "5": {
+                "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
-                "ap_min": 6,
+            "6": {
+                "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
-                "ap_min": 6,
+            "7": {
+                "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
-                "ap_min": 6,
+            "8": {
+                "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
-                "ap_min": 7,
+            "9": {
+                "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
-                "ap_min": 7,
+            "10": {
+                "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
-                "ap_min": 7,
+            "11": {
+                "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
-                "ap_min": 7,
+            "12": {
+                "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
-                "ap_min": 7,
+            "13": {
+                "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
-                "ap_min": 8,
+            "14": {
+                "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
-                "ap_min": 11,
-                "ap_max": 24,
-                "dmgtm": 1
+                "ap_min": 25,
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
-                "ap_min": 14,
-                "ap_max": 27,
-                "dmgtm": 2
+                "ap_min": 28,
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
-                "ap_min": 20,
-                "ap_max": 33,
-                "dmgtm": 3
+                "ap_min": 34,
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
-                "ap_min": 23,
-                "ap_max": 36,
-                "dmgtm": 4
+                "ap_min": 37,
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
-                "ap_min": 26,
-                "ap_max": 39,
-                "dmgtm": 5
+                "ap_min": 40,
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Ultimate Axion Shield"
@@ -3568,6 +3633,7 @@
     "10138": {
         "ap_min": 6,
         "ap_max": 8,
+        "dp": 0,
         "rarity": "epic",
         "gems": 2,
         "item_effects": {
@@ -3575,7 +3641,8 @@
             "kd": 10,
             "ssfr": 10,
             "gr": 10,
-            "dmgtm": 0
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3642,27 +3709,37 @@
             "16": {
                 "ap_min": 29,
                 "ap_max": 31,
-                "dmgtm": 1
+                "dmgtm": 1,
+                "dp": 3,
+                "dr": 3
             },
             "17": {
                 "ap_min": 32,
                 "ap_max": 34,
-                "dmgtm": 2
+                "dmgtm": 2,
+                "dp": 4,
+                "dr": 4
             },
             "18": {
                 "ap_min": 38,
                 "ap_max": 40,
-                "dmgtm": 3
+                "dmgtm": 3,
+                "dp": 5,
+                "dr": 5
             },
             "19": {
                 "ap_min": 41,
                 "ap_max": 43,
-                "dmgtm": 4
+                "dmgtm": 4,
+                "dp": 6,
+                "dr": 6
             },
             "20": {
                 "ap_min": 44,
                 "ap_max": 46,
-                "dmgtm": 5
+                "dmgtm": 5,
+                "dp": 7,
+                "dr": 7
             }
         },
         "name": "Nouver Shield"
@@ -3722,141 +3799,135 @@
             "7": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 5,
-                "ev": 2,
-                "dr": 3,
                 "acc": 4,
                 "dmgtm": 12
             },
             "8": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 6,
+                "dp": 5,
                 "ev": 3,
                 "hev": 9,
-                "dr": 3,
                 "acc": 5,
                 "dmgtm": 13
             },
             "9": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 7,
+                "dp": 5,
                 "ev": 3,
-                "hev": 6,
-                "dr": 4,
+                "hev": 9,
                 "acc": 5,
                 "dmgtm": 14
             },
             "10": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 8,
+                "dp": 6,
                 "ev": 4,
                 "hev": 12,
-                "dr": 4,
                 "acc": 6,
                 "dmgtm": 15
             },
             "11": {
                 "ap_min": 15,
                 "ap_max": 17,
-                "dp": 9,
+                "dp": 7,
                 "ev": 4,
                 "hev": 12,
-                "dr": 5,
+                "dr": 3,
                 "acc": 6,
                 "dmgtm": 16
             },
             "12": {
                 "ap_min": 16,
                 "ap_max": 18,
-                "dp": 10,
+                "dp": 8,
                 "ev": 5,
                 "hev": 15,
-                "dr": 5,
+                "dr": 3,
                 "acc": 7,
                 "dmgtm": 17
             },
             "13": {
                 "ap_min": 17,
                 "ap_max": 19,
-                "dp": 11,
+                "dp": 8,
                 "ev": 5,
                 "hev": 15,
-                "dr": 6,
+                "dr": 3,
                 "acc": 7,
                 "dmgtm": 18
             },
             "14": {
                 "ap_min": 18,
                 "ap_max": 20,
-                "dp": 12,
+                "dp": 9,
                 "ev": 6,
                 "hev": 18,
-                "dr": 6,
+                "dr": 3,
                 "acc": 8,
                 "dmgtm": 19
             },
             "15": {
                 "ap_min": 19,
                 "ap_max": 21,
-                "dp": 13,
+                "dp": 9,
                 "ev": 6,
                 "hev": 18,
-                "dr": 7,
+                "dr": 3,
                 "acc": 8,
                 "dmgtm": 20
             },
             "16": {
-                "ap_min": 20,
-                "ap_max": 22,
-                "dp": 15,
-                "ev": 7,
-                "hev": 21,
-                "dr": 8,
-                "acc": 9,
-                "dmgtm": 23
-            },
-            "17": {
                 "ap_min": 21,
                 "ap_max": 23,
-                "dp": 17,
+                "dp": 10,
+                "ev": 7,
+                "hev": 21,
+                "dr": 3,
+                "acc": 9,
+                "dmgtm": 28
+            },
+            "17": {
+                "ap_min": 23,
+                "ap_max": 25,
+                "dp": 12,
                 "ev": 8,
                 "hev": 24,
-                "dr": 8,
+                "dr": 4,
                 "acc": 10,
-                "dmgtm": 26
+                "dmgtm": 33
             },
             "18": {
-                "ap_min": 24,
-                "ap_max": 26,
-                "dp": 20,
+                "ap_min": 27,
+                "ap_max": 29,
+                "dp": 15,
                 "ev": 9,
                 "hev": 27,
-                "dr": 11,
+                "dr": 6,
                 "acc": 11,
-                "dmgtm": 34
+                "dmgtm": 43
             },
             "19": {
-                "ap_min": 25,
-                "ap_max": 27,
-                "dp": 22,
+                "ap_min": 29,
+                "ap_max": 31,
+                "dp": 17,
                 "ev": 10,
                 "hev": 30,
-                "dr": 12,
+                "dr": 7,
                 "acc": 12,
-                "dmgtm": 45
+                "dmgtm": 58
             },
             "20": {
-                "ap_min": 26,
-                "ap_max": 28,
-                "dp": 24,
+                "ap_min": 31,
+                "ap_max": 33,
+                "dp": 19,
                 "ev": 11,
                 "hev": 33,
-                "dr": 13,
+                "dr": 8,
                 "acc": 13,
-                "dmgtm": 59
+                "dmgtm": 62
             }
         },
         "name": "Kutum Shield"

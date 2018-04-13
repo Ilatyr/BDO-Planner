@@ -1,123 +1,189 @@
 {
     "14603": {
-        "ap_min": 3,
+        "ap_min": 1,
         "ap_max": 3,
-        "dp": 0,
+        "dp": 4,
         "rarity": "uncommon",
         "gems": 1,
         "item_effects": {
             "acc": 20,
-            "dr": 0,            "dmgtm": 0
+            "ev": 2,
+            "dr": 2,
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "acc": 24
+                "dp": 5,
+                "acc": 24,
+                "ev": 3,
+                "hev": 3
             },
             "2": {
-                "acc": 27
+                "dp": 6,
+                "acc": 27,
+                "ev": 4,
+                "hev": 4
             },
             "3": {
-                "acc": 30
+                "dp": 7,
+                "acc": 30,
+                "ev": 5,
+                "hev": 5
             },
             "4": {
-                "acc": 32
+                "dp": 8,
+                "acc": 32,
+                "ev": 6,
+                "hev": 6
             },
             "5": {
-                "acc": 34
+                "dp": 9,
+                "acc": 34,
+                "ev": 7,
+                "hev": 7
             },
             "6": {
-                "acc": 36
+                "dp": 10,
+                "acc": 36,
+                "ev": 8,
+                "hev": 8
             },
             "7": {
-                "acc": 38
+                "dp": 11,
+                "acc": 38,
+                "ev": 9,
+                "hev": 9
             },
             "8": {
-                "ap_min": 4,
+                "ap_min": 2,
                 "ap_max": 4,
-                "acc": 41
+                "dp": 12,
+                "acc": 41,
+                "ev": 10,
+                "hev": 10
             },
             "9": {
-                "ap_min": 5,
+                "ap_min": 3,
                 "ap_max": 5,
-                "acc": 44
+                "dp": 13,
+                "acc": 44,
+                "ev": 11,
+                "hev": 11
             },
             "10": {
-                "ap_min": 6,
+                "ap_min": 4,
                 "ap_max": 6,
-                "acc": 48
+                "dp": 14,
+                "acc": 48,
+                "ev": 12,
+                "hev": 12
             },
             "11": {
-                "ap_min": 7,
+                "ap_min": 5,
                 "ap_max": 7,
-                "acc": 52
+                "dp": 15,
+                "acc": 52,
+                "ev": 13,
+                "hev": 13
             },
             "12": {
-                "ap_min": 8,
+                "ap_min": 6,
                 "ap_max": 8,
-                "acc": 56
+                "dp": 16,
+                "acc": 56,
+                "ev": 14,
+                "hev": 14
             },
             "13": {
-                "ap_min": 9,
+                "ap_min": 7,
                 "ap_max": 9,
-                "acc": 60
+                "dp": 17,
+                "acc": 60,
+                "ev": 15,
+                "hev": 15
             },
             "14": {
-                "ap_min": 10,
+                "ap_min": 8,
                 "ap_max": 10,
-                "acc": 64
+                "dp": 18,
+                "acc": 64,
+                "ev": 16,
+                "hev": 16
             },
             "15": {
-                "ap_min": 11,
+                "ap_min": 9,
                 "ap_max": 11,
-                "acc": 68
+                "dp": 19,
+                "acc": 68,
+                "ev": 17,
+                "hev": 17
             },
             "16": {
-                "ap_min": 12,
+                "ap_min": 10,
                 "ap_max": 12,
-                "dp": 1,
+                "dp": 21,
                 "acc": 72,
-                "dr": 1,                "dmgtm": 1
+                "ev": 18,
+                "dr": 3,
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
-                "ap_min": 13,
+                "ap_min": 11,
                 "ap_max": 13,
-                "dp": 2,
+                "dp": 23,
                 "acc": 76,
-                "dr": 2,                "dmgtm": 2
+                "ev": 19,
+                "dr": 4,
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
-                "ap_min": 17,
-                "ap_max": 17,
-                "dp": 3,
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28,
                 "acc": 80,
-                "dr": 3,                "dmgtm": 3
+                "ev": 23,
+                "dr": 5,
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
-                "ap_min": 18,
-                "ap_max": 18,
-                "dp": 4,
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30,
                 "acc": 84,
-                "dr": 4,                "dmgtm": 4
+                "ev": 24,
+                "dr": 6,
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
-                "ap_min": 19,
-                "ap_max": 19,
-                "dp": 5,
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32,
                 "acc": 88,
-                "dr": 5,                "dmgtm": 5
+                "ev": 25,
+                "dr": 7,
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Quitar Shuriken"
     },
     "14604": {
-        "ap_min": 5,
-        "ap_max": 5,
+        "ap_min": 6,
+        "ap_max": 6,
+        "dp": 0,
         "rarity": "uncommon",
         "gems": 1,
-        "item_effects": {            "dmgtm": 0
+        "item_effects": {
+            "dmgtm": 0,
+            "dr": 0
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
                 "ap_min": 7,
@@ -181,23 +247,38 @@
             },
             "16": {
                 "ap_min": 24,
-                "ap_max": 24,                "dmgtm": 1
+                "ap_max": 24,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
                 "ap_min": 27,
-                "ap_max": 27,                "dmgtm": 2
+                "ap_max": 27,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
                 "ap_min": 33,
-                "ap_max": 33,                "dmgtm": 3
+                "ap_max": 33,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
                 "ap_min": 36,
-                "ap_max": 36,                "dmgtm": 4
+                "ap_max": 36,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
                 "ap_min": 39,
-                "ap_max": 39,                "dmgtm": 5
+                "ap_max": 39,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Estique Shuriken"
@@ -211,7 +292,8 @@
         "item_effects": {
             "ev": 3,
             "hp": 50,
-            "hev": 9,            "dmgtm": 0
+            "hev": 9,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -325,855 +407,1184 @@
                 "ap_max": 12,
                 "dp": 20,
                 "ev": 20,
-                "hev": 60,                "dmgtm": 1
+                "hev": 60,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 22,
                 "ev": 22,
-                "hev": 66,                "dmgtm": 2
+                "hev": 66,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
                 "dp": 27,
                 "ev": 27,
-                "hev": 81,                "dmgtm": 3
+                "hev": 81,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
                 "dp": 29,
                 "ev": 29,
-                "hev": 87,                "dmgtm": 4
+                "hev": 87,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
                 "dp": 31,
                 "ev": 31,
-                "hev": 93,                "dmgtm": 5
+                "hev": 93,
+                "dmgtm": 5
             }
         },
         "name": "Tadd Shuriken"
     },
     "14606": {
-        "ap_min": 3,
+        "ap_min": 1,
         "ap_max": 3,
-        "dp": 0,
+        "dp": 4,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
             "acc": 28,
+            "ev": 2,
+            "dr": 2,
             "abad": 1,
-            "dr": 0,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "acc": 32
+                "dp": 5,
+                "acc": 32,
+                "ev": 3,
+                "hev": 3
             },
             "2": {
-                "acc": 35
+                "dp": 6,
+                "acc": 35,
+                "ev": 4,
+                "hev": 4
             },
             "3": {
-                "acc": 38
+                "dp": 7,
+                "acc": 38,
+                "ev": 5,
+                "hev": 5
             },
             "4": {
-                "acc": 40
+                "dp": 8,
+                "acc": 40,
+                "ev": 6,
+                "hev": 6
             },
             "5": {
-                "acc": 42
+                "dp": 9,
+                "acc": 42,
+                "ev": 7,
+                "hev": 7
             },
             "6": {
-                "acc": 44
+                "dp": 10,
+                "acc": 44,
+                "ev": 8,
+                "hev": 8
             },
             "7": {
-                "acc": 46
+                "dp": 11,
+                "acc": 46,
+                "ev": 9,
+                "hev": 9
             },
             "8": {
-                "ap_min": 4,
+                "ap_min": 2,
                 "ap_max": 4,
-                "acc": 49
+                "dp": 12,
+                "acc": 49,
+                "ev": 10,
+                "hev": 10
             },
             "9": {
-                "ap_min": 5,
+                "ap_min": 3,
                 "ap_max": 5,
-                "acc": 52
+                "dp": 13,
+                "acc": 52,
+                "ev": 11,
+                "hev": 11
             },
             "10": {
-                "ap_min": 6,
+                "ap_min": 4,
                 "ap_max": 6,
-                "acc": 56
+                "dp": 14,
+                "acc": 56,
+                "ev": 12,
+                "hev": 12
             },
             "11": {
-                "ap_min": 7,
+                "ap_min": 5,
                 "ap_max": 7,
-                "acc": 60
+                "dp": 15,
+                "acc": 60,
+                "ev": 13,
+                "hev": 13
             },
             "12": {
-                "ap_min": 8,
+                "ap_min": 6,
                 "ap_max": 8,
-                "acc": 64
+                "dp": 16,
+                "acc": 64,
+                "ev": 14,
+                "hev": 14
             },
             "13": {
-                "ap_min": 9,
+                "ap_min": 7,
                 "ap_max": 9,
-                "acc": 68
+                "dp": 17,
+                "acc": 68,
+                "ev": 15,
+                "hev": 15
             },
             "14": {
-                "ap_min": 10,
+                "ap_min": 8,
                 "ap_max": 10,
-                "acc": 72
+                "dp": 18,
+                "acc": 72,
+                "ev": 16,
+                "hev": 16
             },
             "15": {
-                "ap_min": 11,
+                "ap_min": 9,
                 "ap_max": 11,
-                "acc": 76
+                "dp": 19,
+                "acc": 76,
+                "ev": 17,
+                "hev": 17
             },
             "16": {
-                "ap_min": 12,
+                "ap_min": 10,
                 "ap_max": 12,
-                "dp": 1,
+                "dp": 21,
                 "acc": 80,
-                "dr": 1,                "dmgtm": 1
+                "ev": 18,
+                "dr": 3,
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
-                "ap_min": 13,
+                "ap_min": 11,
                 "ap_max": 13,
-                "dp": 2,
+                "dp": 23,
                 "acc": 84,
-                "dr": 2,                "dmgtm": 2
+                "ev": 19,
+                "dr": 4,
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
-                "ap_min": 17,
-                "ap_max": 17,
-                "dp": 3,
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28,
                 "acc": 88,
-                "dr": 3,                "dmgtm": 3
+                "ev": 23,
+                "dr": 5,
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
-                "ap_min": 18,
-                "ap_max": 18,
-                "dp": 4,
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30,
                 "acc": 92,
-                "dr": 4,                "dmgtm": 4
+                "ev": 24,
+                "dr": 6,
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
-                "ap_min": 19,
-                "ap_max": 19,
-                "dp": 5,
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32,
                 "acc": 96,
-                "dr": 5,                "dmgtm": 5
+                "ev": 25,
+                "dr": 7,
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Quitar Shuriken of Crimson Flame"
     },
     "14607": {
-        "ap_min": 3,
+        "ap_min": 1,
         "ap_max": 3,
-        "dp": 0,
+        "dp": 4,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
             "acc": 28,
+            "ev": 2,
+            "dr": 2,
             "adad": 1,
-            "dr": 0,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "acc": 32
+                "dp": 5,
+                "acc": 32,
+                "ev": 3,
+                "hev": 3
             },
             "2": {
-                "acc": 35
+                "dp": 6,
+                "acc": 35,
+                "ev": 4,
+                "hev": 4
             },
             "3": {
-                "acc": 38
+                "dp": 7,
+                "acc": 38,
+                "ev": 5,
+                "hev": 5
             },
             "4": {
-                "acc": 40
+                "dp": 8,
+                "acc": 40,
+                "ev": 6,
+                "hev": 6
             },
             "5": {
-                "acc": 42
+                "dp": 9,
+                "acc": 42,
+                "ev": 7,
+                "hev": 7
             },
             "6": {
-                "acc": 44
+                "dp": 10,
+                "acc": 44,
+                "ev": 8,
+                "hev": 8
             },
             "7": {
-                "acc": 46
+                "dp": 11,
+                "acc": 46,
+                "ev": 9,
+                "hev": 9
             },
             "8": {
-                "ap_min": 4,
+                "ap_min": 2,
                 "ap_max": 4,
-                "acc": 49
+                "dp": 12,
+                "acc": 49,
+                "ev": 10,
+                "hev": 10
             },
             "9": {
-                "ap_min": 5,
+                "ap_min": 3,
                 "ap_max": 5,
-                "acc": 52
+                "dp": 13,
+                "acc": 52,
+                "ev": 11,
+                "hev": 11
             },
             "10": {
-                "ap_min": 6,
+                "ap_min": 4,
                 "ap_max": 6,
-                "acc": 56
+                "dp": 14,
+                "acc": 56,
+                "ev": 12,
+                "hev": 12
             },
             "11": {
-                "ap_min": 7,
+                "ap_min": 5,
                 "ap_max": 7,
-                "acc": 60
+                "dp": 15,
+                "acc": 60,
+                "ev": 13,
+                "hev": 13
             },
             "12": {
-                "ap_min": 8,
+                "ap_min": 6,
                 "ap_max": 8,
-                "acc": 64
+                "dp": 16,
+                "acc": 64,
+                "ev": 14,
+                "hev": 14
             },
             "13": {
-                "ap_min": 9,
+                "ap_min": 7,
                 "ap_max": 9,
-                "acc": 68
+                "dp": 17,
+                "acc": 68,
+                "ev": 15,
+                "hev": 15
             },
             "14": {
-                "ap_min": 10,
+                "ap_min": 8,
                 "ap_max": 10,
-                "acc": 72
+                "dp": 18,
+                "acc": 72,
+                "ev": 16,
+                "hev": 16
             },
             "15": {
-                "ap_min": 11,
+                "ap_min": 9,
                 "ap_max": 11,
-                "acc": 76
+                "dp": 19,
+                "acc": 76,
+                "ev": 17,
+                "hev": 17
             },
             "16": {
-                "ap_min": 12,
+                "ap_min": 10,
                 "ap_max": 12,
-                "dp": 1,
+                "dp": 21,
                 "acc": 80,
-                "dr": 1,                "dmgtm": 1
+                "ev": 18,
+                "dr": 3,
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
-                "ap_min": 13,
+                "ap_min": 11,
                 "ap_max": 13,
-                "dp": 2,
+                "dp": 23,
                 "acc": 84,
-                "dr": 2,                "dmgtm": 2
+                "ev": 19,
+                "dr": 4,
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
-                "ap_min": 17,
-                "ap_max": 17,
-                "dp": 3,
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28,
                 "acc": 88,
-                "dr": 3,                "dmgtm": 3
+                "ev": 23,
+                "dr": 5,
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
-                "ap_min": 18,
-                "ap_max": 18,
-                "dp": 4,
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30,
                 "acc": 92,
-                "dr": 4,                "dmgtm": 4
+                "ev": 24,
+                "dr": 6,
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
-                "ap_min": 19,
-                "ap_max": 19,
-                "dp": 5,
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32,
                 "acc": 96,
-                "dr": 5,                "dmgtm": 5
+                "ev": 25,
+                "dr": 7,
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Quitar Shuriken of Destruction"
     },
     "14608": {
-        "ap_min": 3,
+        "ap_min": 1,
         "ap_max": 3,
-        "dp": 0,
+        "dp": 4,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
             "acc": 28,
+            "ev": 2,
+            "dr": 2,
             "aaad": 1,
-            "dr": 0,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "acc": 32
+                "dp": 5,
+                "acc": 32,
+                "ev": 3,
+                "hev": 3
             },
             "2": {
-                "acc": 35
+                "dp": 6,
+                "acc": 35,
+                "ev": 4,
+                "hev": 4
             },
             "3": {
-                "acc": 38
+                "dp": 7,
+                "acc": 38,
+                "ev": 5,
+                "hev": 5
             },
             "4": {
-                "acc": 40
+                "dp": 8,
+                "acc": 40,
+                "ev": 6,
+                "hev": 6
             },
             "5": {
-                "acc": 42
+                "dp": 9,
+                "acc": 42,
+                "ev": 7,
+                "hev": 7
             },
             "6": {
-                "acc": 44
+                "dp": 10,
+                "acc": 44,
+                "ev": 8,
+                "hev": 8
             },
             "7": {
-                "acc": 46
+                "dp": 11,
+                "acc": 46,
+                "ev": 9,
+                "hev": 9
             },
             "8": {
-                "ap_min": 4,
+                "ap_min": 2,
                 "ap_max": 4,
-                "acc": 49
+                "dp": 12,
+                "acc": 49,
+                "ev": 10,
+                "hev": 10
             },
             "9": {
-                "ap_min": 5,
+                "ap_min": 3,
                 "ap_max": 5,
-                "acc": 52
+                "dp": 13,
+                "acc": 52,
+                "ev": 11,
+                "hev": 11
             },
             "10": {
-                "ap_min": 6,
+                "ap_min": 4,
                 "ap_max": 6,
-                "acc": 56
+                "dp": 14,
+                "acc": 56,
+                "ev": 12,
+                "hev": 12
             },
             "11": {
-                "ap_min": 7,
+                "ap_min": 5,
                 "ap_max": 7,
-                "acc": 60
+                "dp": 15,
+                "acc": 60,
+                "ev": 13,
+                "hev": 13
             },
             "12": {
-                "ap_min": 8,
+                "ap_min": 6,
                 "ap_max": 8,
-                "acc": 64
+                "dp": 16,
+                "acc": 64,
+                "ev": 14,
+                "hev": 14
             },
             "13": {
-                "ap_min": 9,
+                "ap_min": 7,
                 "ap_max": 9,
-                "acc": 68
+                "dp": 17,
+                "acc": 68,
+                "ev": 15,
+                "hev": 15
             },
             "14": {
-                "ap_min": 10,
+                "ap_min": 8,
                 "ap_max": 10,
-                "acc": 72
+                "dp": 18,
+                "acc": 72,
+                "ev": 16,
+                "hev": 16
             },
             "15": {
-                "ap_min": 11,
+                "ap_min": 9,
                 "ap_max": 11,
-                "acc": 76
+                "dp": 19,
+                "acc": 76,
+                "ev": 17,
+                "hev": 17
             },
             "16": {
-                "ap_min": 12,
+                "ap_min": 10,
                 "ap_max": 12,
-                "dp": 1,
+                "dp": 21,
                 "acc": 80,
-                "dr": 1,                "dmgtm": 1
+                "ev": 18,
+                "dr": 3,
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
-                "ap_min": 13,
+                "ap_min": 11,
                 "ap_max": 13,
-                "dp": 2,
+                "dp": 23,
                 "acc": 84,
-                "dr": 2,                "dmgtm": 2
+                "ev": 19,
+                "dr": 4,
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
-                "ap_min": 17,
-                "ap_max": 17,
-                "dp": 3,
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28,
                 "acc": 88,
-                "dr": 3,                "dmgtm": 3
+                "ev": 23,
+                "dr": 5,
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
-                "ap_min": 18,
-                "ap_max": 18,
-                "dp": 4,
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30,
                 "acc": 92,
-                "dr": 4,                "dmgtm": 4
+                "ev": 24,
+                "dr": 6,
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
-                "ap_min": 19,
-                "ap_max": 19,
-                "dp": 5,
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32,
                 "acc": 96,
-                "dr": 5,                "dmgtm": 5
+                "ev": 25,
+                "dr": 7,
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Quitar Shuriken of Temptation"
     },
     "14609": {
-        "ap_min": 3,
+        "ap_min": 1,
         "ap_max": 3,
-        "dp": 0,
+        "dp": 4,
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
             "acc": 28,
+            "ev": 2,
+            "dr": 2,
             "assad": 1,
-            "dr": 0,            "dmgtm": 0
+            "hev": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
             "1": {
-                "acc": 32
+                "dp": 5,
+                "acc": 32,
+                "ev": 3,
+                "hev": 3
             },
             "2": {
-                "acc": 35
+                "dp": 6,
+                "acc": 35,
+                "ev": 4,
+                "hev": 4
             },
             "3": {
-                "acc": 38
+                "dp": 7,
+                "acc": 38,
+                "ev": 5,
+                "hev": 5
             },
             "4": {
-                "acc": 40
+                "dp": 8,
+                "acc": 40,
+                "ev": 6,
+                "hev": 6
             },
             "5": {
-                "acc": 42
+                "dp": 9,
+                "acc": 42,
+                "ev": 7,
+                "hev": 7
             },
             "6": {
-                "acc": 44
+                "dp": 10,
+                "acc": 44,
+                "ev": 8,
+                "hev": 8
             },
             "7": {
-                "acc": 46
+                "dp": 11,
+                "acc": 46,
+                "ev": 9,
+                "hev": 9
             },
             "8": {
-                "ap_min": 4,
+                "ap_min": 2,
                 "ap_max": 4,
-                "acc": 49
+                "dp": 12,
+                "acc": 49,
+                "ev": 10,
+                "hev": 10
             },
             "9": {
-                "ap_min": 5,
+                "ap_min": 3,
                 "ap_max": 5,
-                "acc": 52
+                "dp": 13,
+                "acc": 52,
+                "ev": 11,
+                "hev": 11
             },
             "10": {
-                "ap_min": 6,
+                "ap_min": 4,
                 "ap_max": 6,
-                "acc": 56
+                "dp": 14,
+                "acc": 56,
+                "ev": 12,
+                "hev": 12
             },
             "11": {
-                "ap_min": 7,
+                "ap_min": 5,
                 "ap_max": 7,
-                "acc": 60
+                "dp": 15,
+                "acc": 60,
+                "ev": 13,
+                "hev": 13
             },
             "12": {
-                "ap_min": 8,
+                "ap_min": 6,
                 "ap_max": 8,
-                "acc": 64
+                "dp": 16,
+                "acc": 64,
+                "ev": 14,
+                "hev": 14
             },
             "13": {
-                "ap_min": 9,
+                "ap_min": 7,
                 "ap_max": 9,
-                "acc": 68
+                "dp": 17,
+                "acc": 68,
+                "ev": 15,
+                "hev": 15
             },
             "14": {
-                "ap_min": 10,
+                "ap_min": 8,
                 "ap_max": 10,
-                "acc": 72
+                "dp": 18,
+                "acc": 72,
+                "ev": 16,
+                "hev": 16
             },
             "15": {
-                "ap_min": 11,
+                "ap_min": 9,
                 "ap_max": 11,
-                "acc": 76
+                "dp": 19,
+                "acc": 76,
+                "ev": 17,
+                "hev": 17
             },
             "16": {
-                "ap_min": 12,
+                "ap_min": 10,
                 "ap_max": 12,
-                "dp": 1,
+                "dp": 21,
                 "acc": 80,
-                "dr": 1,                "dmgtm": 1
+                "ev": 18,
+                "dr": 3,
+                "hev": 18,
+                "dmgtm": 1
             },
             "17": {
-                "ap_min": 13,
+                "ap_min": 11,
                 "ap_max": 13,
-                "dp": 2,
+                "dp": 23,
                 "acc": 84,
-                "dr": 2,                "dmgtm": 2
+                "ev": 19,
+                "dr": 4,
+                "hev": 19,
+                "dmgtm": 2
             },
             "18": {
-                "ap_min": 17,
-                "ap_max": 17,
-                "dp": 3,
+                "ap_min": 12,
+                "ap_max": 14,
+                "dp": 28,
                 "acc": 88,
-                "dr": 3,                "dmgtm": 3
+                "ev": 23,
+                "dr": 5,
+                "hev": 23,
+                "dmgtm": 3
             },
             "19": {
-                "ap_min": 18,
-                "ap_max": 18,
-                "dp": 4,
+                "ap_min": 13,
+                "ap_max": 15,
+                "dp": 30,
                 "acc": 92,
-                "dr": 4,                "dmgtm": 4
+                "ev": 24,
+                "dr": 6,
+                "hev": 24,
+                "dmgtm": 4
             },
             "20": {
-                "ap_min": 19,
-                "ap_max": 19,
-                "dp": 5,
+                "ap_min": 14,
+                "ap_max": 16,
+                "dp": 32,
                 "acc": 96,
-                "dr": 5,                "dmgtm": 5
+                "ev": 25,
+                "dr": 7,
+                "hev": 25,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Quitar Shuriken"
     },
     "14610": {
-        "ap_min": 6,
-        "ap_max": 6,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "abad": 1,            "dmgtm": 0
+            "abad": 1,
+            "dmgtm": 0,
+            "dr": 0
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
                 "ap_min": 25,
-                "ap_max": 25,                "dmgtm": 1
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 28,                "dmgtm": 2
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 34,                "dmgtm": 3
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 37,                "dmgtm": 4
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 40,                "dmgtm": 5
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Estique Shuriken of Crimson Flame"
     },
     "14611": {
-        "ap_min": 6,
-        "ap_max": 6,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "adad": 1,            "dmgtm": 0
+            "adad": 1,
+            "dmgtm": 0,
+            "dr": 0
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
                 "ap_min": 25,
-                "ap_max": 25,                "dmgtm": 1
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 28,                "dmgtm": 2
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 34,                "dmgtm": 3
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 37,                "dmgtm": 4
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 40,                "dmgtm": 5
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Estique Shuriken of Destruction"
     },
     "14612": {
-        "ap_min": 6,
-        "ap_max": 6,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "rare",
         "gems": 1,
         "item_effects": {
-            "aaad": 1,            "dmgtm": 0
+            "aaad": 1,
+            "dmgtm": 0,
+            "dr": 0
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
                 "ap_min": 25,
-                "ap_max": 25,                "dmgtm": 1
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 28,                "dmgtm": 2
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 34,                "dmgtm": 3
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 37,                "dmgtm": 4
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 40,                "dmgtm": 5
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Estique Shuriken of Temptation"
     },
     "14613": {
-        "ap_min": 6,
-        "ap_max": 6,
+        "ap_min": 7,
+        "ap_max": 7,
+        "dp": 0,
         "rarity": "epic",
         "gems": 1,
         "item_effects": {
-            "assad": 1,            "dmgtm": 0
+            "assad": 1,
+            "dmgtm": 0,
+            "dr": 0
         },
-        "enhancement_text": "Increased AP",
+        "enhancement_text": "",
         "enhancement": {
             "1": {
-                "ap_min": 7,
-                "ap_max": 7
-            },
-            "2": {
                 "ap_min": 8,
                 "ap_max": 8
             },
-            "3": {
+            "2": {
                 "ap_min": 9,
                 "ap_max": 9
             },
-            "4": {
+            "3": {
                 "ap_min": 10,
                 "ap_max": 10
             },
-            "5": {
+            "4": {
                 "ap_min": 11,
                 "ap_max": 11
             },
-            "6": {
+            "5": {
                 "ap_min": 12,
                 "ap_max": 12
             },
-            "7": {
+            "6": {
                 "ap_min": 13,
                 "ap_max": 13
             },
-            "8": {
+            "7": {
                 "ap_min": 14,
                 "ap_max": 14
             },
-            "9": {
+            "8": {
                 "ap_min": 15,
                 "ap_max": 15
             },
-            "10": {
+            "9": {
                 "ap_min": 16,
                 "ap_max": 16
             },
-            "11": {
+            "10": {
                 "ap_min": 17,
                 "ap_max": 17
             },
-            "12": {
+            "11": {
                 "ap_min": 18,
                 "ap_max": 18
             },
-            "13": {
+            "12": {
                 "ap_min": 19,
                 "ap_max": 19
             },
-            "14": {
+            "13": {
                 "ap_min": 20,
                 "ap_max": 20
             },
-            "15": {
+            "14": {
                 "ap_min": 21,
                 "ap_max": 21
             },
+            "15": {
+                "ap_min": 22,
+                "ap_max": 22
+            },
             "16": {
                 "ap_min": 25,
-                "ap_max": 25,                "dmgtm": 1
+                "ap_max": 25,
+                "dmgtm": 1,
+                "dp": 1,
+                "dr": 1
             },
             "17": {
                 "ap_min": 28,
-                "ap_max": 28,                "dmgtm": 2
+                "ap_max": 28,
+                "dmgtm": 2,
+                "dp": 2,
+                "dr": 2
             },
             "18": {
                 "ap_min": 34,
-                "ap_max": 34,                "dmgtm": 3
+                "ap_max": 34,
+                "dmgtm": 3,
+                "dp": 3,
+                "dr": 3
             },
             "19": {
                 "ap_min": 37,
-                "ap_max": 37,                "dmgtm": 4
+                "ap_max": 37,
+                "dmgtm": 4,
+                "dp": 4,
+                "dr": 4
             },
             "20": {
                 "ap_min": 40,
-                "ap_max": 40,                "dmgtm": 5
+                "ap_max": 40,
+                "dmgtm": 5,
+                "dp": 5,
+                "dr": 5
             }
         },
         "name": "Ultimate Estique Shuriken"
@@ -1189,7 +1600,8 @@
             "dr": 1,
             "hp": 50,
             "abad": 1,
-            "hev": 9,            "dmgtm": 0
+            "hev": 9,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1303,35 +1715,40 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 20,
-                "hev": 60,                "dmgtm": 1
+                "hev": 60,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 22,
-                "hev": 66,                "dmgtm": 2
+                "hev": 66,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 27,
-                "hev": 81,                "dmgtm": 3
+                "hev": 81,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 29,
-                "hev": 87,                "dmgtm": 4
+                "hev": 87,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 31,
-                "hev": 93,                "dmgtm": 5
+                "hev": 93,
+                "dmgtm": 5
             }
         },
         "name": "Tadd Shuriken of Crimson Flame"
@@ -1347,7 +1764,8 @@
             "dr": 1,
             "hp": 50,
             "adad": 1,
-            "hev": 9,            "dmgtm": 0
+            "hev": 9,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1461,35 +1879,40 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 20,
-                "hev": 60,                "dmgtm": 1
+                "hev": 60,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 22,
-                "hev": 66,                "dmgtm": 2
+                "hev": 66,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 27,
-                "hev": 81,                "dmgtm": 3
+                "hev": 81,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 29,
-                "hev": 87,                "dmgtm": 4
+                "hev": 87,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 31,
-                "hev": 93,                "dmgtm": 5
+                "hev": 93,
+                "dmgtm": 5
             }
         },
         "name": "Tadd Shuriken of Destruction"
@@ -1505,7 +1928,8 @@
             "dr": 1,
             "hp": 50,
             "aaad": 1,
-            "hev": 9,            "dmgtm": 0
+            "hev": 9,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1619,35 +2043,40 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 20,
-                "hev": 60,                "dmgtm": 1
+                "hev": 60,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 22,
-                "hev": 66,                "dmgtm": 2
+                "hev": 66,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 27,
-                "hev": 81,                "dmgtm": 3
+                "hev": 81,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 29,
-                "hev": 87,                "dmgtm": 4
+                "hev": 87,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 31,
-                "hev": 93,                "dmgtm": 5
+                "hev": 93,
+                "dmgtm": 5
             }
         },
         "name": "Tadd Shuriken of Temptation"
@@ -1663,7 +2092,8 @@
             "dr": 1,
             "hp": 100,
             "assad": 1,
-            "hev": 9,            "dmgtm": 0
+            "hev": 9,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1777,35 +2207,40 @@
                 "ap_max": 12,
                 "dp": 21,
                 "ev": 20,
-                "hev": 60,                "dmgtm": 1
+                "hev": 60,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 13,
                 "ap_max": 13,
                 "dp": 23,
                 "ev": 22,
-                "hev": 66,                "dmgtm": 2
+                "hev": 66,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 14,
                 "ap_max": 14,
                 "dp": 28,
                 "ev": 27,
-                "hev": 81,                "dmgtm": 3
+                "hev": 81,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 15,
                 "ap_max": 15,
                 "dp": 30,
                 "ev": 29,
-                "hev": 87,                "dmgtm": 4
+                "hev": 87,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 16,
                 "ap_max": 16,
                 "dp": 32,
                 "ev": 31,
-                "hev": 93,                "dmgtm": 5
+                "hev": 93,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Tadd Shuriken"
@@ -1820,7 +2255,8 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -1919,41 +2355,41 @@
                 "ap_min": 10,
                 "ap_max": 12,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Krea Shuriken"
@@ -1968,7 +2404,8 @@
         "item_effects": {
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2081,41 +2518,41 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Shuriken"
@@ -2131,7 +2568,8 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2230,41 +2668,41 @@
                 "ap_min": 10,
                 "ap_max": 12,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Krea Shuriken of Crimson Flame"
@@ -2280,7 +2718,8 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2379,41 +2818,41 @@
                 "ap_min": 10,
                 "ap_max": 12,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Krea Shuriken of Destruction"
@@ -2429,7 +2868,8 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2528,41 +2968,41 @@
                 "ap_min": 10,
                 "ap_max": 12,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Krea Shuriken of Temptation"
@@ -2578,7 +3018,8 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4,            "dmgtm": 0
+            "dr": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2677,41 +3118,41 @@
                 "ap_min": 10,
                 "ap_max": 12,
                 "dp": 23,
-                "ev": 18,
-                "hev": 36,
-                "dr": 5,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 13,
                 "dp": 25,
-                "ev": 19,
-                "hev": 38,
-                "dr": 6,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 14,
                 "dp": 30,
-                "ev": 23,
-                "hev": 46,
-                "dr": 7,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 15,
                 "dp": 32,
-                "ev": 24,
-                "hev": 48,
-                "dr": 8,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 16,
                 "dp": 34,
-                "ev": 25,
-                "hev": 50,
-                "dr": 9,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Krea Shuriken"
@@ -2727,7 +3168,8 @@
             "abad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -2840,41 +3282,41 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Shuriken of Crimson Flame"
@@ -2890,7 +3332,8 @@
             "adad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3003,41 +3446,41 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Shuriken of Destruction"
@@ -3053,7 +3496,8 @@
             "aaad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 2,            "dmgtm": 0
+            "dr": 2,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3166,41 +3610,41 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 21,
-                "ev": 18,
-                "hev": 36,
-                "dr": 3,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 23,
-                "ev": 19,
-                "hev": 38,
-                "dr": 4,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 28,
-                "ev": 23,
-                "hev": 46,
-                "dr": 5,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 30,
-                "ev": 24,
-                "hev": 48,
-                "dr": 6,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 32,
-                "ev": 25,
-                "hev": 50,
-                "dr": 7,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Rosar Shuriken of Temptation"
@@ -3216,7 +3660,8 @@
             "assad": 1,
             "ev": 2,
             "hev": 4,
-            "dr": 4,            "dmgtm": 0
+            "dr": 4,
+            "dmgtm": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3315,41 +3760,41 @@
                 "ap_min": 10,
                 "ap_max": 13,
                 "dp": 23,
-                "ev": 18,
-                "hev": 36,
-                "dr": 5,                "dmgtm": 1
+                "ev": 19,
+                "hev": 38,
+                "dmgtm": 1
             },
             "17": {
                 "ap_min": 11,
                 "ap_max": 14,
                 "dp": 25,
-                "ev": 19,
-                "hev": 38,
-                "dr": 6,                "dmgtm": 2
+                "ev": 21,
+                "hev": 42,
+                "dmgtm": 2
             },
             "18": {
                 "ap_min": 12,
                 "ap_max": 15,
                 "dp": 30,
-                "ev": 23,
-                "hev": 46,
-                "dr": 7,                "dmgtm": 3
+                "ev": 26,
+                "hev": 52,
+                "dmgtm": 3
             },
             "19": {
                 "ap_min": 13,
                 "ap_max": 16,
                 "dp": 32,
-                "ev": 24,
-                "hev": 48,
-                "dr": 8,                "dmgtm": 4
+                "ev": 28,
+                "hev": 56,
+                "dmgtm": 4
             },
             "20": {
                 "ap_min": 14,
                 "ap_max": 17,
                 "dp": 34,
-                "ev": 25,
-                "hev": 50,
-                "dr": 9,                "dmgtm": 5
+                "ev": 30,
+                "hev": 60,
+                "dmgtm": 5
             }
         },
         "name": "Ultimate Rosar Shuriken"
@@ -3357,13 +3802,16 @@
     "14638": {
         "ap_min": 6,
         "ap_max": 8,
+        "dp": 0,
         "rarity": "epic",
         "gems": 2,
         "item_effects": {
             "kb": 10,
             "kd": 10,
             "ssfr": 10,
-            "gr": 10,            "dmgtm": 0
+            "gr": 10,
+            "dmgtm": 0,
+            "dr": 0
         },
         "enhancement_text": "",
         "enhancement": {
@@ -3429,23 +3877,38 @@
             },
             "16": {
                 "ap_min": 29,
-                "ap_max": 31,                "dmgtm": 1
+                "ap_max": 31,
+                "dmgtm": 1,
+                "dp": 3,
+                "dr": 3
             },
             "17": {
                 "ap_min": 32,
-                "ap_max": 34,                "dmgtm": 2
+                "ap_max": 34,
+                "dmgtm": 2,
+                "dp": 4,
+                "dr": 4
             },
             "18": {
                 "ap_min": 38,
-                "ap_max": 40,                "dmgtm": 3
+                "ap_max": 40,
+                "dmgtm": 3,
+                "dp": 5,
+                "dr": 5
             },
             "19": {
                 "ap_min": 41,
-                "ap_max": 43,                "dmgtm": 4
+                "ap_max": 43,
+                "dmgtm": 4,
+                "dp": 6,
+                "dr": 6
             },
             "20": {
                 "ap_min": 44,
-                "ap_max": 46,                "dmgtm": 5
+                "ap_max": 46,
+                "dmgtm": 5,
+                "dp": 7,
+                "dr": 7
             }
         },
         "name": "Nouver Shuriken"
@@ -3505,141 +3968,135 @@
             "7": {
                 "ap_min": 11,
                 "ap_max": 13,
-                "dp": 5,
-                "ev": 2,
-                "dr": 3,
                 "acc": 4,
                 "dmgtm": 12
             },
             "8": {
                 "ap_min": 12,
                 "ap_max": 14,
-                "dp": 6,
+                "dp": 5,
                 "ev": 3,
                 "hev": 9,
-                "dr": 3,
                 "acc": 5,
                 "dmgtm": 13
             },
             "9": {
                 "ap_min": 13,
                 "ap_max": 15,
-                "dp": 7,
+                "dp": 5,
                 "ev": 3,
-                "hev": 6,
-                "dr": 4,
+                "hev": 9,
                 "acc": 5,
                 "dmgtm": 14
             },
             "10": {
                 "ap_min": 14,
                 "ap_max": 16,
-                "dp": 8,
+                "dp": 6,
                 "ev": 4,
                 "hev": 12,
-                "dr": 4,
                 "acc": 6,
                 "dmgtm": 15
             },
             "11": {
                 "ap_min": 15,
                 "ap_max": 17,
-                "dp": 9,
+                "dp": 7,
                 "ev": 4,
                 "hev": 12,
-                "dr": 5,
+                "dr": 3,
                 "acc": 6,
                 "dmgtm": 16
             },
             "12": {
                 "ap_min": 16,
                 "ap_max": 18,
-                "dp": 10,
+                "dp": 8,
                 "ev": 5,
                 "hev": 15,
-                "dr": 5,
+                "dr": 3,
                 "acc": 7,
                 "dmgtm": 17
             },
             "13": {
                 "ap_min": 17,
                 "ap_max": 19,
-                "dp": 11,
+                "dp": 8,
                 "ev": 5,
                 "hev": 15,
-                "dr": 6,
+                "dr": 3,
                 "acc": 7,
                 "dmgtm": 18
             },
             "14": {
                 "ap_min": 18,
                 "ap_max": 20,
-                "dp": 12,
+                "dp": 9,
                 "ev": 6,
                 "hev": 18,
-                "dr": 6,
+                "dr": 3,
                 "acc": 8,
                 "dmgtm": 19
             },
             "15": {
                 "ap_min": 19,
                 "ap_max": 21,
-                "dp": 13,
+                "dp": 9,
                 "ev": 6,
                 "hev": 18,
-                "dr": 7,
+                "dr": 3,
                 "acc": 8,
                 "dmgtm": 20
             },
             "16": {
-                "ap_min": 20,
-                "ap_max": 22,
-                "dp": 15,
-                "ev": 7,
-                "hev": 21,
-                "dr": 8,
-                "acc": 9,
-                "dmgtm": 23
-            },
-            "17": {
                 "ap_min": 21,
                 "ap_max": 23,
-                "dp": 17,
+                "dp": 10,
+                "ev": 7,
+                "hev": 21,
+                "dr": 3,
+                "acc": 9,
+                "dmgtm": 28
+            },
+            "17": {
+                "ap_min": 23,
+                "ap_max": 25,
+                "dp": 12,
                 "ev": 8,
                 "hev": 24,
-                "dr": 8,
+                "dr": 4,
                 "acc": 10,
-                "dmgtm": 26
+                "dmgtm": 33
             },
             "18": {
-                "ap_min": 24,
-                "ap_max": 26,
-                "dp": 20,
+                "ap_min": 27,
+                "ap_max": 29,
+                "dp": 15,
                 "ev": 9,
                 "hev": 27,
-                "dr": 11,
+                "dr": 6,
                 "acc": 11,
-                "dmgtm": 34
+                "dmgtm": 43
             },
             "19": {
-                "ap_min": 25,
-                "ap_max": 27,
-                "dp": 22,
+                "ap_min": 29,
+                "ap_max": 31,
+                "dp": 17,
                 "ev": 10,
                 "hev": 30,
-                "dr": 12,
+                "dr": 7,
                 "acc": 12,
-                "dmgtm": 45
+                "dmgtm": 58
             },
             "20": {
-                "ap_min": 26,
-                "ap_max": 28,
-                "dp": 24,
+                "ap_min": 31,
+                "ap_max": 33,
+                "dp": 19,
                 "ev": 11,
                 "hev": 33,
-                "dr": 13,
+                "dr": 8,
                 "acc": 13,
-                "dmgtm": 59
+                "dmgtm": 62
             }
         },
         "name": "Kutum Shuriken"
