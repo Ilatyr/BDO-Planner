@@ -6272,5 +6272,148 @@
             }
         },
         "name": "Ultimate Ain Axe"
+    },
+    "10686": {
+        "ap_min": 22,
+        "ap_max": 22,
+        "rarity": "epic",
+        "gems": 2,
+        "item_effects": {
+            "chr": 2,
+            "as": 2,
+            "cs": 2,
+            "acc": 7,
+            "dmgaes": 10,
+            "dmgtm": 0
+        },
+        "enhancement_text": "",
+        "enhancement": {
+            "1": {
+                "ap_min": 26,
+                "ap_max": 26,
+                "acc": 12,
+                "dmgaes": 10
+            },
+            "2": {
+                "ap_min": 29,
+                "ap_max": 29,
+                "acc": 17,
+                "dmgaes": 10
+            },
+            "3": {
+                "ap_min": 32,
+                "ap_max": 32,
+                "acc": 22,
+                "dmgaes": 10
+            },
+            "4": {
+                "ap_min": 34,
+                "ap_max": 34,
+                "acc": 32,
+                "dmgaes": 10
+            },
+            "5": {
+                "ap_min": 36,
+                "ap_max": 36,
+                "acc": 42,
+                "dmgaes": 10
+            },
+            "6": {
+                "ap_min": 39,
+                "ap_max": 39,
+                "acc": 52,
+                "dmgaes": 10
+            },
+            "7": {
+                "ap_min": 42,
+                "ap_max": 42,
+                "acc": 62,
+                "dmgaes": 10
+            },
+            "8": {
+                "ap_min": 47,
+                "ap_max": 47,
+                "acc": 72,
+                "dmgaes": 10
+            },
+            "9": {
+                "ap_min": 52,
+                "ap_max": 52,
+                "acc": 82,
+                "dmgaes": 10
+            },
+            "10": {
+                "ap_min": 57,
+                "ap_max": 57,
+                "acc": 92,
+                "dmgaes": 10
+            },
+            "11": {
+                "ap_min": 62,
+                "ap_max": 62,
+                "acc": 102,
+                "dmgaes": 11
+            },
+            "12": {
+                "ap_min": 67,
+                "ap_max": 67,
+                "acc": 112,
+                "dmgaes": 12
+            },
+            "13": {
+                "ap_min": 72,
+                "ap_max": 72,
+                "acc": 122,
+                "dmgaes": 13
+            },
+            "14": {
+                "ap_min": 77,
+                "ap_max": 77,
+                "acc": 132,
+                "dmgaes": 14
+            },
+            "15": {
+                "ap_min": 82,
+                "ap_max": 82,
+                "acc": 142,
+                "dmgaes": 15
+            },
+            "16": {
+                "ap_min": 90,
+                "ap_max": 90,
+                "acc": 150,
+                "dmgaes": 16,
+                "dmgtm": 1
+            },
+            "17": {
+                "ap_min": 98,
+                "ap_max": 98,
+                "acc": 152,
+                "dmgaes": 17,
+                "dmgtm": 3
+            },
+            "18": {
+                "ap_min": 110,
+                "ap_max": 110,
+                "acc": 166,
+                "dmgaes": 18,
+                "dmgtm": 6
+            },
+            "19": {
+                "ap_min": 118,
+                "ap_max": 118,
+                "acc": 174,
+                "dmgaes": 19,
+                "dmgtm": 10
+            },
+            "20": {
+                "ap_min": 126,
+                "ap_max": 126,
+                "acc": 182,
+                "dmgaes": 20,
+                "dmgtm": 15
+            }
+        },
+        "name": "Offin Tett's Radiant Axe"
     }
 }
