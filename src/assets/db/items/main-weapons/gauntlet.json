@@ -6281,7 +6281,6 @@
         "item_effects": {
             "chr": 2,
             "as": 2,
-            "cs": 2,
             "acc": 7,
             "dmgaes": 10,
             "dmgtm": 0
