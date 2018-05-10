@@ -4,46 +4,52 @@
  */
 
 var CalcConfig = {
-    newVersion: false,
-    configDefault: {
-        latestVersion: {
-            major: 1,
-            minor: 4,
-            revision: 0
-        },
-        compact_item_modals: false
+  newVersion: false,
+  configDefault: {
+    latestVersion: {
+      major: 1,
+      minor: 4,
+      revision: 1
     },
-    config: {},
-    
-    readConfig: function (callback) {
-        var configCookies = Cookies.getJSON('UserConfig') || {};
-        if (Object.keys(configCookies).length === 0) { // No cookie loaded
-            this.newVersion = true;
-        }
-        $.extend(this.config, this.configDefault, configCookies);
-        this.saveConfig();
+    compact_item_modals: false
+  },
+  config: {},
 
-        if ((this.config.latestVersion.major < this.configDefault.latestVersion.major) || (this.config.latestVersion.minor < this.configDefault.latestVersion.minor)) {
-            this.newVersion = true;
-            
-            this.config.latestVersion = JSON.parse(JSON.stringify(this.configDefault.latestVersion));
-            
-            this.saveConfig();
-        }
-        
-        callback();
-    },
-    
-    saveConfig: function () {
-        Cookies.set(
-            "UserConfig",
-            this.config,
-            { expires: 365 }
-        );
-    },
-    
-    change: function (option, state) {
-        this.config[option] = state;
-        this.saveConfig();
+  readConfig: function(callback) {
+    var configCookies = Cookies.getJSON("UserConfig") || {};
+    if (Object.keys(configCookies).length === 0) {
+      // No cookie loaded
+      this.newVersion = true;
     }
+    $.extend(this.config, this.configDefault, configCookies);
+    this.saveConfig();
+
+    if (
+      this.config.latestVersion.major <
+        this.configDefault.latestVersion.major ||
+      this.config.latestVersion.minor <
+        this.configDefault.latestVersion.minor ||
+      this.config.latestVersion.revision <
+        this.configDefault.latestVersion.revision
+    ) {
+      this.newVersion = true;
+
+      this.config.latestVersion = JSON.parse(
+        JSON.stringify(this.configDefault.latestVersion)
+      );
+
+      this.saveConfig();
+    }
+
+    callback();
+  },
+
+  saveConfig: function() {
+    Cookies.set("UserConfig", this.config, { expires: 365 });
+  },
+
+  change: function(option, state) {
+    this.config[option] = state;
+    this.saveConfig();
+  }
 };

@@ -2,7 +2,7 @@
     include $_SERVER['DOCUMENT_ROOT'].'/php/inline/get_full_link.php';
     $__version_major = 1;
     $__version_minor = 4;
-    $__version_revision = 0;
+    $__version_revision = 1;
     $__vr_str = "?".$__version_major.$__version_minor.$__version_revision;
 ?>
 <!DOCTYPE html>
@@ -406,7 +406,14 @@
                     <div class="modal-body">
                         <div class="row">
                             <div class="col-md-12">
-                                <h1>Changes</h1>
+                                <h1>BDO Planner V2 Beta Test</h1>
+                                <p>
+                                    V2 of BDO Planner is now officially going into Beta.
+                                </p>
+                                <p>
+                                    If you're interested in joining the test then head to our Discord (<a href="https://discord.me/bdoplanner" target="_blank">discord.me/bdoplanner</a>) and check the announcements section for more details.
+                                </p>
+                                <!-- <h1>Changes</h1>
 
                                 <ul>
                                     <li>The IDs that were used for some Ultimate Awakening weapons have been corrected. Saved short links have been updated accordingly, but any saved long links will break if they used those items.</li>
@@ -421,7 +428,7 @@
 
                                 <p><em>
                                     Patch notes can be found <a href="https://github.com/Ihellmasker/BDO-Planner/blob/master/CHANGELOG.md">here</a>
-                                </em></p>
+                                </em></p> -->
                             </div>
                         </div>
                     </div>
